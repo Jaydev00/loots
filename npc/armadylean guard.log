@@ -30,3 +30,4 @@
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Coins","id":995,"quantity":35,"price":1}],"date":"Nov 7, 2022, 8:43:20 PM"}
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Coal","id":453,"quantity":1,"price":153}],"date":"Nov 7, 2022, 8:46:45 PM"}
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":73},{"name":"Headless arrow","id":53,"quantity":30,"price":7}],"date":"Nov 10, 2022, 9:30:25 AM"}
+{"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Cosmic rune","id":564,"quantity":20,"price":113}],"date":"Nov 17, 2022, 11:27:53 AM"}
