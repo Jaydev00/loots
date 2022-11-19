@@ -199,3 +199,4 @@
 {"name":"Hellhound","level":127,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":621}],"date":"Aug 8, 2022, 9:54:01 PM"}
 {"name":"Hellhound","level":127,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":628}],"date":"Aug 9, 2022, 10:24:17 AM"}
 {"name":"Hellhound","level":122,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":501},{"name":"Clue scroll (elite)","id":12080,"quantity":1,"price":0}],"date":"Sep 16, 2022, 5:29:54 PM"}
+{"name":"Hellhound","level":122,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":597},{"name":"Clue scroll (elite)","id":12120,"quantity":1,"price":0}],"date":"Nov 18, 2022, 4:06:30 PM"}
