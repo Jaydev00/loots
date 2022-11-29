@@ -406,3 +406,4 @@
 {"name":"Aberrant spectre","level":96,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":20}],"date":"Aug 30, 2022, 10:16:02 PM"}
 {"name":"Aberrant spectre","level":96,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy dwarf weed","id":217,"quantity":1,"price":824},{"name":"Grimy marrentill","id":201,"quantity":1,"price":20}],"date":"Aug 30, 2022, 10:16:33 PM"}
 {"name":"Aberrant spectre","level":96,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (elite)","id":12081,"quantity":1,"price":0},{"name":"Grimy lantadyme","id":2485,"quantity":1,"price":1327}],"date":"Oct 31, 2022, 1:21:38 PM"}
+{"name":"Aberrant spectre","level":96,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (elite)","id":25787,"quantity":1,"price":0}],"date":"Nov 28, 2022, 1:08:53 PM"}

@@ -34,3 +34,4 @@
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":35,"price":1}],"date":"Nov 18, 2022, 4:10:30 PM"}
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":350,"price":1}],"date":"Nov 18, 2022, 8:18:00 PM"}
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":254}],"date":"Nov 18, 2022, 8:21:59 PM"}
+{"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Coal","id":453,"quantity":1,"price":171}],"date":"Nov 28, 2022, 1:10:28 PM"}
