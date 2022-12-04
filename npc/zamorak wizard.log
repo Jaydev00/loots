@@ -68,3 +68,4 @@
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":81},{"name":"Earth battlestaff","id":1399,"quantity":1,"price":8998}],"date":"Nov 1, 2022, 4:29:40 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":81}],"date":"Nov 1, 2022, 4:35:29 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":81},{"name":"Blood rune","id":565,"quantity":8,"price":225}],"date":"Nov 1, 2022, 4:39:34 PM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":73},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Dec 3, 2022, 1:28:33 AM"}
