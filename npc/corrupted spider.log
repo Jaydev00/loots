@@ -1,3 +1,5 @@
 {"name":"Corrupted Spider","level":32,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":18,"price":0},{"name":"Weapon frame","id":23834,"quantity":1,"price":0}],"date":"Oct 28, 2022, 11:18:38 AM"}
 {"name":"Corrupted Spider","level":32,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":28,"price":0}],"date":"Nov 1, 2022, 7:18:53 PM"}
 {"name":"Corrupted Spider","level":32,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":14,"price":0},{"name":"Weapon frame","id":23834,"quantity":1,"price":0}],"date":"Nov 6, 2022, 9:42:54 AM"}
+{"name":"Corrupted Spider","level":32,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":24,"price":0}],"date":"Dec 4, 2022, 11:25:40 PM"}
+{"name":"Corrupted Spider","level":32,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":16,"price":0},{"name":"Grym leaf","id":23835,"quantity":1,"price":0},{"name":"Weapon frame","id":23834,"quantity":1,"price":0}],"date":"Dec 4, 2022, 11:48:45 PM"}
