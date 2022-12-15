@@ -86,3 +86,5 @@
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Earth rune","id":557,"quantity":86,"price":4}],"date":"Oct 26, 2022, 1:51:48 PM"}
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":81},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Nov 1, 2022, 4:05:49 PM"}
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Dec 6, 2022, 11:40:11 AM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Dec 6, 2022, 2:19:52 PM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Dec 6, 2022, 2:20:24 PM"}
