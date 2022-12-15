@@ -92,3 +92,4 @@
 {"name":"Gorak","level":149,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":212}],"date":"Aug 9, 2022, 7:21:25 PM"}
 {"name":"Gorak","level":149,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":212},{"name":"Gorak claws","id":9016,"quantity":1,"price":0},{"name":"Uncut emerald","id":1621,"quantity":1,"price":529}],"date":"Aug 9, 2022, 7:24:31 PM"}
 {"name":"Gorak","level":149,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":250},{"name":"Uncut ruby","id":1619,"quantity":1,"price":1052}],"date":"Aug 28, 2022, 1:32:45 PM"}
+{"name":"Gorak","level":149,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":192},{"name":"Gorak claws","id":9016,"quantity":1,"price":0},{"name":"Uncut emerald","id":1621,"quantity":1,"price":508}],"date":"Dec 14, 2022, 11:14:45 PM"}
