@@ -107,3 +107,5 @@
 {"name":"Bloodveld","level":81,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":621},{"name":"Coins","id":995,"quantity":120,"price":1}],"date":"Aug 9, 2022, 7:03:13 PM"}
 {"name":"Bloodveld","level":81,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":621},{"name":"Coins","id":995,"quantity":120,"price":1}],"date":"Aug 9, 2022, 7:35:58 PM"}
 {"name":"Bloodveld","level":81,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":621},{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Big bones","id":532,"quantity":1,"price":219}],"date":"Aug 9, 2022, 7:37:54 PM"}
+{"name":"Bloodveld","level":81,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":672},{"name":"Coins","id":995,"quantity":40,"price":1}],"date":"Dec 22, 2022, 9:57:37 PM"}
+{"name":"Bloodveld","level":81,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":665},{"name":"Blood rune","id":565,"quantity":10,"price":203}],"date":"Dec 27, 2022, 7:41:28 PM"}

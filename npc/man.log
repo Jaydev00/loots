@@ -25,3 +25,4 @@
 {"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":64},{"name":"Coins","id":995,"quantity":3,"price":1}],"date":"Oct 6, 2022, 1:31:03 PM"}
 {"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Clue scroll (easy)","id":12185,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":3,"price":1}],"date":"Oct 29, 2022, 4:15:12 PM"}
 {"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Dec 18, 2022, 9:43:21 PM"}
+{"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74}],"date":"Dec 19, 2022, 3:37:15 PM"}

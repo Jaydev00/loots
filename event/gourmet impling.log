@@ -28,3 +28,5 @@
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Curry","id":2011,"quantity":1,"price":786}],"date":"Sep 7, 2022, 11:51:52 AM"}
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Bass","id":365,"quantity":1,"price":114}],"date":"Sep 16, 2022, 11:08:30 PM"}
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Tuna","id":361,"quantity":1,"price":92}],"date":"Sep 27, 2022, 5:07:18 PM"}
+{"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Tuna","id":361,"quantity":1,"price":112}],"date":"Dec 19, 2022, 5:04:41 PM"}
+{"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Chocolate cake","id":1897,"quantity":1,"price":190}],"date":"Jan 2, 2023, 2:18:21 PM"}

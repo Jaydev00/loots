@@ -5,3 +5,5 @@
 {"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":69},{"name":"Coins","id":995,"quantity":12,"price":1}],"date":"Sep 20, 2022, 12:32:08 PM"}
 {"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Cabbage seed","id":5324,"quantity":4,"price":1}],"date":"Nov 30, 2022, 5:35:45 PM"}
 {"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Onion seed","id":5319,"quantity":4,"price":1}],"date":"Dec 15, 2022, 11:15:48 PM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Steel arrow","id":886,"quantity":1,"price":7}],"date":"Dec 29, 2022, 2:47:34 AM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Potato seed","id":5318,"quantity":4,"price":1}],"date":"Dec 29, 2022, 2:47:38 AM"}

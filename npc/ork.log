@@ -2,3 +2,4 @@
 {"name":"Ork","level":107,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Iron longsword","id":1293,"quantity":1,"price":107}],"date":"Dec 14, 2022, 10:27:58 PM"}
 {"name":"Ork","level":107,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Bronze platelegs","id":1075,"quantity":1,"price":139}],"date":"Dec 14, 2022, 10:41:09 PM"}
 {"name":"Ork","level":107,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Iron scimitar","id":1323,"quantity":1,"price":69}],"date":"Dec 14, 2022, 10:48:34 PM"}
+{"name":"Ork","level":107,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":5,"price":1}],"date":"Dec 21, 2022, 11:17:04 PM"}

@@ -88,3 +88,10 @@
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Dec 6, 2022, 11:40:11 AM"}
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Dec 6, 2022, 2:19:52 PM"}
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Dec 6, 2022, 2:20:24 PM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77}],"date":"Dec 22, 2022, 7:47:00 PM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Nature rune","id":561,"quantity":30,"price":116}],"date":"Dec 24, 2022, 2:39:41 AM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Dec 24, 2022, 2:41:05 AM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Law rune","id":563,"quantity":10,"price":121}],"date":"Dec 24, 2022, 2:41:53 AM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Dec 28, 2022, 2:23:41 PM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Dec 28, 2022, 9:14:41 PM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Dec 28, 2022, 9:15:58 PM"}

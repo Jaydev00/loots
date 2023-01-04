@@ -28,3 +28,9 @@
 {"name":"Ancient Wizard","level":112,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Grimy tarromin","id":203,"quantity":1,"price":78}],"date":"Aug 30, 2022, 12:28:50 PM"}
 {"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Pure essence","id":7937,"quantity":25,"price":2}],"date":"Aug 30, 2022, 12:29:08 PM"}
 {"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Potato seed","id":5318,"quantity":3,"price":1}],"date":"Aug 30, 2022, 12:29:21 PM"}
+{"name":"Ancient Wizard","level":112,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Coins","id":995,"quantity":174,"price":1}],"date":"Dec 22, 2022, 7:54:36 PM"}
+{"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Death rune","id":560,"quantity":6,"price":157}],"date":"Dec 22, 2022, 7:54:58 PM"}
+{"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Staff of fire","id":1387,"quantity":1,"price":1576}],"date":"Dec 22, 2022, 7:55:07 PM"}
+{"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Fire rune","id":554,"quantity":23,"price":6}],"date":"Dec 22, 2022, 9:32:37 PM"}
+{"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Air rune","id":556,"quantity":5,"price":5}],"date":"Dec 22, 2022, 9:32:49 PM"}
+{"name":"Ancient Wizard","level":112,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Coins","id":995,"quantity":58,"price":1}],"date":"Dec 22, 2022, 9:32:59 PM"}
