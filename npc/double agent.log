@@ -62,4 +62,6 @@
 {"name":"Double agent","level":141,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Dec 29, 2022, 2:45:02 AM"}
 {"name":"Double agent","level":141,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":70}],"date":"Dec 31, 2022, 12:05:23 PM"}
 {"name":"Double agent","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":71}],"date":"Jan 3, 2023, 6:43:18 PM"}
+{"name":"Double agent","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Jan 9, 2023, 12:18:05 AM"}
+{"name":"Double agent","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Jan 9, 2023, 12:23:45 AM"}
 {"name":"Double agent","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74}],"date":"Jan 6, 2023, 3:15:07 PM"}

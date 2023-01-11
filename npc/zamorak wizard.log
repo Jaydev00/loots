@@ -77,3 +77,7 @@
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Water rune","id":555,"quantity":146,"price":5}],"date":"Dec 27, 2022, 2:34:11 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Dec 28, 2022, 9:12:25 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":71},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Jan 3, 2023, 6:41:39 PM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Water rune","id":555,"quantity":146,"price":6}],"date":"Jan 6, 2023, 9:26:13 PM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Jan 6, 2023, 9:31:26 PM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Zamorak monk top","id":1035,"quantity":1,"price":1549}],"date":"Jan 8, 2023, 3:01:30 PM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Jan 9, 2023, 12:29:58 AM"}
