@@ -192,3 +192,7 @@
 {"name":"Kraken","level":291,"killCount":698,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":347}],"date":"Aug 29, 2022, 11:11:33 AM"}
 {"name":"Kraken","level":291,"killCount":699,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":178}],"date":"Aug 29, 2022, 11:13:22 AM"}
 {"name":"Kraken","level":291,"killCount":700,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":178}],"date":"Aug 29, 2022, 11:14:34 AM"}
+{"name":"Kraken","level":291,"killCount":701,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":16700,"price":1}],"date":"Jan 10, 2023, 4:29:08 PM"}
+{"name":"Kraken","level":291,"killCount":702,"type":"NPC","drops":[{"name":"Unpowered orb","id":568,"quantity":50,"price":111}],"date":"Jan 10, 2023, 4:29:58 PM"}
+{"name":"Kraken","level":291,"killCount":703,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":212}],"date":"Jan 10, 2023, 4:30:56 PM"}
+{"name":"Kraken","level":291,"killCount":704,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":41118},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":41118}],"date":"Jan 10, 2023, 4:31:48 PM"}
