@@ -1261,3 +1261,13 @@
 {"name":"Goblin","level":13,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":5,"price":1}],"date":"Dec 29, 2022, 12:25:27 AM"}
 {"name":"Goblin","level":17,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Hammer","id":2347,"quantity":1,"price":45}],"date":"Dec 29, 2022, 12:25:33 AM"}
 {"name":"Goblin","level":12,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Bronze axe","id":1351,"quantity":1,"price":73}],"date":"Dec 29, 2022, 12:25:36 AM"}
+{"name":"Goblin","level":13,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":1,"price":1}],"date":"Jan 11, 2023, 10:01:55 AM"}
+{"name":"Goblin","level":15,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Hammer","id":2347,"quantity":1,"price":47}],"date":"Jan 11, 2023, 10:02:05 AM"}
+{"name":"Goblin","level":15,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":1,"price":1}],"date":"Jan 11, 2023, 10:02:49 AM"}
+{"name":"Goblin","level":15,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Bronze axe","id":1351,"quantity":1,"price":70}],"date":"Jan 11, 2023, 10:04:11 AM"}
+{"name":"Goblin","level":13,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Hammer","id":2347,"quantity":1,"price":47}],"date":"Jan 11, 2023, 10:05:48 AM"}
+{"name":"Goblin","level":15,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":1,"price":1}],"date":"Jan 11, 2023, 10:05:56 AM"}
+{"name":"Goblin","level":15,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Hammer","id":2347,"quantity":1,"price":47}],"date":"Jan 11, 2023, 10:06:45 AM"}
+{"name":"Goblin","level":15,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":3,"price":1}],"date":"Jan 11, 2023, 10:08:47 AM"}
+{"name":"Goblin","level":15,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Ecumenical key","id":11942,"quantity":1,"price":0},{"name":"Bronze javelin","id":825,"quantity":5,"price":1}],"date":"Jan 11, 2023, 10:09:35 AM"}
+{"name":"Goblin","level":15,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Goblin mail","id":288,"quantity":1,"price":512}],"date":"Jan 11, 2023, 10:10:20 AM"}

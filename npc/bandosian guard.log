@@ -29,3 +29,4 @@
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Grimy kwuarm","id":213,"quantity":1,"price":2568}],"date":"Nov 28, 2022, 1:06:13 PM"}
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coal","id":453,"quantity":1,"price":166}],"date":"Dec 27, 2022, 11:55:27 PM"}
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":71},{"name":"Coal","id":453,"quantity":1,"price":163}],"date":"Jan 3, 2023, 2:01:52 PM"}
+{"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":247}],"date":"Jan 10, 2023, 7:48:46 PM"}

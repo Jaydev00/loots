@@ -121,3 +121,5 @@
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Dec 29, 2022, 12:18:15 AM"}
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1121}],"date":"Dec 29, 2022, 12:18:40 AM"}
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":66,"price":80}],"date":"Dec 29, 2022, 12:19:12 AM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":74}],"date":"Jan 11, 2023, 10:05:29 AM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":5}],"date":"Jan 11, 2023, 10:11:35 AM"}
