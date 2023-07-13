@@ -1544,3 +1544,116 @@
 {"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient shard","id":19677,"quantity":1,"price":0},{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"Jan 10, 2023, 8:36:04 PM"}
 {"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"Jan 10, 2023, 8:36:07 PM"}
 {"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":7}],"date":"Jan 10, 2023, 8:36:10 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Dust rune","id":4696,"quantity":200,"price":6}],"date":"Feb 10, 2023, 9:16:21 AM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Black d\u0027hide vambraces","id":2491,"quantity":1,"price":2217}],"date":"May 22, 2023, 2:54:39 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant axe","id":1357,"quantity":1,"price":499},{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5764}],"date":"May 22, 2023, 2:54:42 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 2:54:51 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 2:55:00 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mystic air staff","id":1405,"quantity":1,"price":25203},{"name":"Grimy harralander","id":205,"quantity":1,"price":470}],"date":"May 22, 2023, 2:55:39 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy harralander","id":205,"quantity":1,"price":470},{"name":"Rune arrow","id":892,"quantity":12,"price":104}],"date":"May 22, 2023, 2:55:42 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":10,"price":682}],"date":"May 22, 2023, 2:55:45 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 2:55:48 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268}],"date":"May 22, 2023, 2:55:51 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":10,"price":682}],"date":"May 22, 2023, 2:56:30 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":37}],"date":"May 22, 2023, 2:56:36 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":478},{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 2:56:39 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 2:56:42 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Rune dagger","id":1213,"quantity":1,"price":4408}],"date":"May 22, 2023, 2:56:48 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":2851},{"name":"Grimy marrentill","id":201,"quantity":1,"price":37},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":62}],"date":"May 22, 2023, 2:57:28 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant axe","id":1357,"quantity":1,"price":499},{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 2:57:32 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant axe","id":1357,"quantity":1,"price":499}],"date":"May 22, 2023, 2:57:34 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":20,"price":260}],"date":"May 22, 2023, 2:57:37 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Air battlestaff","id":1397,"quantity":1,"price":9001}],"date":"May 22, 2023, 2:58:21 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268},{"name":"Earth rune","id":557,"quantity":300,"price":5},{"name":"Chaos rune","id":562,"quantity":80,"price":68},{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 2:58:27 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 2:58:33 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":4,"price":1868}],"date":"May 22, 2023, 2:59:13 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5},{"name":"Grimy harralander","id":205,"quantity":1,"price":470}],"date":"May 22, 2023, 2:59:16 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5},{"name":"Rune arrow","id":892,"quantity":12,"price":104}],"date":"May 22, 2023, 2:59:22 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":10,"price":682}],"date":"May 22, 2023, 3:00:02 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":10,"price":682},{"name":"Grimy marrentill","id":201,"quantity":1,"price":37},{"name":"Air battlestaff","id":1397,"quantity":1,"price":9001}],"date":"May 22, 2023, 3:00:05 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Ugthanki kebab","id":1885,"quantity":1,"price":492},{"name":"Ugthanki kebab","id":1885,"quantity":1,"price":492},{"name":"Ugthanki kebab","id":1885,"quantity":1,"price":492},{"name":"Ugthanki kebab","id":1885,"quantity":1,"price":492}],"date":"May 22, 2023, 3:00:08 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Tooth half of key","id":985,"quantity":1,"price":9888}],"date":"May 22, 2023, 3:00:12 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":50,"price":5}],"date":"May 22, 2023, 3:00:15 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Black d\u0027hide vambraces","id":2491,"quantity":1,"price":2217},{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:01:07 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":130},{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5764}],"date":"May 22, 2023, 3:01:10 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant axe","id":1357,"quantity":1,"price":499},{"name":"Fire rune","id":554,"quantity":300,"price":5},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":62}],"date":"May 22, 2023, 3:01:13 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":10,"price":682}],"date":"May 22, 2023, 3:01:52 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":37}],"date":"May 22, 2023, 3:01:58 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268}],"date":"May 22, 2023, 3:02:07 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":20,"price":260}],"date":"May 22, 2023, 3:02:49 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":62}],"date":"May 22, 2023, 3:02:52 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68}],"date":"May 22, 2023, 3:02:52 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":37},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":62}],"date":"May 22, 2023, 3:02:55 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:03:42 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mystic earth staff","id":1407,"quantity":1,"price":25140},{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:03:45 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant axe","id":1357,"quantity":1,"price":499}],"date":"May 22, 2023, 3:03:45 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":130}],"date":"May 22, 2023, 3:03:48 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy irit leaf","id":209,"quantity":1,"price":936}],"date":"May 22, 2023, 3:03:51 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient shard","id":19677,"quantity":1,"price":0},{"name":"Uncut emerald","id":1621,"quantity":1,"price":478}],"date":"May 22, 2023, 3:03:54 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:05:10 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 3:05:13 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 3:05:13 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7},{"name":"Chaos rune","id":562,"quantity":80,"price":68}],"date":"May 22, 2023, 3:05:16 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68}],"date":"May 22, 2023, 3:05:19 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":50,"price":5}],"date":"May 22, 2023, 3:05:22 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":130}],"date":"May 22, 2023, 3:06:01 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:06:04 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant axe","id":1357,"quantity":1,"price":499},{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 3:06:07 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268},{"name":"Nature talisman","id":1462,"quantity":1,"price":163}],"date":"May 22, 2023, 3:06:10 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 3:06:52 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68},{"name":"Uncut emerald","id":1621,"quantity":1,"price":478}],"date":"May 22, 2023, 3:06:58 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7},{"name":"Grimy marrentill","id":201,"quantity":1,"price":37},{"name":"Chaos rune","id":562,"quantity":80,"price":68}],"date":"May 22, 2023, 3:07:01 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 3:07:07 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68},{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:07:57 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Rune arrow","id":892,"quantity":12,"price":104}],"date":"May 22, 2023, 3:08:00 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5},{"name":"Rune arrow","id":892,"quantity":12,"price":104}],"date":"May 22, 2023, 3:08:03 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 3:08:48 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":62}],"date":"May 22, 2023, 3:08:48 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68},{"name":"Uncut ruby","id":1619,"quantity":1,"price":1003},{"name":"Grimy harralander","id":205,"quantity":1,"price":470}],"date":"May 22, 2023, 3:08:54 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68}],"date":"May 22, 2023, 3:09:06 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":20,"price":260}],"date":"May 22, 2023, 3:09:53 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:09:56 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7},{"name":"Rune arrow","id":892,"quantity":12,"price":104}],"date":"May 22, 2023, 3:09:59 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":130},{"name":"Air battlestaff","id":1397,"quantity":1,"price":9001}],"date":"May 22, 2023, 3:10:02 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:10:29 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant axe","id":1357,"quantity":1,"price":499}],"date":"May 22, 2023, 3:10:35 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 3:10:41 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 3:11:26 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5},{"name":"Red d\u0027hide vambraces","id":2489,"quantity":1,"price":1714}],"date":"May 22, 2023, 3:11:35 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy cadantine","id":215,"quantity":1,"price":2487}],"date":"May 22, 2023, 3:11:38 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68}],"date":"May 22, 2023, 3:11:44 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy kwuarm","id":213,"quantity":1,"price":2536}],"date":"May 22, 2023, 3:11:53 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":37},{"name":"Uncut ruby","id":1619,"quantity":1,"price":1003}],"date":"May 22, 2023, 3:12:35 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68},{"name":"Tooth half of key","id":985,"quantity":1,"price":9888}],"date":"May 22, 2023, 3:12:38 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Air battlestaff","id":1397,"quantity":1,"price":9001},{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 3:12:41 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mystic earth staff","id":1407,"quantity":1,"price":25140}],"date":"May 22, 2023, 3:12:47 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:12:50 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":200,"price":7},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268}],"date":"May 22, 2023, 3:13:59 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68},{"name":"Earth rune","id":557,"quantity":300,"price":5}],"date":"May 22, 2023, 3:14:02 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":37},{"name":"Grimy dwarf weed","id":217,"quantity":1,"price":1005}],"date":"May 22, 2023, 3:14:08 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth battlestaff","id":1399,"quantity":1,"price":8967},{"name":"Chaos rune","id":562,"quantity":80,"price":68}],"date":"May 22, 2023, 3:14:11 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":130}],"date":"May 22, 2023, 3:14:44 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth battlestaff","id":1399,"quantity":1,"price":8967},{"name":"Uncut emerald","id":1621,"quantity":1,"price":478}],"date":"May 22, 2023, 3:14:50 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268},{"name":"Soul rune","id":566,"quantity":20,"price":260},{"name":"Dust rune","id":4696,"quantity":200,"price":7}],"date":"May 22, 2023, 3:14:56 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268}],"date":"May 22, 2023, 3:15:32 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mystic air staff","id":1405,"quantity":1,"price":25203},{"name":"Dust rune","id":4696,"quantity":200,"price":7},{"name":"Nature talisman","id":1462,"quantity":1,"price":163}],"date":"May 22, 2023, 3:15:35 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268}],"date":"May 22, 2023, 3:15:38 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":62},{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 3:15:41 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy lantadyme","id":2485,"quantity":1,"price":1417}],"date":"May 22, 2023, 3:15:44 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Black d\u0027hide vambraces","id":2491,"quantity":1,"price":2217}],"date":"May 22, 2023, 3:16:38 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy dwarf weed","id":217,"quantity":1,"price":1005}],"date":"May 22, 2023, 3:16:43 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268}],"date":"May 22, 2023, 3:16:51 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Dragon dagger","id":1215,"quantity":1,"price":17237}],"date":"May 22, 2023, 3:17:34 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient shard","id":19677,"quantity":1,"price":0},{"name":"Rune arrow","id":892,"quantity":12,"price":104},{"name":"Grimy marrentill","id":201,"quantity":1,"price":37}],"date":"May 22, 2023, 3:17:37 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 3:17:43 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":80,"price":68}],"date":"May 22, 2023, 3:17:46 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":20,"price":260}],"date":"May 22, 2023, 3:18:33 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":5},{"name":"Soul rune","id":566,"quantity":50,"price":260},{"name":"Adamant axe","id":1357,"quantity":1,"price":499}],"date":"May 22, 2023, 3:18:35 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5},{"name":"Soul rune","id":566,"quantity":20,"price":260}],"date":"May 22, 2023, 3:18:41 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268}],"date":"May 22, 2023, 3:19:24 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Earth rune","id":557,"quantity":300,"price":5},{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 3:19:27 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":62}],"date":"May 22, 2023, 3:19:30 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"May 22, 2023, 3:19:33 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":10,"price":682}],"date":"May 22, 2023, 3:19:36 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":62},{"name":"Adamant axe","id":1357,"quantity":1,"price":499},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":268},{"name":"Rune arrow","id":892,"quantity":12,"price":104}],"date":"May 22, 2023, 3:20:16 PM"}
+{"name":"Dust devil","level":110,"killCount":-1,"type":"NPC","drops":[{"name":"Red d\u0027hide vambraces","id":2489,"quantity":1,"price":1714}],"date":"May 22, 2023, 3:20:22 PM"}

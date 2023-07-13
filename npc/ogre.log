@@ -58,3 +58,13 @@
 {"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":163}],"date":"Dec 28, 2022, 9:32:24 PM"}
 {"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":163},{"name":"Snape grass seed","id":22879,"quantity":1,"price":2371}],"date":"Dec 28, 2022, 9:33:41 PM"}
 {"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":163}],"date":"Dec 28, 2022, 9:34:54 PM"}
+{"name":"Ogre","level":53,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":195},{"name":"Ranarr seed","id":5295,"quantity":1,"price":21997}],"date":"Feb 13, 2023, 10:46:43 PM"}
+{"name":"Ogre","level":53,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":195},{"name":"Ensouled ogre head","id":13477,"quantity":1,"price":1129},{"name":"Watermelon seed","id":5321,"quantity":1,"price":16}],"date":"Feb 13, 2023, 10:46:55 PM"}
+{"name":"Ogre","level":53,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":195}],"date":"Feb 13, 2023, 10:47:23 PM"}
+{"name":"Ogre","level":53,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":195},{"name":"Snape grass seed","id":22879,"quantity":1,"price":4592}],"date":"Feb 13, 2023, 10:47:33 PM"}
+{"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":266}],"date":"May 22, 2023, 2:17:22 PM"}
+{"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":266}],"date":"May 22, 2023, 2:18:02 PM"}
+{"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":266}],"date":"May 22, 2023, 2:18:32 PM"}
+{"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":266}],"date":"May 22, 2023, 2:19:02 PM"}
+{"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":266}],"date":"May 22, 2023, 2:19:31 PM"}
+{"name":"Ogre","level":58,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":266}],"date":"May 22, 2023, 2:20:09 PM"}

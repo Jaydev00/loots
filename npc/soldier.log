@@ -1,1 +1,4 @@
 {"name":"Soldier","level":62,"killCount":-1,"type":"NPC","drops":[{"name":"Burnt bones","id":528,"quantity":1,"price":330}],"date":"May 2, 2022, 11:47:16 AM"}
+{"name":"Soldier","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":57},{"name":"Earth rune","id":557,"quantity":3,"price":4}],"date":"May 24, 2023, 8:53:50 PM"}
+{"name":"Soldier","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":57},{"name":"Coins","id":995,"quantity":12,"price":1}],"date":"May 24, 2023, 8:56:00 PM"}
+{"name":"Soldier","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":57},{"name":"Iron bolts","id":9140,"quantity":6,"price":11}],"date":"May 24, 2023, 8:56:24 PM"}

@@ -4,3 +4,4 @@
 {"name":"Blood Reaver","level":174,"killCount":-1,"type":"NPC","drops":[{"name":"Malicious ashes","id":25772,"quantity":1,"price":1353},{"name":"Coal","id":454,"quantity":6,"price":171}],"date":"Dec 24, 2022, 12:55:31 AM"}
 {"name":"Blood Reaver","level":174,"killCount":-1,"type":"NPC","drops":[{"name":"Malicious ashes","id":25772,"quantity":1,"price":1371},{"name":"Blood rune","id":565,"quantity":15,"price":201}],"date":"Dec 24, 2022, 1:56:14 AM"}
 {"name":"Blood Reaver","level":174,"killCount":-1,"type":"NPC","drops":[{"name":"Malicious ashes","id":25772,"quantity":1,"price":1407},{"name":"Potato cactus","id":3138,"quantity":1,"price":98}],"date":"Dec 26, 2022, 2:33:42 AM"}
+{"name":"Blood Reaver","level":174,"killCount":-1,"type":"NPC","drops":[{"name":"Malicious ashes","id":25772,"quantity":1,"price":1560},{"name":"Mud rune","id":4698,"quantity":15,"price":88}],"date":"Jun 30, 2023, 10:50:42 AM"}

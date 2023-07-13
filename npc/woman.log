@@ -6,3 +6,4 @@
 {"name":"Woman","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68}],"date":"Sep 13, 2022, 9:35:08 PM"}
 {"name":"Woman","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72}],"date":"Sep 13, 2022, 10:02:13 PM"}
 {"name":"Woman","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":65}],"date":"Oct 20, 2022, 12:18:40 PM"}
+{"name":"Woman","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63},{"name":"Earth talisman","id":1440,"quantity":1,"price":209}],"date":"Apr 17, 2023, 10:18:17 PM"}

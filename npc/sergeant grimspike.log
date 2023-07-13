@@ -477,3 +477,5 @@
 {"name":"Sergeant Grimspike","level":142,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Limpwurt root","id":226,"quantity":5,"price":616}],"date":"Dec 29, 2022, 12:30:04 AM"}
 {"name":"Sergeant Grimspike","level":142,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Nature rune","id":561,"quantity":20,"price":117}],"date":"Dec 29, 2022, 12:32:24 AM"}
 {"name":"Sergeant Grimspike","level":142,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":1429,"price":1}],"date":"Dec 29, 2022, 12:35:14 AM"}
+{"name":"Sergeant Grimspike","level":142,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":59},{"name":"Coins","id":995,"quantity":1469,"price":1}],"date":"May 22, 2023, 2:38:43 PM"}
+{"name":"Sergeant Grimspike","level":142,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":59},{"name":"Coins","id":995,"quantity":1486,"price":1}],"date":"May 22, 2023, 2:43:48 PM"}

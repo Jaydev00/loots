@@ -484,3 +484,4 @@
 {"name":"Black Knight","level":33,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Potato seed","id":5318,"quantity":4,"price":1}],"date":"May 18, 2022, 2:57:16 PM"}
 {"name":"Black Knight","level":33,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":69},{"name":"Coins","id":995,"quantity":35,"price":1}],"date":"May 28, 2022, 1:24:22 AM"}
 {"name":"Black Knight","level":33,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Coins","id":995,"quantity":35,"price":1}],"date":"Dec 9, 2022, 10:47:46 PM"}
+{"name":"Black Knight","level":33,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":70},{"name":"Onion seed","id":5319,"quantity":4,"price":1}],"date":"Feb 13, 2023, 10:56:42 PM"}

@@ -70,3 +70,5 @@
 {"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Coins","id":995,"quantity":20,"price":1}],"date":"Aug 30, 2022, 11:07:21 AM"}
 {"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Cosmic talisman","id":1454,"quantity":1,"price":206}],"date":"Aug 30, 2022, 11:07:21 AM"}
 {"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[],"date":"Aug 30, 2022, 11:18:41 AM"}
+{"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Cosmic talisman","id":1454,"quantity":1,"price":80}],"date":"Feb 10, 2023, 12:04:19 PM"}
+{"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Coins","id":995,"quantity":80,"price":1}],"date":"Mar 10, 2023, 11:35:55 AM"}

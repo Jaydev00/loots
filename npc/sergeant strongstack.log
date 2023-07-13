@@ -483,3 +483,5 @@
 {"name":"Sergeant Strongstack","level":141,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Nature rune","id":561,"quantity":20,"price":117}],"date":"Dec 29, 2022, 12:30:27 AM"}
 {"name":"Sergeant Strongstack","level":141,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Combat potion(3)","id":9741,"quantity":1,"price":354}],"date":"Dec 29, 2022, 12:32:45 AM"}
 {"name":"Sergeant Strongstack","level":141,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Cosmic rune","id":564,"quantity":28,"price":115}],"date":"Dec 29, 2022, 12:34:51 AM"}
+{"name":"Sergeant Strongstack","level":141,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":59},{"name":"Nature rune","id":561,"quantity":16,"price":95}],"date":"May 22, 2023, 2:38:41 PM"}
+{"name":"Sergeant Strongstack","level":141,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":59},{"name":"Kebab","id":1971,"quantity":1,"price":39},{"name":"Coins","id":995,"quantity":1463,"price":1}],"date":"May 22, 2023, 2:43:34 PM"}

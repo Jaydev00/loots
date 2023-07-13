@@ -33,3 +33,4 @@
 {"name":"Sarachnis","level":318,"killCount":36,"type":"NPC","drops":[{"name":"Tattered sun page","id":23512,"quantity":1,"price":1000},{"name":"Uncut sapphire","id":1624,"quantity":23,"price":357}],"date":"Jul 5, 2022, 12:18:15 AM"}
 {"name":"Sarachnis","level":318,"killCount":37,"type":"NPC","drops":[{"name":"Mithril arrow","id":888,"quantity":519,"price":3}],"date":"Jul 5, 2022, 12:19:26 AM"}
 {"name":"Sarachnis","level":318,"killCount":38,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":92,"price":354}],"date":"Jul 5, 2022, 12:24:27 AM"}
+{"name":"Sarachnis","level":318,"killCount":39,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1624,"quantity":24,"price":273}],"date":"Mar 26, 2023, 9:02:42 PM"}

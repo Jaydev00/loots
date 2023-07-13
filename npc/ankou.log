@@ -331,3 +331,4 @@
 {"name":"Ankou","level":75,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Coins","id":995,"quantity":8,"price":1}],"date":"Sep 3, 2022, 5:55:43 PM"}
 {"name":"Ankou","level":75,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Pure essence","id":7937,"quantity":15,"price":2}],"date":"Sep 3, 2022, 5:55:47 PM"}
 {"name":"Ankou","level":75,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Coins","id":995,"quantity":8,"price":1}],"date":"Sep 3, 2022, 5:55:55 PM"}
+{"name":"Ankou","level":75,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Clue scroll (elite)","id":12153,"quantity":1,"price":0},{"name":"Tarromin seed","id":5293,"quantity":1,"price":12}],"date":"Feb 10, 2023, 12:08:56 PM"}

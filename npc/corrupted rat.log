@@ -3,3 +3,4 @@
 {"name":"Corrupted Rat","level":34,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":16,"price":0}],"date":"Nov 7, 2022, 8:53:05 PM"}
 {"name":"Corrupted Rat","level":34,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":33,"price":0}],"date":"Nov 18, 2022, 11:24:28 AM"}
 {"name":"Corrupted Rat","level":34,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":26,"price":0}],"date":"Nov 18, 2022, 11:58:45 PM"}
+{"name":"Corrupted Rat","level":34,"killCount":-1,"type":"NPC","drops":[{"name":"Corrupted shards","id":23824,"quantity":13,"price":0},{"name":"Grym leaf","id":23835,"quantity":1,"price":0}],"date":"Feb 10, 2023, 2:49:39 PM"}

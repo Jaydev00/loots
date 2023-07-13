@@ -2185,3 +2185,32 @@
 {"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jan 11, 2023, 6:13:29 PM"}
 {"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jan 11, 2023, 6:13:30 PM"}
 {"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":126}],"date":"Jan 11, 2023, 6:13:39 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":58},{"name":"Steel arrow","id":886,"quantity":15,"price":16}],"date":"Jul 3, 2023, 2:50:39 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":58},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 3, 2023, 2:50:54 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":58},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 3, 2023, 2:51:11 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":58},{"name":"Dwarf weed seed","id":5303,"quantity":1,"price":324}],"date":"Jul 3, 2023, 2:57:13 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":58},{"name":"Poison ivy seed","id":5106,"quantity":1,"price":11}],"date":"Jul 3, 2023, 2:57:45 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 3, 2023, 2:59:42 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Jul 3, 2023, 3:00:20 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":104},{"name":"Raw herring","id":345,"quantity":1,"price":104},{"name":"Raw herring","id":345,"quantity":1,"price":104}],"date":"Jul 3, 2023, 3:00:37 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Fishing bait","id":313,"quantity":50,"price":3}],"date":"Jul 3, 2023, 3:00:47 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Jul 3, 2023, 3:00:56 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Jul 3, 2023, 3:01:10 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Jul 3, 2023, 3:01:34 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Poison ivy seed","id":5106,"quantity":1,"price":11}],"date":"Jul 3, 2023, 3:01:51 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39}],"date":"Jul 3, 2023, 3:02:05 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 3, 2023, 3:02:19 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 3, 2023, 3:02:33 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":38}],"date":"Jul 3, 2023, 3:02:41 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39}],"date":"Jul 3, 2023, 3:03:00 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":269}],"date":"Jul 3, 2023, 3:03:10 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Avantoe seed","id":5298,"quantity":1,"price":1314}],"date":"Jul 3, 2023, 3:03:27 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (medium)","id":2805,"quantity":1,"price":0},{"name":"Lobster pot","id":301,"quantity":1,"price":144}],"date":"Jul 3, 2023, 3:03:44 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw tuna","id":359,"quantity":1,"price":134}],"date":"Jul 3, 2023, 3:03:53 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":84}],"date":"Jul 3, 2023, 3:04:03 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Cadantine seed","id":5301,"quantity":1,"price":4118}],"date":"Jul 3, 2023, 3:04:26 PM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 3, 2023, 3:04:44 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Jul 3, 2023, 3:04:54 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39},{"name":"Raw sardine","id":327,"quantity":1,"price":39}],"date":"Jul 3, 2023, 3:05:18 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":413}],"date":"Jul 3, 2023, 3:05:39 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril spear","id":1243,"quantity":1,"price":253}],"date":"Jul 3, 2023, 3:05:56 PM"}
