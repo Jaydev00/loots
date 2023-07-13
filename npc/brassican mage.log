@@ -46,6 +46,9 @@
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Jan 11, 2023, 5:51:40 PM"}
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":42}],"date":"Jan 11, 2023, 5:53:39 PM"}
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":73},{"name":"Coins","id":995,"quantity":76,"price":1}],"date":"Jan 14, 2023, 12:47:49 AM"}
+{"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Pure essence","id":7937,"quantity":25,"price":3}],"date":"Jan 25, 2023, 9:30:15 AM"}
+{"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Grimy kwuarm","id":213,"quantity":1,"price":2252}],"date":"Jan 25, 2023, 3:20:08 PM"}
+{"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Pure essence","id":7937,"quantity":25,"price":3}],"date":"Jan 25, 2023, 3:21:45 PM"}
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":70},{"name":"Onion seed","id":5319,"quantity":2,"price":1}],"date":"Feb 26, 2023, 12:56:16 PM"}
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":70},{"name":"Earth rune","id":557,"quantity":21,"price":5}],"date":"Feb 26, 2023, 1:00:44 PM"}
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":70},{"name":"Air rune","id":556,"quantity":10,"price":5}],"date":"Feb 26, 2023, 1:02:09 PM"}

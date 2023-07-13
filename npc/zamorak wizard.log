@@ -81,6 +81,8 @@
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Jan 6, 2023, 9:31:26 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Zamorak monk top","id":1035,"quantity":1,"price":1549}],"date":"Jan 8, 2023, 3:01:30 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Jan 9, 2023, 12:29:58 AM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Feb 7, 2023, 8:01:33 AM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Water battlestaff","id":1395,"quantity":1,"price":9014}],"date":"Feb 7, 2023, 8:03:38 AM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Cosmic rune","id":564,"quantity":25,"price":97}],"date":"Jan 21, 2023, 2:31:26 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":70},{"name":"Coins","id":995,"quantity":240,"price":1}],"date":"Feb 15, 2023, 11:22:11 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":69}],"date":"Feb 24, 2023, 8:46:22 PM"}
