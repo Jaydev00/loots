@@ -4,4 +4,5 @@
 {"name":"Hespori","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Attas seed","id":22881,"quantity":2,"price":0},{"name":"Teak seed","id":21486,"quantity":5,"price":58}],"date":"Feb 13, 2023, 8:49:23 PM"}
 {"name":"Hespori","level":-1,"killCount":113,"type":"EVENT","drops":[{"name":"Iasor seed","id":22883,"quantity":1,"price":0},{"name":"Avantoe seed","id":5298,"quantity":4,"price":1456}],"date":"Feb 15, 2023, 11:51:46 PM"}
 {"name":"Hespori","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Iasor seed","id":22883,"quantity":1,"price":0},{"name":"Pineapple seed","id":5287,"quantity":4,"price":20}],"date":"May 28, 2023, 1:37:25 AM"}
+{"name":"Hespori","level":-1,"killCount":115,"type":"EVENT","drops":[{"name":"Willow seed","id":5313,"quantity":3,"price":59},{"name":"Kronos seed","id":22885,"quantity":2,"price":0}],"date":"Jul 23, 2023, 10:27:46 AM"}
 {"name":"Hespori","level":-1,"killCount":116,"type":"EVENT","drops":[{"name":"Iasor seed","id":22883,"quantity":1,"price":0},{"name":"Avantoe seed","id":5298,"quantity":5,"price":618}],"date":"Jul 24, 2023, 10:06:45 AM"}

@@ -9,3 +9,27 @@
 {"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Potato seed","id":5318,"quantity":4,"price":1}],"date":"Dec 29, 2022, 2:47:38 AM"}
 {"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":58},{"name":"Steel arrow","id":886,"quantity":5,"price":18}],"date":"Jun 26, 2023, 4:07:11 PM"}
 {"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":57},{"name":"Coins","id":995,"quantity":1,"price":1}],"date":"Jun 28, 2023, 2:48:51 PM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Iron bolts","id":9140,"quantity":12,"price":6}],"date":"Aug 1, 2023, 8:51:32 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Fire rune","id":554,"quantity":2,"price":4}],"date":"Aug 27, 2023, 11:44:52 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":7,"price":1}],"date":"Aug 27, 2023, 11:45:13 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Iron bolts","id":9140,"quantity":10,"price":6}],"date":"Aug 27, 2023, 11:45:55 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Potato seed","id":5318,"quantity":4,"price":1}],"date":"Aug 27, 2023, 11:46:21 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":4,"price":1}],"date":"Aug 27, 2023, 11:46:54 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72}],"date":"Aug 27, 2023, 11:47:18 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":1,"price":1}],"date":"Aug 27, 2023, 11:47:48 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Earth rune","id":557,"quantity":3,"price":4}],"date":"Aug 27, 2023, 11:48:22 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":4,"price":1}],"date":"Aug 27, 2023, 11:48:41 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":1,"price":1}],"date":"Aug 27, 2023, 11:49:14 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Onion seed","id":5319,"quantity":4,"price":1}],"date":"Aug 27, 2023, 11:49:43 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Aug 27, 2023, 11:51:13 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":4,"price":1}],"date":"Aug 27, 2023, 11:51:26 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":7,"price":1}],"date":"Aug 27, 2023, 11:51:52 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":7,"price":1}],"date":"Aug 27, 2023, 11:52:11 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Iron dagger","id":1203,"quantity":1,"price":89}],"date":"Aug 27, 2023, 11:52:37 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":7,"price":1}],"date":"Aug 27, 2023, 11:53:18 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":7,"price":1}],"date":"Aug 27, 2023, 11:53:33 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Air rune","id":556,"quantity":6,"price":4}],"date":"Aug 27, 2023, 11:53:41 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Iron bolts","id":9140,"quantity":7,"price":6}],"date":"Aug 27, 2023, 11:54:01 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Iron dagger","id":1203,"quantity":1,"price":89}],"date":"Aug 27, 2023, 11:54:29 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":12,"price":1}],"date":"Aug 27, 2023, 11:54:47 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Bronze arrow","id":882,"quantity":2,"price":3}],"date":"Aug 27, 2023, 11:55:00 PM"}

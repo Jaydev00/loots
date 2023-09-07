@@ -71,6 +71,9 @@
 {"name":"Ancient Wizard","level":112,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":54},{"name":"Runite crossbow (u)","id":9465,"quantity":1,"price":9509}],"date":"Jul 5, 2023, 6:00:55 PM"}
 {"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":54},{"name":"Air rune","id":556,"quantity":6,"price":4}],"date":"Jul 5, 2023, 6:01:04 PM"}
 {"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":54},{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":8583}],"date":"Jul 5, 2023, 6:01:13 PM"}
+{"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Fire rune","id":554,"quantity":17,"price":4}],"date":"Aug 1, 2023, 8:31:29 PM"}
+{"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Coins","id":995,"quantity":233,"price":1}],"date":"Aug 1, 2023, 8:31:38 PM"}
+{"name":"Ancient Wizard","level":112,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":9656}],"date":"Aug 1, 2023, 8:31:49 PM"}
 {"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Runite bolts","id":9144,"quantity":5,"price":106}],"date":"Aug 2, 2023, 11:55:16 AM"}
 {"name":"Ancient Wizard","level":98,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Fire rune","id":554,"quantity":9,"price":4}],"date":"Aug 2, 2023, 11:55:40 AM"}
 {"name":"Ancient Wizard","level":112,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Grimy tarromin","id":203,"quantity":1,"price":110}],"date":"Aug 2, 2023, 11:55:58 AM"}
