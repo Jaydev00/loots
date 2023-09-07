@@ -1,10 +1,4 @@
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Oct 29, 2022, 4:20:55 PM"}
-{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:02 PM"}
-{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:03 PM"}
-{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:05 PM"}
-{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:06 PM"}
-{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:10 PM"}
-{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:11 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Nov 30, 2022, 5:34:17 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Nov 30, 2022, 5:34:22 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Nov 30, 2022, 5:34:23 PM"}
@@ -43,6 +37,12 @@
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Nov 30, 2022, 7:39:33 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Nov 30, 2022, 7:39:35 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Nov 30, 2022, 7:39:36 PM"}
+{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:02 PM"}
+{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:03 PM"}
+{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:05 PM"}
+{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:06 PM"}
+{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:10 PM"}
+{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 1, 2022, 1:27:11 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 2, 2022, 11:56:57 AM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 2, 2022, 11:56:58 AM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Dec 2, 2022, 11:56:59 AM"}
@@ -78,6 +78,7 @@
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coins","id":995,"quantity":3,"price":1},{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"May 8, 2023, 12:20:25 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"May 10, 2023, 6:31:00 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Jun 7, 2023, 12:15:45 PM"}
+{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Aug 2, 2023, 2:39:59 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Aug 4, 2023, 11:32:23 AM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Aug 4, 2023, 11:32:24 AM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Aug 4, 2023, 11:58:08 AM"}
@@ -89,5 +90,4 @@
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Aug 5, 2023, 7:08:17 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Aug 31, 2023, 1:31:39 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Aug 31, 2023, 8:32:15 PM"}
-{"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Aug 2, 2023, 2:39:59 PM"}
 {"name":"Man","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22521,"quantity":1,"price":0}],"date":"Sep 1, 2023, 12:33:47 PM"}
