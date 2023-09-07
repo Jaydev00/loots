@@ -205,3 +205,998 @@
 {"name":"Reward pool (Tempoross)","level":-1,"killCount":91,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Feb 8, 2023, 6:58:24 PM"}
 {"name":"Reward pool (Tempoross)","level":-1,"killCount":91,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":449}],"date":"Feb 8, 2023, 6:58:29 PM"}
 {"name":"Reward pool (Tempoross)","level":-1,"killCount":91,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":577}],"date":"Feb 8, 2023, 6:58:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Aug 15, 2023, 11:10:08 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1461,"price":2}],"date":"Aug 15, 2023, 11:10:09 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Aug 15, 2023, 11:10:11 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":389}],"date":"Aug 15, 2023, 11:10:13 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":119}],"date":"Aug 15, 2023, 11:10:15 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":336}],"date":"Aug 15, 2023, 11:10:17 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":389}],"date":"Aug 15, 2023, 11:10:18 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":950,"price":3}],"date":"Aug 15, 2023, 11:10:20 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 15, 2023, 11:10:22 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":119}],"date":"Aug 15, 2023, 11:10:24 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":43,"price":0}],"date":"Aug 15, 2023, 11:10:26 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":336}],"date":"Aug 15, 2023, 11:10:27 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":47,"price":0}],"date":"Aug 15, 2023, 11:10:29 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":119}],"date":"Aug 15, 2023, 11:10:31 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 15, 2023, 11:10:33 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":435,"price":17}],"date":"Aug 15, 2023, 11:10:35 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":336}],"date":"Aug 15, 2023, 11:10:36 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":119}],"date":"Aug 15, 2023, 11:10:38 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":25,"price":462}],"date":"Aug 15, 2023, 11:10:40 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":56,"price":0}],"date":"Aug 15, 2023, 11:10:42 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":119}],"date":"Aug 15, 2023, 11:10:44 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":37,"price":0}],"date":"Aug 15, 2023, 11:10:45 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":119}],"date":"Aug 15, 2023, 11:10:47 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":64,"price":0}],"date":"Aug 15, 2023, 11:10:49 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":119}],"date":"Aug 15, 2023, 11:10:51 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":22,"price":275}],"date":"Aug 15, 2023, 11:10:53 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":389}],"date":"Aug 15, 2023, 11:10:54 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":10}],"date":"Aug 15, 2023, 11:10:56 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":10}],"date":"Aug 15, 2023, 11:10:58 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":389}],"date":"Aug 15, 2023, 11:11:00 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":336}],"date":"Aug 15, 2023, 11:11:02 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":58,"price":0}],"date":"Aug 15, 2023, 11:11:03 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":10}],"date":"Aug 15, 2023, 11:11:05 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":35,"price":10}],"date":"Aug 15, 2023, 11:11:07 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":23,"price":275}],"date":"Aug 15, 2023, 11:11:09 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":361,"price":17}],"date":"Aug 15, 2023, 11:11:11 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":23,"price":119}],"date":"Aug 15, 2023, 11:11:12 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 15, 2023, 11:11:14 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":275}],"date":"Aug 15, 2023, 11:11:16 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":22,"price":462}],"date":"Aug 15, 2023, 11:11:18 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":336}],"date":"Aug 15, 2023, 11:11:20 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":10}],"date":"Aug 15, 2023, 11:11:21 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Aug 15, 2023, 11:11:23 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":59,"price":0}],"date":"Aug 15, 2023, 11:11:25 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":63,"price":0}],"date":"Aug 15, 2023, 11:11:27 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":389}],"date":"Aug 15, 2023, 11:11:29 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":389}],"date":"Aug 15, 2023, 11:11:30 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":10}],"date":"Aug 15, 2023, 11:11:32 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":38,"price":0}],"date":"Aug 15, 2023, 11:11:34 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":10}],"date":"Aug 15, 2023, 11:11:36 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 15, 2023, 11:11:38 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":35,"price":10}],"date":"Aug 15, 2023, 11:11:39 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":336}],"date":"Aug 15, 2023, 11:11:41 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":825}],"date":"Aug 15, 2023, 11:11:43 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":336}],"date":"Aug 15, 2023, 11:11:45 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":9,"price":723},{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Aug 15, 2023, 11:11:47 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 15, 2023, 11:11:48 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":119}],"date":"Aug 15, 2023, 11:11:50 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":894,"price":2}],"date":"Aug 15, 2023, 11:11:52 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":119}],"date":"Aug 15, 2023, 11:11:54 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":119}],"date":"Aug 15, 2023, 11:11:56 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":825}],"date":"Aug 15, 2023, 11:11:57 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":33,"price":0}],"date":"Aug 15, 2023, 11:11:59 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":825}],"date":"Aug 15, 2023, 11:12:01 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Aug 15, 2023, 11:12:03 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":336}],"date":"Aug 15, 2023, 11:12:05 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":25,"price":275}],"date":"Aug 15, 2023, 11:12:06 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":25,"price":462}],"date":"Aug 15, 2023, 11:12:08 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":97,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":24,"price":275}],"date":"Aug 15, 2023, 11:12:10 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1485,"price":2}],"date":"Aug 24, 2023, 7:27:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":10}],"date":"Aug 24, 2023, 7:27:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 7:27:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":34,"price":0}],"date":"Aug 24, 2023, 7:27:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":33,"price":0}],"date":"Aug 24, 2023, 7:27:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":47,"price":0}],"date":"Aug 24, 2023, 7:27:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":63,"price":0}],"date":"Aug 24, 2023, 7:27:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":343}],"date":"Aug 24, 2023, 7:27:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":10}],"date":"Aug 24, 2023, 7:27:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":20,"price":416}],"date":"Aug 24, 2023, 7:27:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":36,"price":11},{"name":"Soaked page","id":25578,"quantity":9,"price":743}],"date":"Aug 24, 2023, 7:27:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 7:27:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":47,"price":0}],"date":"Aug 24, 2023, 7:27:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":343}],"date":"Aug 24, 2023, 7:27:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":10}],"date":"Aug 24, 2023, 7:27:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":823}],"date":"Aug 24, 2023, 7:27:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":823}],"date":"Aug 24, 2023, 7:27:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Aug 24, 2023, 7:27:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Aug 24, 2023, 7:27:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":10}],"date":"Aug 24, 2023, 7:27:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":823}],"date":"Aug 24, 2023, 7:27:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":823}],"date":"Aug 24, 2023, 7:27:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":40,"price":11}],"date":"Aug 24, 2023, 7:27:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":25,"price":416}],"date":"Aug 24, 2023, 7:27:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":124}],"date":"Aug 24, 2023, 7:27:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":35,"price":10}],"date":"Aug 24, 2023, 7:27:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":292}],"date":"Aug 24, 2023, 7:28:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":23,"price":124}],"date":"Aug 24, 2023, 7:28:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":35,"price":0}],"date":"Aug 24, 2023, 7:28:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Aug 24, 2023, 7:28:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1141,"price":2}],"date":"Aug 24, 2023, 7:28:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 7:28:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":20,"price":416}],"date":"Aug 24, 2023, 7:28:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Aug 24, 2023, 7:28:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":10}],"date":"Aug 24, 2023, 7:28:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":10}],"date":"Aug 24, 2023, 7:28:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":343}],"date":"Aug 24, 2023, 7:28:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Aug 24, 2023, 7:28:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Aug 24, 2023, 7:28:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":17,"price":292}],"date":"Aug 24, 2023, 7:28:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":10}],"date":"Aug 24, 2023, 7:28:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":124}],"date":"Aug 24, 2023, 7:28:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":10}],"date":"Aug 24, 2023, 7:28:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":823}],"date":"Aug 24, 2023, 7:28:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":292}],"date":"Aug 24, 2023, 7:28:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":124}],"date":"Aug 24, 2023, 7:28:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":64,"price":0}],"date":"Aug 24, 2023, 7:28:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":43,"price":0}],"date":"Aug 24, 2023, 7:28:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":823}],"date":"Aug 24, 2023, 7:28:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":41,"price":0}],"date":"Aug 24, 2023, 7:28:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":124}],"date":"Aug 24, 2023, 7:28:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 7:28:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":343}],"date":"Aug 24, 2023, 7:28:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":58,"price":0}],"date":"Aug 24, 2023, 7:28:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":823}],"date":"Aug 24, 2023, 7:28:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":290}],"date":"Aug 24, 2023, 7:28:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":23,"price":416}],"date":"Aug 24, 2023, 7:28:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":39,"price":0}],"date":"Aug 24, 2023, 7:28:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":45,"price":0}],"date":"Aug 24, 2023, 7:28:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":51,"price":0}],"date":"Aug 24, 2023, 7:29:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":823}],"date":"Aug 24, 2023, 7:29:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":823}],"date":"Aug 24, 2023, 7:29:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":18,"price":416}],"date":"Aug 24, 2023, 7:29:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":823}],"date":"Aug 24, 2023, 7:29:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":292}],"date":"Aug 24, 2023, 7:29:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":292}],"date":"Aug 24, 2023, 7:29:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":28,"price":124}],"date":"Aug 24, 2023, 7:29:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":343}],"date":"Aug 24, 2023, 7:29:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":24,"price":416}],"date":"Aug 24, 2023, 7:29:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Aug 24, 2023, 7:29:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":62,"price":0}],"date":"Aug 24, 2023, 7:29:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":292}],"date":"Aug 24, 2023, 7:29:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":26,"price":290}],"date":"Aug 24, 2023, 7:29:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":292}],"date":"Aug 24, 2023, 7:29:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":465,"price":17}],"date":"Aug 24, 2023, 7:29:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Aug 24, 2023, 7:29:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":292}],"date":"Aug 24, 2023, 7:29:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":124}],"date":"Aug 24, 2023, 7:29:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":343}],"date":"Aug 24, 2023, 7:29:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":124}],"date":"Aug 24, 2023, 7:29:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":62,"price":0}],"date":"Aug 24, 2023, 7:29:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":10}],"date":"Aug 24, 2023, 7:29:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":124}],"date":"Aug 24, 2023, 7:29:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":292}],"date":"Aug 24, 2023, 7:29:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":10}],"date":"Aug 24, 2023, 7:29:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Aug 24, 2023, 7:29:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":823}],"date":"Aug 24, 2023, 7:29:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":25,"price":743},{"name":"Raw sea turtle","id":396,"quantity":7,"price":343}],"date":"Aug 24, 2023, 7:29:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":343}],"date":"Aug 24, 2023, 7:29:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":823}],"date":"Aug 24, 2023, 7:29:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":292}],"date":"Aug 24, 2023, 7:29:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":51,"price":0}],"date":"Aug 24, 2023, 7:29:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Aug 24, 2023, 7:30:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":292}],"date":"Aug 24, 2023, 7:30:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":343}],"date":"Aug 24, 2023, 7:30:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Aug 24, 2023, 7:30:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Aug 24, 2023, 7:30:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":292}],"date":"Aug 24, 2023, 7:30:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Aug 24, 2023, 7:30:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":343}],"date":"Aug 24, 2023, 7:30:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":11,"price":343}],"date":"Aug 24, 2023, 7:30:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":35,"price":10}],"date":"Aug 24, 2023, 7:30:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Aug 24, 2023, 7:30:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":292}],"date":"Aug 24, 2023, 7:30:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":59,"price":0}],"date":"Aug 24, 2023, 7:30:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":292}],"date":"Aug 24, 2023, 7:30:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":124}],"date":"Aug 24, 2023, 7:30:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Aug 24, 2023, 7:30:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Aug 24, 2023, 7:30:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":124}],"date":"Aug 24, 2023, 7:30:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":22,"price":416}],"date":"Aug 24, 2023, 7:30:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":11,"price":343}],"date":"Aug 24, 2023, 7:30:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":58,"price":0}],"date":"Aug 24, 2023, 7:30:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":292}],"date":"Aug 24, 2023, 7:30:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 7:30:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":124}],"date":"Aug 24, 2023, 7:30:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":343}],"date":"Aug 24, 2023, 7:30:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":292}],"date":"Aug 24, 2023, 7:30:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":43,"price":0}],"date":"Aug 24, 2023, 7:30:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1344,"price":3}],"date":"Aug 24, 2023, 7:30:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":60,"price":0}],"date":"Aug 24, 2023, 7:30:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":124}],"date":"Aug 24, 2023, 7:30:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":5,"price":743},{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Aug 24, 2023, 7:30:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":124}],"date":"Aug 24, 2023, 7:30:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":124}],"date":"Aug 24, 2023, 7:30:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 7:30:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":10}],"date":"Aug 24, 2023, 7:31:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":823}],"date":"Aug 24, 2023, 7:31:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":124}],"date":"Aug 24, 2023, 7:31:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":823}],"date":"Aug 24, 2023, 7:31:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":343}],"date":"Aug 24, 2023, 7:31:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":343}],"date":"Aug 24, 2023, 7:31:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":124}],"date":"Aug 24, 2023, 7:31:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":343}],"date":"Aug 24, 2023, 7:31:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":28,"price":124}],"date":"Aug 24, 2023, 7:31:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Aug 24, 2023, 7:31:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":124}],"date":"Aug 24, 2023, 7:31:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":823}],"date":"Aug 24, 2023, 7:31:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":292}],"date":"Aug 24, 2023, 7:31:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":292}],"date":"Aug 24, 2023, 7:31:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":34,"price":11}],"date":"Aug 24, 2023, 7:31:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":343}],"date":"Aug 24, 2023, 7:31:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":292}],"date":"Aug 24, 2023, 7:31:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":34,"price":0}],"date":"Aug 24, 2023, 7:31:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Aug 24, 2023, 7:31:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":55,"price":11}],"date":"Aug 24, 2023, 7:31:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":292}],"date":"Aug 24, 2023, 7:31:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Aug 24, 2023, 7:31:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":343}],"date":"Aug 24, 2023, 7:31:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":23,"price":124}],"date":"Aug 24, 2023, 7:31:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":292}],"date":"Aug 24, 2023, 7:31:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":53,"price":0}],"date":"Aug 24, 2023, 7:31:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":35,"price":0}],"date":"Aug 24, 2023, 7:31:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":343}],"date":"Aug 24, 2023, 7:31:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":5,"price":743},{"name":"Fishing bait","id":313,"quantity":826,"price":3}],"date":"Aug 24, 2023, 7:31:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Aug 24, 2023, 7:31:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":292}],"date":"Aug 24, 2023, 7:31:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 7:31:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 7:31:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":114,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":39,"price":0}],"date":"Aug 24, 2023, 7:32:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":38,"price":0}],"date":"Aug 25, 2023, 4:19:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":6,"price":738},{"name":"Raw sea turtle","id":396,"quantity":9,"price":341}],"date":"Aug 25, 2023, 4:19:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":824}],"date":"Aug 25, 2023, 4:19:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 25, 2023, 4:19:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":824}],"date":"Aug 25, 2023, 4:19:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":23,"price":125}],"date":"Aug 25, 2023, 4:19:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":824}],"date":"Aug 25, 2023, 4:20:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":824}],"date":"Aug 25, 2023, 4:20:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Aug 25, 2023, 4:20:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Aug 25, 2023, 4:20:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":10}],"date":"Aug 25, 2023, 4:20:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":17,"price":404}],"date":"Aug 25, 2023, 4:20:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":341}],"date":"Aug 25, 2023, 4:20:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":299}],"date":"Aug 25, 2023, 4:20:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":24,"price":125}],"date":"Aug 25, 2023, 4:20:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":824}],"date":"Aug 25, 2023, 4:20:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":341}],"date":"Aug 25, 2023, 4:20:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":125}],"date":"Aug 25, 2023, 4:20:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":824}],"date":"Aug 25, 2023, 4:20:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":59,"price":0}],"date":"Aug 25, 2023, 4:20:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":62,"price":0}],"date":"Aug 25, 2023, 4:20:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":34,"price":0}],"date":"Aug 25, 2023, 4:20:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":125}],"date":"Aug 25, 2023, 4:20:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":299}],"date":"Aug 25, 2023, 4:20:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":36,"price":11}],"date":"Aug 25, 2023, 4:20:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":341}],"date":"Aug 25, 2023, 4:20:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":43,"price":0}],"date":"Aug 25, 2023, 4:20:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":52,"price":0}],"date":"Aug 25, 2023, 4:20:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":24,"price":125}],"date":"Aug 25, 2023, 4:20:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":10}],"date":"Aug 25, 2023, 4:20:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":824}],"date":"Aug 25, 2023, 4:20:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":299}],"date":"Aug 25, 2023, 4:20:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Aug 25, 2023, 4:20:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":125}],"date":"Aug 25, 2023, 4:20:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":341}],"date":"Aug 25, 2023, 4:20:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":341}],"date":"Aug 25, 2023, 4:20:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":125}],"date":"Aug 25, 2023, 4:20:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Aug 25, 2023, 4:20:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 25, 2023, 4:20:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":125}],"date":"Aug 25, 2023, 4:21:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":26,"price":281}],"date":"Aug 25, 2023, 4:21:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":125}],"date":"Aug 25, 2023, 4:21:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":299}],"date":"Aug 25, 2023, 4:21:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":21,"price":11}],"date":"Aug 25, 2023, 4:21:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":10}],"date":"Aug 25, 2023, 4:21:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1503,"price":2}],"date":"Aug 25, 2023, 4:21:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":20,"price":281}],"date":"Aug 25, 2023, 4:21:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":37,"price":0}],"date":"Aug 25, 2023, 4:21:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":299}],"date":"Aug 25, 2023, 4:21:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Aug 25, 2023, 4:21:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":10}],"date":"Aug 25, 2023, 4:21:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 25, 2023, 4:21:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":299}],"date":"Aug 25, 2023, 4:21:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":299}],"date":"Aug 25, 2023, 4:21:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":11,"price":341}],"date":"Aug 25, 2023, 4:21:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Aug 25, 2023, 4:21:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":125}],"date":"Aug 25, 2023, 4:21:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Aug 25, 2023, 4:21:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":299}],"date":"Aug 25, 2023, 4:21:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1484,"price":2}],"date":"Aug 25, 2023, 4:21:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Aug 25, 2023, 4:21:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":10}],"date":"Aug 25, 2023, 4:21:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":23,"price":281}],"date":"Aug 25, 2023, 4:21:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":52,"price":0}],"date":"Aug 25, 2023, 4:21:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":299}],"date":"Aug 25, 2023, 4:21:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":824},{"name":"Soaked page","id":25578,"quantity":8,"price":738}],"date":"Aug 25, 2023, 4:21:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":125}],"date":"Aug 25, 2023, 4:21:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":299}],"date":"Aug 25, 2023, 4:21:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":10}],"date":"Aug 25, 2023, 4:21:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":299}],"date":"Aug 25, 2023, 4:21:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 25, 2023, 4:21:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Aug 25, 2023, 4:21:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Aug 25, 2023, 4:21:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":824}],"date":"Aug 25, 2023, 4:22:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":824}],"date":"Aug 25, 2023, 4:22:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":29,"price":281}],"date":"Aug 25, 2023, 4:22:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":15,"price":404}],"date":"Aug 25, 2023, 4:22:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1212,"price":2}],"date":"Aug 25, 2023, 4:22:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Aug 25, 2023, 4:22:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":341}],"date":"Aug 25, 2023, 4:22:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":51,"price":0}],"date":"Aug 25, 2023, 4:22:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 25, 2023, 4:22:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Aug 25, 2023, 4:22:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":299},{"name":"Soaked page","id":25578,"quantity":7,"price":738}],"date":"Aug 25, 2023, 4:22:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":63,"price":0}],"date":"Aug 25, 2023, 4:22:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Aug 25, 2023, 4:22:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Aug 25, 2023, 4:22:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Aug 25, 2023, 4:22:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Aug 25, 2023, 4:22:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":10}],"date":"Aug 25, 2023, 4:22:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Aug 25, 2023, 4:22:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":299}],"date":"Aug 25, 2023, 4:22:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 25, 2023, 4:22:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":824}],"date":"Aug 25, 2023, 4:22:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":299}],"date":"Aug 25, 2023, 4:22:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":57,"price":11}],"date":"Aug 25, 2023, 4:22:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Aug 25, 2023, 4:22:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":125}],"date":"Aug 25, 2023, 4:22:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":125}],"date":"Aug 25, 2023, 4:22:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1278,"price":2}],"date":"Aug 25, 2023, 4:22:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":299}],"date":"Aug 25, 2023, 4:22:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":121,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":59,"price":0}],"date":"Aug 25, 2023, 4:22:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":59,"price":14}],"date":"Sep 6, 2023, 7:25:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":815,"price":2}],"date":"Sep 6, 2023, 7:25:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":286}],"date":"Sep 6, 2023, 7:25:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":286}],"date":"Sep 6, 2023, 7:25:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":37,"price":0}],"date":"Sep 6, 2023, 7:25:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":124}],"date":"Sep 6, 2023, 7:25:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 6, 2023, 7:25:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":11}],"date":"Sep 6, 2023, 7:25:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 7:25:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 7:25:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":22,"price":124}],"date":"Sep 6, 2023, 7:26:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Sep 6, 2023, 7:26:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":758}],"date":"Sep 6, 2023, 7:26:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":20,"price":252}],"date":"Sep 6, 2023, 7:26:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":58,"price":0}],"date":"Sep 6, 2023, 7:26:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":758}],"date":"Sep 6, 2023, 7:26:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":286}],"date":"Sep 6, 2023, 7:26:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":312}],"date":"Sep 6, 2023, 7:26:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":11}],"date":"Sep 6, 2023, 7:26:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":35,"price":0}],"date":"Sep 6, 2023, 7:26:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":758}],"date":"Sep 6, 2023, 7:26:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1047,"price":3}],"date":"Sep 6, 2023, 7:26:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":45,"price":0}],"date":"Sep 6, 2023, 7:26:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":23,"price":14}],"date":"Sep 6, 2023, 7:26:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":47,"price":0}],"date":"Sep 6, 2023, 7:26:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":312}],"date":"Sep 6, 2023, 7:26:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 7:26:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":312}],"date":"Sep 6, 2023, 7:26:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":286}],"date":"Sep 6, 2023, 7:26:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":17,"price":286}],"date":"Sep 6, 2023, 7:26:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Sep 6, 2023, 7:26:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":11}],"date":"Sep 6, 2023, 7:26:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":312}],"date":"Sep 6, 2023, 7:26:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":11}],"date":"Sep 6, 2023, 7:26:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 7:26:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":25,"price":252}],"date":"Sep 6, 2023, 7:26:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":312}],"date":"Sep 6, 2023, 7:26:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":286}],"date":"Sep 6, 2023, 7:26:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":312}],"date":"Sep 6, 2023, 7:26:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":124}],"date":"Sep 6, 2023, 7:26:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":124}],"date":"Sep 6, 2023, 7:26:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":252}],"date":"Sep 6, 2023, 7:26:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":124}],"date":"Sep 6, 2023, 7:26:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":286}],"date":"Sep 6, 2023, 7:26:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":25,"price":789},{"name":"Raw swordfish","id":372,"quantity":22,"price":124}],"date":"Sep 6, 2023, 7:27:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":45,"price":0}],"date":"Sep 6, 2023, 7:27:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":23,"price":124}],"date":"Sep 6, 2023, 7:27:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1307,"price":3}],"date":"Sep 6, 2023, 7:27:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":11}],"date":"Sep 6, 2023, 7:27:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":758}],"date":"Sep 6, 2023, 7:27:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 7:27:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Sep 6, 2023, 7:27:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":54,"price":0}],"date":"Sep 6, 2023, 7:27:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":51,"price":0}],"date":"Sep 6, 2023, 7:27:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":124}],"date":"Sep 6, 2023, 7:27:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 7:27:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 7:27:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":958,"price":2}],"date":"Sep 6, 2023, 7:27:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1555,"price":2}],"date":"Sep 6, 2023, 7:27:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":286}],"date":"Sep 6, 2023, 7:27:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":35,"price":0}],"date":"Sep 6, 2023, 7:27:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":11}],"date":"Sep 6, 2023, 7:27:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":758}],"date":"Sep 6, 2023, 7:27:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":25,"price":395}],"date":"Sep 6, 2023, 7:27:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":11,"price":312}],"date":"Sep 6, 2023, 7:27:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":758}],"date":"Sep 6, 2023, 7:27:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 7:27:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":124}],"date":"Sep 6, 2023, 7:27:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":312}],"date":"Sep 6, 2023, 7:27:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Sep 6, 2023, 7:27:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":38,"price":0}],"date":"Sep 6, 2023, 7:27:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1427,"price":3}],"date":"Sep 6, 2023, 7:27:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":286}],"date":"Sep 6, 2023, 7:27:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":475,"price":17}],"date":"Sep 6, 2023, 7:27:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":38,"price":0}],"date":"Sep 6, 2023, 7:27:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 7:27:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":124}],"date":"Sep 6, 2023, 7:27:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":758}],"date":"Sep 6, 2023, 7:28:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1421,"price":3}],"date":"Sep 6, 2023, 7:28:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":312}],"date":"Sep 6, 2023, 7:28:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":124}],"date":"Sep 6, 2023, 7:28:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 7:28:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 7:28:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Sep 6, 2023, 7:28:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":11}],"date":"Sep 6, 2023, 7:28:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":11}],"date":"Sep 6, 2023, 7:28:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":11}],"date":"Sep 6, 2023, 7:28:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":286}],"date":"Sep 6, 2023, 7:28:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":53,"price":0}],"date":"Sep 6, 2023, 7:28:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":286}],"date":"Sep 6, 2023, 7:28:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":286}],"date":"Sep 6, 2023, 7:28:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":22,"price":124}],"date":"Sep 6, 2023, 7:28:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":124}],"date":"Sep 6, 2023, 7:28:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":286},{"name":"Soaked page","id":25578,"quantity":25,"price":789}],"date":"Sep 6, 2023, 7:28:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":11}],"date":"Sep 6, 2023, 7:28:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":312}],"date":"Sep 6, 2023, 7:28:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":11}],"date":"Sep 6, 2023, 7:28:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":286}],"date":"Sep 6, 2023, 7:28:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Sep 6, 2023, 7:28:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":164,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":22,"price":124}],"date":"Sep 6, 2023, 7:28:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":10}],"date":"Aug 24, 2023, 1:50:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":58,"price":0}],"date":"Aug 24, 2023, 1:50:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":840}],"date":"Aug 24, 2023, 1:50:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Aug 24, 2023, 1:50:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":23,"price":291}],"date":"Aug 24, 2023, 1:50:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":840}],"date":"Aug 24, 2023, 1:50:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":287}],"date":"Aug 24, 2023, 1:50:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 1:50:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":15,"price":413}],"date":"Aug 24, 2023, 1:50:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Aug 24, 2023, 1:50:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":121}],"date":"Aug 24, 2023, 1:50:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":840}],"date":"Aug 24, 2023, 1:50:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Aug 24, 2023, 1:50:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Aug 24, 2023, 1:50:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":345}],"date":"Aug 24, 2023, 1:50:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":10}],"date":"Aug 24, 2023, 1:50:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":10}],"date":"Aug 24, 2023, 1:50:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":867,"price":3}],"date":"Aug 24, 2023, 1:50:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":10}],"date":"Aug 24, 2023, 1:50:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":840}],"date":"Aug 24, 2023, 1:50:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":121}],"date":"Aug 24, 2023, 1:50:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":121}],"date":"Aug 24, 2023, 1:50:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":14,"price":287}],"date":"Aug 24, 2023, 1:50:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":10}],"date":"Aug 24, 2023, 1:50:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":22,"price":291}],"date":"Aug 24, 2023, 1:50:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":287}],"date":"Aug 24, 2023, 1:50:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Aug 24, 2023, 1:50:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":48,"price":10}],"date":"Aug 24, 2023, 1:50:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":59,"price":0}],"date":"Aug 24, 2023, 1:51:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":35,"price":10}],"date":"Aug 24, 2023, 1:51:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":35,"price":10}],"date":"Aug 24, 2023, 1:51:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Aug 24, 2023, 1:51:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 1:51:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":6,"price":723},{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 1:51:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Aug 24, 2023, 1:51:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":840}],"date":"Aug 24, 2023, 1:51:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":287}],"date":"Aug 24, 2023, 1:51:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":287}],"date":"Aug 24, 2023, 1:51:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":287}],"date":"Aug 24, 2023, 1:51:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":287}],"date":"Aug 24, 2023, 1:51:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":462,"price":17}],"date":"Aug 24, 2023, 1:51:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Aug 24, 2023, 1:51:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Aug 24, 2023, 1:51:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":41,"price":0}],"date":"Aug 24, 2023, 1:51:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":34,"price":0}],"date":"Aug 24, 2023, 1:51:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":101,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Aug 24, 2023, 1:51:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":58,"price":0}],"date":"Sep 5, 2023, 12:52:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":290}],"date":"Sep 5, 2023, 12:52:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":41,"price":0}],"date":"Sep 5, 2023, 12:52:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":47,"price":13}],"date":"Sep 5, 2023, 12:52:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":56,"price":0}],"date":"Sep 5, 2023, 12:52:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":290}],"date":"Sep 5, 2023, 12:52:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":853,"price":2}],"date":"Sep 5, 2023, 12:52:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":290}],"date":"Sep 5, 2023, 12:52:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":320}],"date":"Sep 5, 2023, 12:52:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 5, 2023, 12:52:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":290}],"date":"Sep 5, 2023, 12:52:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":10}],"date":"Sep 5, 2023, 12:52:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":290}],"date":"Sep 5, 2023, 12:52:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0},{"name":"Soaked page","id":25578,"quantity":25,"price":769}],"date":"Sep 5, 2023, 12:52:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":58,"price":0}],"date":"Sep 5, 2023, 12:52:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Sep 5, 2023, 12:52:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":320}],"date":"Sep 5, 2023, 12:52:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":261}],"date":"Sep 5, 2023, 12:52:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":290}],"date":"Sep 5, 2023, 2:33:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":59,"price":0}],"date":"Sep 5, 2023, 2:33:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Sep 5, 2023, 2:33:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733}],"date":"Sep 5, 2023, 2:33:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Sep 5, 2023, 2:33:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":733}],"date":"Sep 5, 2023, 2:33:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":24,"price":123}],"date":"Sep 5, 2023, 2:33:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":290}],"date":"Sep 5, 2023, 2:33:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 2:33:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":123}],"date":"Sep 5, 2023, 2:33:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":290}],"date":"Sep 5, 2023, 2:33:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":35,"price":0}],"date":"Sep 5, 2023, 2:33:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":33,"price":0}],"date":"Sep 5, 2023, 2:33:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":10}],"date":"Sep 5, 2023, 2:33:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Sep 5, 2023, 2:33:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Sep 5, 2023, 2:33:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":733}],"date":"Sep 5, 2023, 2:33:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 2:33:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733}],"date":"Sep 5, 2023, 2:33:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":43,"price":0}],"date":"Sep 5, 2023, 2:33:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":14,"price":290}],"date":"Sep 5, 2023, 2:33:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Sep 5, 2023, 2:33:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":23,"price":13}],"date":"Sep 5, 2023, 2:33:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":450,"price":17}],"date":"Sep 5, 2023, 2:33:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":30,"price":261}],"date":"Sep 5, 2023, 2:33:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":34,"price":0}],"date":"Sep 5, 2023, 2:33:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":54,"price":0}],"date":"Sep 5, 2023, 2:34:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":290}],"date":"Sep 5, 2023, 2:34:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Sep 5, 2023, 2:34:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":10}],"date":"Sep 5, 2023, 2:34:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":41,"price":0}],"date":"Sep 5, 2023, 2:34:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":38,"price":0}],"date":"Sep 5, 2023, 2:34:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":52,"price":13}],"date":"Sep 5, 2023, 2:34:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":290}],"date":"Sep 5, 2023, 2:34:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":290}],"date":"Sep 5, 2023, 2:34:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":290}],"date":"Sep 5, 2023, 2:34:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":21,"price":395}],"date":"Sep 5, 2023, 2:34:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":733}],"date":"Sep 5, 2023, 2:34:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":38,"price":0}],"date":"Sep 5, 2023, 2:34:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":7,"price":769},{"name":"Fishing bait","id":313,"quantity":1138,"price":2}],"date":"Sep 5, 2023, 2:34:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":290}],"date":"Sep 5, 2023, 2:34:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Sep 5, 2023, 2:34:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":63,"price":0}],"date":"Sep 5, 2023, 2:34:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":17,"price":395}],"date":"Sep 5, 2023, 2:34:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":290}],"date":"Sep 5, 2023, 2:34:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":733}],"date":"Sep 5, 2023, 2:34:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":35,"price":0}],"date":"Sep 5, 2023, 2:34:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":23,"price":395}],"date":"Sep 5, 2023, 2:34:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":123}],"date":"Sep 5, 2023, 2:34:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":733}],"date":"Sep 5, 2023, 2:34:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":10}],"date":"Sep 5, 2023, 2:34:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":733}],"date":"Sep 5, 2023, 2:34:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":290}],"date":"Sep 5, 2023, 2:34:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":10}],"date":"Sep 5, 2023, 2:34:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":21,"price":395}],"date":"Sep 5, 2023, 2:34:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":6,"price":769},{"name":"Fishing bait","id":313,"quantity":1483,"price":2}],"date":"Sep 5, 2023, 2:34:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":10}],"date":"Sep 5, 2023, 2:34:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":54,"price":0}],"date":"Sep 5, 2023, 2:34:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":5,"price":769},{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Sep 5, 2023, 2:34:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":290}],"date":"Sep 5, 2023, 2:35:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":22,"price":395}],"date":"Sep 5, 2023, 2:35:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":123}],"date":"Sep 5, 2023, 2:35:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":14,"price":290}],"date":"Sep 5, 2023, 2:35:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":123}],"date":"Sep 5, 2023, 2:35:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733}],"date":"Sep 5, 2023, 2:35:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Sep 5, 2023, 2:35:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":123}],"date":"Sep 5, 2023, 2:35:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":47,"price":0}],"date":"Sep 5, 2023, 2:35:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":10}],"date":"Sep 5, 2023, 2:35:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 2:35:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":123}],"date":"Sep 5, 2023, 2:35:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Sep 5, 2023, 2:35:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Sep 5, 2023, 2:35:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":6,"price":769},{"name":"Raw bass","id":364,"quantity":40,"price":10}],"date":"Sep 5, 2023, 2:35:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":320}],"date":"Sep 5, 2023, 2:35:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Sep 5, 2023, 2:35:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 2:35:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Sep 5, 2023, 2:35:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733}],"date":"Sep 5, 2023, 2:35:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":34,"price":0}],"date":"Sep 5, 2023, 2:35:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":32,"price":0}],"date":"Sep 5, 2023, 2:35:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":123}],"date":"Sep 5, 2023, 2:35:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1476,"price":2}],"date":"Sep 5, 2023, 2:35:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Sep 5, 2023, 2:35:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 2:35:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":320}],"date":"Sep 5, 2023, 2:35:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 2:35:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":123}],"date":"Sep 5, 2023, 2:35:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":15,"price":395}],"date":"Sep 5, 2023, 2:35:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":10}],"date":"Sep 5, 2023, 2:35:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":19,"price":395}],"date":"Sep 5, 2023, 2:35:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733}],"date":"Sep 5, 2023, 2:35:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Sep 5, 2023, 2:35:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":63,"price":0}],"date":"Sep 5, 2023, 2:36:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Sep 5, 2023, 2:36:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":290}],"date":"Sep 5, 2023, 2:36:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":123}],"date":"Sep 5, 2023, 2:36:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":320}],"date":"Sep 5, 2023, 2:36:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":35,"price":10}],"date":"Sep 5, 2023, 2:36:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":130,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":35,"price":10}],"date":"Sep 5, 2023, 2:36:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":123}],"date":"Sep 5, 2023, 5:06:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":302,"price":17}],"date":"Sep 5, 2023, 5:06:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":320}],"date":"Sep 5, 2023, 5:06:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":20,"price":261}],"date":"Sep 5, 2023, 5:06:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":320}],"date":"Sep 5, 2023, 5:06:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Sep 5, 2023, 5:06:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":10}],"date":"Sep 5, 2023, 5:06:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":320}],"date":"Sep 5, 2023, 5:06:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":290}],"date":"Sep 5, 2023, 5:06:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":123}],"date":"Sep 5, 2023, 5:06:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":123}],"date":"Sep 5, 2023, 5:06:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":399,"price":17}],"date":"Sep 5, 2023, 5:06:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 5, 2023, 5:06:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733}],"date":"Sep 5, 2023, 5:07:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":290}],"date":"Sep 5, 2023, 5:07:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":10}],"date":"Sep 5, 2023, 5:07:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":10}],"date":"Sep 5, 2023, 5:07:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":24,"price":261}],"date":"Sep 5, 2023, 5:07:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733}],"date":"Sep 5, 2023, 5:07:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":23,"price":123}],"date":"Sep 5, 2023, 5:07:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 5:07:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":28,"price":123}],"date":"Sep 5, 2023, 5:07:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 5:07:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 5:07:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733},{"name":"Soaked page","id":25578,"quantity":7,"price":769}],"date":"Sep 5, 2023, 5:07:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Sep 5, 2023, 5:07:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":24,"price":261}],"date":"Sep 5, 2023, 5:07:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":320}],"date":"Sep 5, 2023, 5:07:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":733}],"date":"Sep 5, 2023, 5:07:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":10}],"date":"Sep 5, 2023, 5:07:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":10}],"date":"Sep 5, 2023, 5:07:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":24,"price":123}],"date":"Sep 5, 2023, 5:07:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Sep 5, 2023, 5:07:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":10}],"date":"Sep 5, 2023, 5:07:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 5, 2023, 5:07:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":320}],"date":"Sep 5, 2023, 5:07:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":16,"price":395}],"date":"Sep 5, 2023, 5:07:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Sep 5, 2023, 5:07:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":53,"price":0}],"date":"Sep 5, 2023, 5:07:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":23,"price":395}],"date":"Sep 5, 2023, 5:07:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":733}],"date":"Sep 5, 2023, 5:07:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":733}],"date":"Sep 5, 2023, 5:07:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":320}],"date":"Sep 5, 2023, 5:07:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Sep 5, 2023, 5:07:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":123}],"date":"Sep 5, 2023, 5:07:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 5:07:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 5:07:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":63,"price":0}],"date":"Sep 5, 2023, 5:08:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Sep 5, 2023, 5:08:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":60,"price":0}],"date":"Sep 5, 2023, 5:08:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":290}],"date":"Sep 5, 2023, 5:08:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":9,"price":769},{"name":"Seaweed","id":402,"quantity":46,"price":13}],"date":"Sep 5, 2023, 5:08:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":60,"price":0}],"date":"Sep 5, 2023, 5:08:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":123}],"date":"Sep 5, 2023, 5:08:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":733}],"date":"Sep 5, 2023, 5:08:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":123}],"date":"Sep 5, 2023, 5:08:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":14,"price":290}],"date":"Sep 5, 2023, 5:08:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":11,"price":320}],"date":"Sep 5, 2023, 5:08:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 5:08:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":37,"price":0}],"date":"Sep 5, 2023, 5:08:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":17,"price":290}],"date":"Sep 5, 2023, 5:08:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":24,"price":123}],"date":"Sep 5, 2023, 5:08:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":290}],"date":"Sep 5, 2023, 5:08:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":54,"price":0}],"date":"Sep 5, 2023, 5:08:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":733}],"date":"Sep 5, 2023, 5:08:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":7,"price":769},{"name":"Raw sea turtle","id":396,"quantity":7,"price":320}],"date":"Sep 5, 2023, 5:08:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":290}],"date":"Sep 5, 2023, 5:08:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":10}],"date":"Sep 5, 2023, 5:08:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":10}],"date":"Sep 5, 2023, 5:08:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Sep 5, 2023, 5:08:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 5, 2023, 5:08:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Sep 5, 2023, 5:08:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":320}],"date":"Sep 5, 2023, 5:08:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":14,"price":290}],"date":"Sep 5, 2023, 5:08:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":17,"price":395}],"date":"Sep 5, 2023, 5:08:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":123}],"date":"Sep 5, 2023, 5:08:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":35,"price":10}],"date":"Sep 5, 2023, 5:08:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":28,"price":123}],"date":"Sep 5, 2023, 5:08:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":10}],"date":"Sep 5, 2023, 5:08:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 5:08:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Sep 5, 2023, 5:09:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":290}],"date":"Sep 5, 2023, 5:09:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 5, 2023, 5:09:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":320}],"date":"Sep 5, 2023, 5:09:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":320}],"date":"Sep 5, 2023, 5:09:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":290}],"date":"Sep 5, 2023, 5:09:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1380,"price":2}],"date":"Sep 5, 2023, 5:09:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":733}],"date":"Sep 5, 2023, 5:09:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":23,"price":123}],"date":"Sep 5, 2023, 5:09:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":290}],"date":"Sep 5, 2023, 5:09:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":290}],"date":"Sep 5, 2023, 5:09:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":22,"price":395}],"date":"Sep 5, 2023, 5:09:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":290}],"date":"Sep 5, 2023, 5:09:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Sep 5, 2023, 5:09:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":60,"price":0}],"date":"Sep 5, 2023, 5:09:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":290}],"date":"Sep 5, 2023, 5:09:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":10}],"date":"Sep 5, 2023, 5:09:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":320}],"date":"Sep 5, 2023, 5:09:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":733}],"date":"Sep 5, 2023, 5:09:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":137,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":10}],"date":"Sep 5, 2023, 5:09:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":56,"price":0}],"date":"Sep 6, 2023, 11:15:12 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":38,"price":14},{"name":"Soaked page","id":25578,"quantity":7,"price":789}],"date":"Sep 6, 2023, 11:15:14 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":23,"price":252}],"date":"Sep 6, 2023, 11:15:15 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":54,"price":0}],"date":"Sep 6, 2023, 11:15:17 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 11:15:19 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":758}],"date":"Sep 6, 2023, 11:15:21 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 11:15:23 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":37,"price":14}],"date":"Sep 6, 2023, 11:15:24 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":758}],"date":"Sep 6, 2023, 11:15:26 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":11,"price":312}],"date":"Sep 6, 2023, 11:15:28 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Sep 6, 2023, 11:15:30 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":23,"price":252}],"date":"Sep 6, 2023, 11:15:32 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":252}],"date":"Sep 6, 2023, 11:15:33 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":28,"price":124}],"date":"Sep 6, 2023, 11:15:35 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":758}],"date":"Sep 6, 2023, 11:15:37 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":22,"price":252}],"date":"Sep 6, 2023, 11:15:39 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":124}],"date":"Sep 6, 2023, 11:15:41 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":11}],"date":"Sep 6, 2023, 11:15:42 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Sep 6, 2023, 11:15:44 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":312}],"date":"Sep 6, 2023, 11:15:46 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":949,"price":2}],"date":"Sep 6, 2023, 11:15:48 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":41,"price":0}],"date":"Sep 6, 2023, 11:15:50 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 11:15:51 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":11}],"date":"Sep 6, 2023, 11:15:53 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":312}],"date":"Sep 6, 2023, 11:15:55 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1476,"price":2}],"date":"Sep 6, 2023, 11:15:57 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":286}],"date":"Sep 6, 2023, 11:15:59 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":43,"price":0}],"date":"Sep 6, 2023, 11:16:00 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":25,"price":252},{"name":"Soaked page","id":25578,"quantity":5,"price":789}],"date":"Sep 6, 2023, 11:16:02 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Sep 6, 2023, 11:16:04 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":286}],"date":"Sep 6, 2023, 11:16:06 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":25,"price":252}],"date":"Sep 6, 2023, 11:16:08 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":312}],"date":"Sep 6, 2023, 11:16:09 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":25,"price":395}],"date":"Sep 6, 2023, 11:16:11 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":286}],"date":"Sep 6, 2023, 11:16:13 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":11}],"date":"Sep 6, 2023, 11:16:15 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":312}],"date":"Sep 6, 2023, 11:16:17 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":312}],"date":"Sep 6, 2023, 11:16:18 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":11}],"date":"Sep 6, 2023, 11:16:20 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":11}],"date":"Sep 6, 2023, 11:16:22 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":23,"price":124}],"date":"Sep 6, 2023, 11:16:24 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":124}],"date":"Sep 6, 2023, 11:16:26 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":286}],"date":"Sep 6, 2023, 11:16:27 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":6,"price":789},{"name":"Oak plank","id":8779,"quantity":15,"price":395}],"date":"Sep 6, 2023, 11:16:29 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":14,"price":286}],"date":"Sep 6, 2023, 11:16:31 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":56,"price":0}],"date":"Sep 6, 2023, 11:16:33 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":29,"price":252}],"date":"Sep 6, 2023, 11:16:35 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":29,"price":124}],"date":"Sep 6, 2023, 11:16:36 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 11:16:38 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":22,"price":124}],"date":"Sep 6, 2023, 11:16:40 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":286}],"date":"Sep 6, 2023, 11:16:42 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":28,"price":124}],"date":"Sep 6, 2023, 11:16:44 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 11:16:45 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Sep 6, 2023, 11:16:47 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":47,"price":0}],"date":"Sep 6, 2023, 11:16:49 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":286}],"date":"Sep 6, 2023, 11:16:51 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Sep 6, 2023, 11:16:53 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Sep 6, 2023, 11:16:54 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":39,"price":0}],"date":"Sep 6, 2023, 11:16:56 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":24,"price":252}],"date":"Sep 6, 2023, 11:16:58 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":286}],"date":"Sep 6, 2023, 11:17:00 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Sep 6, 2023, 11:17:02 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":11}],"date":"Sep 6, 2023, 11:17:03 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":11}],"date":"Sep 6, 2023, 11:17:05 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":286}],"date":"Sep 6, 2023, 11:17:07 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":286}],"date":"Sep 6, 2023, 11:17:09 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":62,"price":0}],"date":"Sep 6, 2023, 11:17:11 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":45,"price":0}],"date":"Sep 6, 2023, 11:17:12 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":11}],"date":"Sep 6, 2023, 11:17:14 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":52,"price":0}],"date":"Sep 6, 2023, 11:17:16 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":23,"price":395}],"date":"Sep 6, 2023, 11:17:18 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":17,"price":286}],"date":"Sep 6, 2023, 11:17:20 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 11:17:21 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":63,"price":0}],"date":"Sep 6, 2023, 11:17:23 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":11}],"date":"Sep 6, 2023, 11:17:25 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Sep 6, 2023, 11:17:27 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Sep 6, 2023, 11:17:29 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":16,"price":395}],"date":"Sep 6, 2023, 11:17:30 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 11:17:32 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":758}],"date":"Sep 6, 2023, 11:17:34 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":758}],"date":"Sep 6, 2023, 11:17:36 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":11}],"date":"Sep 6, 2023, 11:17:38 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":39,"price":0}],"date":"Sep 6, 2023, 11:17:39 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":11}],"date":"Sep 6, 2023, 11:17:41 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":312}],"date":"Sep 6, 2023, 11:17:43 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":20,"price":252}],"date":"Sep 6, 2023, 11:17:45 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":24,"price":14}],"date":"Sep 6, 2023, 11:17:47 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1103,"price":3}],"date":"Sep 6, 2023, 11:17:48 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":758}],"date":"Sep 6, 2023, 11:17:50 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":11,"price":312}],"date":"Sep 6, 2023, 11:17:52 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":312}],"date":"Sep 6, 2023, 11:17:54 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":11}],"date":"Sep 6, 2023, 11:17:56 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":54,"price":14}],"date":"Sep 6, 2023, 11:17:57 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":286}],"date":"Sep 6, 2023, 11:17:59 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":52,"price":0}],"date":"Sep 6, 2023, 11:18:01 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":312}],"date":"Sep 6, 2023, 11:18:03 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 11:18:05 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":33,"price":0}],"date":"Sep 6, 2023, 11:18:06 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":916,"price":2}],"date":"Sep 6, 2023, 11:18:08 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":143,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":53,"price":0}],"date":"Sep 6, 2023, 11:18:10 AM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":57,"price":0}],"date":"Sep 6, 2023, 1:34:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":11}],"date":"Sep 6, 2023, 1:34:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":17,"price":286}],"date":"Sep 6, 2023, 1:34:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":124}],"date":"Sep 6, 2023, 1:35:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":758}],"date":"Sep 6, 2023, 1:35:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":47,"price":0}],"date":"Sep 6, 2023, 1:35:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":312}],"date":"Sep 6, 2023, 1:35:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":54,"price":0}],"date":"Sep 6, 2023, 1:35:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":33,"price":0}],"date":"Sep 6, 2023, 1:35:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":11}],"date":"Sep 6, 2023, 1:35:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":11}],"date":"Sep 6, 2023, 1:35:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":62,"price":0}],"date":"Sep 6, 2023, 1:35:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":32,"price":0}],"date":"Sep 6, 2023, 1:35:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0},{"name":"Soaked page","id":25578,"quantity":25,"price":789}],"date":"Sep 6, 2023, 1:35:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":62,"price":0}],"date":"Sep 6, 2023, 1:35:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":758}],"date":"Sep 6, 2023, 1:35:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Feather","id":314,"quantity":1386,"price":2}],"date":"Sep 6, 2023, 1:35:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":355,"price":17}],"date":"Sep 6, 2023, 1:35:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 1:35:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":55,"price":0}],"date":"Sep 6, 2023, 1:35:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":312}],"date":"Sep 6, 2023, 1:35:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":23,"price":252}],"date":"Sep 6, 2023, 1:35:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":51,"price":0}],"date":"Sep 6, 2023, 1:35:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":252}],"date":"Sep 6, 2023, 1:35:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":11}],"date":"Sep 6, 2023, 1:35:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":312}],"date":"Sep 6, 2023, 1:35:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 1:35:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":11}],"date":"Sep 6, 2023, 1:35:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":11}],"date":"Sep 6, 2023, 1:35:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":6,"price":789},{"name":"Raw swordfish","id":372,"quantity":28,"price":124}],"date":"Sep 6, 2023, 1:35:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1400,"price":3}],"date":"Sep 6, 2023, 1:35:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":40,"price":0}],"date":"Sep 6, 2023, 1:35:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":60,"price":0}],"date":"Sep 6, 2023, 1:35:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":286}],"date":"Sep 6, 2023, 1:35:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":286}],"date":"Sep 6, 2023, 1:35:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":9,"price":789},{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 1:35:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":11}],"date":"Sep 6, 2023, 1:36:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":312}],"date":"Sep 6, 2023, 1:36:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":312}],"date":"Sep 6, 2023, 1:36:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 1:36:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":124}],"date":"Sep 6, 2023, 1:36:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Sep 6, 2023, 1:36:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":52,"price":0}],"date":"Sep 6, 2023, 1:36:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":758}],"date":"Sep 6, 2023, 1:36:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":27,"price":124}],"date":"Sep 6, 2023, 1:36:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Sep 6, 2023, 1:36:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":286}],"date":"Sep 6, 2023, 1:36:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 1:36:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":60,"price":0}],"date":"Sep 6, 2023, 1:36:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":61,"price":0}],"date":"Sep 6, 2023, 1:36:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":11}],"date":"Sep 6, 2023, 1:36:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":19,"price":395}],"date":"Sep 6, 2023, 1:36:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":10,"price":758}],"date":"Sep 6, 2023, 1:36:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 6, 2023, 1:36:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 1:36:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":312}],"date":"Sep 6, 2023, 1:36:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":286}],"date":"Sep 6, 2023, 1:36:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Sep 6, 2023, 1:36:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":252}],"date":"Sep 6, 2023, 1:36:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":312}],"date":"Sep 6, 2023, 1:36:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":29,"price":252}],"date":"Sep 6, 2023, 1:36:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":11}],"date":"Sep 6, 2023, 1:36:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":17,"price":286}],"date":"Sep 6, 2023, 1:36:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":11}],"date":"Sep 6, 2023, 1:36:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":758}],"date":"Sep 6, 2023, 1:36:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":286}],"date":"Sep 6, 2023, 1:36:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":52,"price":0}],"date":"Sep 6, 2023, 1:36:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":312}],"date":"Sep 6, 2023, 1:36:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":395,"price":17}],"date":"Sep 6, 2023, 1:36:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":38,"price":11}],"date":"Sep 6, 2023, 1:37:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":9,"price":312}],"date":"Sep 6, 2023, 1:37:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":33,"price":0}],"date":"Sep 6, 2023, 1:37:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":11}],"date":"Sep 6, 2023, 1:37:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":286}],"date":"Sep 6, 2023, 1:37:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":22,"price":395}],"date":"Sep 6, 2023, 1:37:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":25,"price":789},{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 1:37:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Sep 6, 2023, 1:37:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":758}],"date":"Sep 6, 2023, 1:37:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":758}],"date":"Sep 6, 2023, 1:37:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":39,"price":0}],"date":"Sep 6, 2023, 1:37:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":312}],"date":"Sep 6, 2023, 1:37:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":124}],"date":"Sep 6, 2023, 1:37:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":286}],"date":"Sep 6, 2023, 1:37:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":252}],"date":"Sep 6, 2023, 1:37:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":31,"price":11}],"date":"Sep 6, 2023, 1:37:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":6,"price":758}],"date":"Sep 6, 2023, 1:37:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":56,"price":14}],"date":"Sep 6, 2023, 1:37:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":64,"price":0}],"date":"Sep 6, 2023, 1:37:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":968,"price":3}],"date":"Sep 6, 2023, 1:37:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":286}],"date":"Sep 6, 2023, 1:37:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":312}],"date":"Sep 6, 2023, 1:37:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Sep 6, 2023, 1:37:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":18,"price":286}],"date":"Sep 6, 2023, 1:37:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":985,"price":3}],"date":"Sep 6, 2023, 1:37:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":11}],"date":"Sep 6, 2023, 1:37:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":312}],"date":"Sep 6, 2023, 1:37:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":124}],"date":"Sep 6, 2023, 1:37:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":286}],"date":"Sep 6, 2023, 1:37:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":23,"price":252}],"date":"Sep 6, 2023, 1:38:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":150,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":30,"price":11}],"date":"Sep 6, 2023, 1:38:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":44,"price":0}],"date":"Sep 6, 2023, 3:50:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":758}],"date":"Sep 6, 2023, 3:50:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":40,"price":14}],"date":"Sep 6, 2023, 3:50:36 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":38,"price":0}],"date":"Sep 6, 2023, 3:50:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":286}],"date":"Sep 6, 2023, 3:50:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1363,"price":3}],"date":"Sep 6, 2023, 3:50:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Sep 6, 2023, 3:50:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 3:50:45 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":312}],"date":"Sep 6, 2023, 3:50:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":286}],"date":"Sep 6, 2023, 3:50:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":286}],"date":"Sep 6, 2023, 3:50:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":286}],"date":"Sep 6, 2023, 3:50:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":10,"price":286}],"date":"Sep 6, 2023, 3:50:54 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":312}],"date":"Sep 6, 2023, 3:50:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":33,"price":11}],"date":"Sep 6, 2023, 3:50:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":37,"price":0}],"date":"Sep 6, 2023, 3:50:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":286}],"date":"Sep 6, 2023, 3:51:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":26,"price":124}],"date":"Sep 6, 2023, 3:51:03 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":312}],"date":"Sep 6, 2023, 3:51:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":286}],"date":"Sep 6, 2023, 3:51:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":32,"price":0}],"date":"Sep 6, 2023, 3:51:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":24,"price":124}],"date":"Sep 6, 2023, 3:51:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":252}],"date":"Sep 6, 2023, 3:51:12 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 6, 2023, 3:51:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":37,"price":0}],"date":"Sep 6, 2023, 3:51:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":758}],"date":"Sep 6, 2023, 3:51:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":8,"price":758}],"date":"Sep 6, 2023, 3:51:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":27,"price":252}],"date":"Sep 6, 2023, 3:51:21 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":286}],"date":"Sep 6, 2023, 3:51:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":50,"price":0}],"date":"Sep 6, 2023, 3:51:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":34,"price":0}],"date":"Sep 6, 2023, 3:51:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":39,"price":11}],"date":"Sep 6, 2023, 3:51:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":124}],"date":"Sep 6, 2023, 3:51:30 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":11}],"date":"Sep 6, 2023, 3:51:32 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":19,"price":286},{"name":"Soaked page","id":25578,"quantity":25,"price":789}],"date":"Sep 6, 2023, 3:51:34 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":35,"price":0}],"date":"Sep 6, 2023, 3:51:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":25,"price":124}],"date":"Sep 6, 2023, 3:51:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":286}],"date":"Sep 6, 2023, 3:51:39 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":124}],"date":"Sep 6, 2023, 3:51:41 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":52,"price":0}],"date":"Sep 6, 2023, 3:51:43 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":17,"price":286}],"date":"Sep 6, 2023, 3:51:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 3:51:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":49,"price":0}],"date":"Sep 6, 2023, 3:51:48 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":32,"price":11}],"date":"Sep 6, 2023, 3:51:50 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 3:51:52 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":20,"price":395}],"date":"Sep 6, 2023, 3:51:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":62,"price":0}],"date":"Sep 6, 2023, 3:51:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":124}],"date":"Sep 6, 2023, 3:51:57 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":7,"price":312}],"date":"Sep 6, 2023, 3:51:59 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":39,"price":0}],"date":"Sep 6, 2023, 3:52:01 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":59,"price":0}],"date":"Sep 6, 2023, 3:52:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":286},{"name":"Soaked page","id":25578,"quantity":8,"price":789}],"date":"Sep 6, 2023, 3:52:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":12,"price":312}],"date":"Sep 6, 2023, 3:52:06 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Sep 6, 2023, 3:52:08 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":20,"price":124}],"date":"Sep 6, 2023, 3:52:10 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":15,"price":286}],"date":"Sep 6, 2023, 3:52:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":36,"price":0}],"date":"Sep 6, 2023, 3:52:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Sep 6, 2023, 3:52:15 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":34,"price":11}],"date":"Sep 6, 2023, 3:52:17 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":6,"price":789},{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 3:52:19 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":36,"price":11}],"date":"Sep 6, 2023, 3:52:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 6, 2023, 3:52:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":11,"price":286}],"date":"Sep 6, 2023, 3:52:24 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Plank","id":961,"quantity":30,"price":252}],"date":"Sep 6, 2023, 3:52:26 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":45,"price":0}],"date":"Sep 6, 2023, 3:52:28 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 6, 2023, 3:52:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Soaked page","id":25578,"quantity":7,"price":789},{"name":"Spirit flakes","id":25588,"quantity":39,"price":0}],"date":"Sep 6, 2023, 3:52:31 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":312}],"date":"Sep 6, 2023, 3:52:33 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":8,"price":312}],"date":"Sep 6, 2023, 3:52:35 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Fishing bait","id":313,"quantity":1560,"price":3}],"date":"Sep 6, 2023, 3:52:37 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":13,"price":286}],"date":"Sep 6, 2023, 3:52:38 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":24,"price":124}],"date":"Sep 6, 2023, 3:52:40 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":12,"price":286}],"date":"Sep 6, 2023, 3:52:42 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":20,"price":286}],"date":"Sep 6, 2023, 3:52:44 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":46,"price":0}],"date":"Sep 6, 2023, 3:52:46 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw sea turtle","id":396,"quantity":10,"price":312}],"date":"Sep 6, 2023, 3:52:47 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":63,"price":0}],"date":"Sep 6, 2023, 3:52:49 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":48,"price":0}],"date":"Sep 6, 2023, 3:52:51 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":9,"price":758}],"date":"Sep 6, 2023, 3:52:53 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":375,"price":17}],"date":"Sep 6, 2023, 3:52:55 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":5,"price":758}],"date":"Sep 6, 2023, 3:52:56 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":40,"price":11}],"date":"Sep 6, 2023, 3:52:58 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 3:53:00 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":30,"price":124}],"date":"Sep 6, 2023, 3:53:02 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":11}],"date":"Sep 6, 2023, 3:53:04 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":21,"price":124}],"date":"Sep 6, 2023, 3:53:05 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Casket","id":25590,"quantity":1,"price":0}],"date":"Sep 6, 2023, 3:53:07 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":28,"price":124}],"date":"Sep 6, 2023, 3:53:09 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw shark","id":384,"quantity":16,"price":286}],"date":"Sep 6, 2023, 3:53:11 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":31,"price":14}],"date":"Sep 6, 2023, 3:53:13 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Oak plank","id":8779,"quantity":22,"price":395}],"date":"Sep 6, 2023, 3:53:14 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw bass","id":364,"quantity":37,"price":11}],"date":"Sep 6, 2023, 3:53:16 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":42,"price":0}],"date":"Sep 6, 2023, 3:53:18 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":54,"price":0}],"date":"Sep 6, 2023, 3:53:20 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Spirit flakes","id":25588,"quantity":51,"price":0}],"date":"Sep 6, 2023, 3:53:22 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Seaweed","id":402,"quantity":40,"price":14}],"date":"Sep 6, 2023, 3:53:23 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw swordfish","id":372,"quantity":24,"price":124}],"date":"Sep 6, 2023, 3:53:25 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Steel nails","id":1539,"quantity":342,"price":17}],"date":"Sep 6, 2023, 3:53:27 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 3:53:29 PM"}
+{"name":"Reward pool (Tempoross)","level":-1,"killCount":157,"type":"EVENT","drops":[{"name":"Raw manta ray","id":390,"quantity":7,"price":758}],"date":"Sep 6, 2023, 3:53:31 PM"}

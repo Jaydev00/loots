@@ -79,3 +79,5 @@
 {"name":"Skeleton","level":77,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":55}],"date":"Jun 23, 2023, 7:13:52 PM"}
 {"name":"Skeleton","level":77,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":55}],"date":"Jun 23, 2023, 7:41:20 PM"}
 {"name":"Skeleton","level":77,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":59}],"date":"Jun 30, 2023, 8:56:03 AM"}
+{"name":"Skeleton","level":25,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63},{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Aug 9, 2023, 1:03:59 PM"}
+{"name":"Skeleton","level":25,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63}],"date":"Aug 9, 2023, 1:04:21 PM"}

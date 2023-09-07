@@ -55,3 +55,4 @@
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Headless arrow","id":53,"quantity":30,"price":8}],"date":"Apr 26, 2023, 4:24:31 PM"}
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Hammer","id":2347,"quantity":1,"price":73}],"date":"Apr 26, 2023, 4:33:08 PM"}
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":58},{"name":"Headless arrow","id":53,"quantity":30,"price":8}],"date":"May 22, 2023, 12:36:38 AM"}
+{"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63}],"date":"Aug 9, 2023, 12:17:06 PM"}
