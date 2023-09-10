@@ -159,3 +159,5 @@
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":59},{"name":"Air battlestaff","id":1397,"quantity":1,"price":8927}],"date":"Aug 3, 2023, 5:09:36 PM"}
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":59},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Aug 3, 2023, 5:10:03 PM"}
 {"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":69},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Sep 4, 2023, 1:12:17 PM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Blood rune","id":565,"quantity":8,"price":195}],"date":"Sep 8, 2023, 2:40:24 PM"}
+{"name":"Saradomin wizard","level":108,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Air rune","id":556,"quantity":60,"price":4}],"date":"Sep 8, 2023, 2:42:16 PM"}
