@@ -52,6 +52,7 @@
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":61},{"name":"Coins","id":995,"quantity":350,"price":1}],"date":"Apr 5, 2023, 7:56:43 AM"}
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":60},{"name":"Coal","id":453,"quantity":1,"price":166}],"date":"Apr 26, 2023, 4:27:55 PM"}
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63},{"name":"Headless arrow","id":53,"quantity":30,"price":7}],"date":"Aug 9, 2023, 12:53:46 PM"}
+{"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Coins","id":995,"quantity":35,"price":1}],"date":"Sep 26, 2023, 4:19:22 PM"}
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":88},{"name":"Coins","id":995,"quantity":35,"price":1}],"date":"Sep 14, 2023, 4:47:05 PM"}
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":88},{"name":"Nature rune","id":561,"quantity":20,"price":87}],"date":"Sep 14, 2023, 4:48:30 PM"}
 {"name":"Bandosian guard","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":88}],"date":"Sep 14, 2023, 4:52:00 PM"}

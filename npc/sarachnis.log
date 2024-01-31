@@ -34,3 +34,39 @@
 {"name":"Sarachnis","level":318,"killCount":37,"type":"NPC","drops":[{"name":"Mithril arrow","id":888,"quantity":519,"price":3}],"date":"Jul 5, 2022, 12:19:26 AM"}
 {"name":"Sarachnis","level":318,"killCount":38,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":92,"price":354}],"date":"Jul 5, 2022, 12:24:27 AM"}
 {"name":"Sarachnis","level":318,"killCount":39,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1624,"quantity":24,"price":273}],"date":"Mar 26, 2023, 9:02:42 PM"}
+{"name":"Sarachnis","level":318,"killCount":40,"type":"NPC","drops":[{"name":"Cosmic rune","id":564,"quantity":139,"price":47}],"date":"Sep 12, 2023, 1:25:22 PM"}
+{"name":"Sarachnis","level":318,"killCount":41,"type":"NPC","drops":[{"name":"Adamantite ore","id":450,"quantity":36,"price":682}],"date":"Sep 12, 2023, 1:29:09 PM"}
+{"name":"Sarachnis","level":318,"killCount":42,"type":"NPC","drops":[{"name":"Mithril ore","id":448,"quantity":64,"price":77}],"date":"Sep 12, 2023, 1:30:50 PM"}
+{"name":"Sarachnis","level":318,"killCount":43,"type":"NPC","drops":[{"name":"Grubby key","id":23499,"quantity":1,"price":31909},{"name":"Blood rune","id":565,"quantity":90,"price":195}],"date":"Sep 12, 2023, 1:32:12 PM"}
+{"name":"Sarachnis","level":318,"killCount":44,"type":"NPC","drops":[{"name":"Weapon poison(++)","id":5941,"quantity":6,"price":4283}],"date":"Sep 12, 2023, 1:33:31 PM"}
+{"name":"Sarachnis","level":318,"killCount":45,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1624,"quantity":30,"price":267}],"date":"Sep 12, 2023, 1:34:46 PM"}
+{"name":"Sarachnis","level":318,"killCount":46,"type":"NPC","drops":[{"name":"Battlestaff","id":1392,"quantity":10,"price":7629}],"date":"Sep 12, 2023, 1:36:05 PM"}
+{"name":"Sarachnis","level":318,"killCount":47,"type":"NPC","drops":[{"name":"Cosmic rune","id":564,"quantity":127,"price":47}],"date":"Sep 12, 2023, 1:49:10 PM"}
+{"name":"Sarachnis","level":318,"killCount":48,"type":"NPC","drops":[{"name":"Grubby key","id":23499,"quantity":1,"price":31909},{"name":"Grimy dwarf weed","id":218,"quantity":15,"price":1625}],"date":"Sep 12, 2023, 1:50:53 PM"}
+{"name":"Sarachnis","level":318,"killCount":49,"type":"NPC","drops":[{"name":"Runite ore","id":452,"quantity":6,"price":10766}],"date":"Sep 12, 2023, 1:52:10 PM"}
+{"name":"Sarachnis","level":318,"killCount":50,"type":"NPC","drops":[{"name":"Grubby key","id":23499,"quantity":1,"price":31909},{"name":"Rune med helm","id":1147,"quantity":1,"price":11253}],"date":"Sep 12, 2023, 1:53:47 PM"}
+{"name":"Sarachnis","level":318,"killCount":51,"type":"NPC","drops":[{"name":"Giant egg sac(full)","id":23517,"quantity":1,"price":43093},{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37848}],"date":"Sep 12, 2023, 1:54:58 PM"}
+{"name":"Sarachnis","level":318,"killCount":52,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":182,"price":43}],"date":"Sep 12, 2023, 1:56:48 PM"}
+{"name":"Sarachnis","level":318,"killCount":53,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":98,"price":89}],"date":"Sep 12, 2023, 1:58:09 PM"}
+{"name":"Sarachnis","level":318,"killCount":54,"type":"NPC","drops":[{"name":"Grubby key","id":23499,"quantity":1,"price":31909},{"name":"Onyx bolt tips","id":9194,"quantity":10,"price":8344}],"date":"Sep 12, 2023, 2:03:16 PM"}
+{"name":"Sarachnis","level":318,"killCount":55,"type":"NPC","drops":[{"name":"Cosmic rune","id":564,"quantity":142,"price":47}],"date":"Sep 12, 2023, 2:04:51 PM"}
+{"name":"Sarachnis","level":318,"killCount":56,"type":"NPC","drops":[{"name":"Adamantite ore","id":450,"quantity":36,"price":682}],"date":"Sep 12, 2023, 2:06:43 PM"}
+{"name":"Sarachnis","level":318,"killCount":57,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":99,"price":195}],"date":"Sep 12, 2023, 2:07:55 PM"}
+{"name":"Sarachnis","level":318,"killCount":58,"type":"NPC","drops":[{"name":"Uncut emerald","id":1622,"quantity":20,"price":460}],"date":"Sep 12, 2023, 2:09:06 PM"}
+{"name":"Sarachnis","level":318,"killCount":59,"type":"NPC","drops":[{"name":"Giant egg sac(full)","id":23517,"quantity":1,"price":43093},{"name":"Dragon bones","id":537,"quantity":12,"price":1934}],"date":"Sep 12, 2023, 2:10:53 PM"}
+{"name":"Sarachnis","level":318,"killCount":60,"type":"NPC","drops":[{"name":"Grubby key","id":23499,"quantity":1,"price":31909},{"name":"Dragon bones","id":537,"quantity":13,"price":1934}],"date":"Sep 12, 2023, 2:34:57 PM"}
+{"name":"Sarachnis","level":318,"killCount":61,"type":"NPC","drops":[{"name":"Adamantite ore","id":450,"quantity":34,"price":682}],"date":"Sep 12, 2023, 2:35:58 PM"}
+{"name":"Sarachnis","level":318,"killCount":62,"type":"NPC","drops":[{"name":"Cosmic rune","id":564,"quantity":137,"price":47}],"date":"Sep 12, 2023, 2:37:20 PM"}
+{"name":"Sarachnis","level":318,"killCount":63,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":21393,"price":1}],"date":"Sep 12, 2023, 2:38:50 PM"}
+{"name":"Sarachnis","level":318,"killCount":64,"type":"NPC","drops":[{"name":"Uncut ruby","id":1620,"quantity":24,"price":931}],"date":"Sep 12, 2023, 2:40:01 PM"}
+{"name":"Sarachnis","level":318,"killCount":65,"type":"NPC","drops":[{"name":"Yew seed","id":5315,"quantity":1,"price":25731}],"date":"Sep 12, 2023, 2:41:15 PM"}
+{"name":"Sarachnis","level":318,"killCount":66,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":95,"price":195}],"date":"Sep 12, 2023, 2:42:57 PM"}
+{"name":"Sarachnis","level":318,"killCount":67,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":80,"price":228}],"date":"Sep 12, 2023, 2:44:21 PM"}
+{"name":"Sarachnis","level":318,"killCount":68,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":99,"price":228}],"date":"Sep 12, 2023, 2:49:12 PM"}
+{"name":"Sarachnis","level":318,"killCount":69,"type":"NPC","drops":[{"name":"Spider carcass","id":6292,"quantity":10,"price":88}],"date":"Sep 12, 2023, 2:50:57 PM"}
+{"name":"Sarachnis","level":318,"killCount":70,"type":"NPC","drops":[{"name":"Grubby key","id":23499,"quantity":1,"price":31909},{"name":"Death rune","id":560,"quantity":81,"price":89}],"date":"Sep 12, 2023, 2:52:34 PM"}
+{"name":"Sarachnis","level":318,"killCount":71,"type":"NPC","drops":[{"name":"Spider carcass","id":6292,"quantity":10,"price":88}],"date":"Sep 12, 2023, 2:54:02 PM"}
+{"name":"Sarachnis","level":318,"killCount":72,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":17096,"price":1}],"date":"Sep 12, 2023, 2:55:13 PM"}
+{"name":"Sarachnis","level":318,"killCount":73,"type":"NPC","drops":[{"name":"Clue scroll (elite)","id":12121,"quantity":1,"price":0},{"name":"Egg potato","id":7056,"quantity":1,"price":263},{"name":"Egg potato","id":7056,"quantity":1,"price":263},{"name":"Egg potato","id":7056,"quantity":1,"price":263},{"name":"Egg potato","id":7056,"quantity":1,"price":263},{"name":"Egg potato","id":7056,"quantity":1,"price":263},{"name":"Egg potato","id":7056,"quantity":1,"price":263}],"date":"Sep 12, 2023, 2:56:50 PM"}
+{"name":"Sarachnis","level":318,"killCount":74,"type":"NPC","drops":[{"name":"Grimy dwarf weed","id":218,"quantity":15,"price":1625}],"date":"Sep 12, 2023, 2:57:58 PM"}
+{"name":"Sarachnis","level":318,"killCount":75,"type":"NPC","drops":[{"name":"Uncut emerald","id":1622,"quantity":24,"price":460}],"date":"Sep 12, 2023, 2:59:10 PM"}
