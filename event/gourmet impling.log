@@ -65,3 +65,4 @@
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Curry","id":2011,"quantity":1,"price":410}],"date":"Jul 24, 2023, 3:55:04 PM"}
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Frog spawn","id":5004,"quantity":1,"price":0},{"name":"Clue scroll (easy)","id":12184,"quantity":1,"price":0}],"date":"Jul 26, 2023, 1:30:02 PM"}
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Curry","id":2011,"quantity":1,"price":401}],"date":"Jul 27, 2023, 10:54:46 AM"}
+{"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Frog spawn","id":5004,"quantity":1,"price":0},{"name":"Clue scroll (easy)","id":23158,"quantity":1,"price":0}],"date":"Nov 3, 2023, 3:30:17 PM"}

@@ -5139,3 +5139,9 @@
 {"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Iron arrow","id":884,"quantity":3,"price":4}],"date":"Sep 5, 2023, 12:25:28 PM"}
 {"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":38,"price":1}],"date":"Sep 5, 2023, 12:27:49 PM"}
 {"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":15,"price":1}],"date":"Sep 5, 2023, 12:27:57 PM"}
+{"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":246},{"name":"Coins","id":995,"quantity":8,"price":1}],"date":"Dec 11, 2023, 5:24:55 PM"}
+{"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":246},{"name":"Body talisman","id":1446,"quantity":1,"price":1539}],"date":"Dec 11, 2023, 5:25:00 PM"}
+{"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":246},{"name":"Iron full helm","id":1153,"quantity":1,"price":102}],"date":"Dec 11, 2023, 5:25:05 PM"}
+{"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":246},{"name":"Coins","id":995,"quantity":38,"price":1}],"date":"Dec 11, 2023, 5:25:09 PM"}
+{"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":246},{"name":"Limpwurt root","id":225,"quantity":1,"price":239}],"date":"Dec 11, 2023, 5:25:12 PM"}
+{"name":"Hill Giant","level":28,"killCount":-1,"type":"NPC","drops":[{"name":"Big bones","id":532,"quantity":1,"price":246},{"name":"Grimy cadantine","id":215,"quantity":1,"price":3640}],"date":"Dec 11, 2023, 5:25:17 PM"}
