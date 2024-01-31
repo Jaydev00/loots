@@ -2566,3 +2566,5 @@
 {"name":"Imp","level":7,"killCount":-1,"type":"NPC","drops":[{"name":"Fiendish ashes","id":25766,"quantity":1,"price":155},{"name":"Red bead","id":1470,"quantity":1,"price":2028}],"date":"May 26, 2023, 10:27:38 PM"}
 {"name":"Imp","level":7,"killCount":-1,"type":"NPC","drops":[{"name":"Fiendish ashes","id":25766,"quantity":1,"price":155},{"name":"Burnt bread","id":2311,"quantity":1,"price":0}],"date":"May 26, 2023, 10:27:43 PM"}
 {"name":"Imp","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Fiendish ashes","id":25766,"quantity":1,"price":119},{"name":"Mind talisman","id":1448,"quantity":1,"price":540}],"date":"Jul 23, 2023, 10:21:43 AM"}
+{"name":"Imp","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Fiendish ashes","id":25766,"quantity":1,"price":142},{"name":"Mind talisman","id":1448,"quantity":1,"price":1099}],"date":"Nov 15, 2023, 11:55:12 AM"}
+{"name":"Imp","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Fiendish ashes","id":25766,"quantity":1,"price":139},{"name":"Yellow bead","id":1472,"quantity":1,"price":2397}],"date":"Nov 26, 2023, 4:12:37 PM"}

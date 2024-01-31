@@ -3603,3 +3603,447 @@
 {"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":5005},{"name":"Black sword","id":1283,"quantity":1,"price":202}],"date":"Jun 12, 2023, 5:38:15 PM"}
 {"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":197}],"date":"Jun 12, 2023, 5:38:15 PM"}
 {"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":197}],"date":"Jun 12, 2023, 5:38:18 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:47:28 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Steel battleaxe","id":1365,"quantity":1,"price":192}],"date":"Nov 22, 2023, 6:47:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2361,"quantity":1,"price":1864}],"date":"Nov 22, 2023, 6:47:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 6:47:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 6:47:55 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 22, 2023, 6:48:09 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Law rune","id":563,"quantity":45,"price":117}],"date":"Nov 22, 2023, 6:48:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:48:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:49:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:49:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:49:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut ruby","id":1619,"quantity":1,"price":1104}],"date":"Nov 22, 2023, 6:50:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:50:08 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 22, 2023, 6:50:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:50:21 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 6:50:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":80}],"date":"Nov 22, 2023, 6:50:40 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":80}],"date":"Nov 22, 2023, 6:50:49 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":173}],"date":"Nov 22, 2023, 6:50:57 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":80}],"date":"Nov 22, 2023, 6:51:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Chaos rune","id":562,"quantity":10,"price":80}],"date":"Nov 22, 2023, 6:51:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":80}],"date":"Nov 22, 2023, 6:51:16 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 22, 2023, 6:51:21 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy irit leaf","id":209,"quantity":1,"price":1481}],"date":"Nov 22, 2023, 6:51:34 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 22, 2023, 6:51:42 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 22, 2023, 6:51:43 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":192}],"date":"Nov 22, 2023, 6:51:57 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:52:04 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:52:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 22, 2023, 6:52:10 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 22, 2023, 6:52:28 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":192}],"date":"Nov 22, 2023, 6:52:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":173}],"date":"Nov 22, 2023, 6:52:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:52:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 22, 2023, 6:52:52 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 22, 2023, 6:53:05 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black sword","id":1283,"quantity":1,"price":262}],"date":"Nov 22, 2023, 6:53:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":136}],"date":"Nov 22, 2023, 6:53:08 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:53:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:53:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":68}],"date":"Nov 22, 2023, 6:53:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Black axe","id":1361,"quantity":1,"price":183}],"date":"Nov 22, 2023, 6:53:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster","id":379,"quantity":1,"price":184}],"date":"Nov 22, 2023, 6:53:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 6:53:51 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Black axe","id":1361,"quantity":1,"price":183}],"date":"Nov 22, 2023, 6:54:07 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:54:10 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":263}],"date":"Nov 22, 2023, 6:54:18 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 22, 2023, 6:54:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:54:35 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Rune chainbody","id":1113,"quantity":1,"price":29073}],"date":"Nov 22, 2023, 6:54:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Cosmic talisman","id":1454,"quantity":1,"price":152}],"date":"Nov 22, 2023, 6:54:55 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy dwarf weed","id":217,"quantity":1,"price":2658}],"date":"Nov 22, 2023, 6:54:57 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 22, 2023, 6:55:04 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:55:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4536},{"name":"Chaos talisman","id":1452,"quantity":1,"price":114}],"date":"Nov 22, 2023, 6:55:33 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 6:55:33 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:55:55 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:55:57 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:55:57 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":524}],"date":"Nov 22, 2023, 6:56:03 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:56:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":80}],"date":"Nov 22, 2023, 6:56:21 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:56:21 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":136}],"date":"Nov 22, 2023, 6:56:32 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Grimy avantoe","id":211,"quantity":1,"price":4027}],"date":"Nov 22, 2023, 6:56:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4536},{"name":"Blood rune","id":565,"quantity":7,"price":197}],"date":"Nov 22, 2023, 6:56:49 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:57:03 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":192}],"date":"Nov 22, 2023, 6:57:10 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":136}],"date":"Nov 22, 2023, 6:57:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:57:18 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":80}],"date":"Nov 22, 2023, 6:57:28 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 6:57:39 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":68}],"date":"Nov 22, 2023, 6:57:45 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black sword","id":1283,"quantity":1,"price":262}],"date":"Nov 22, 2023, 6:57:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 6:57:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:58:08 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 22, 2023, 6:58:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:58:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4536},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:58:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:58:25 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2361,"quantity":1,"price":1864}],"date":"Nov 22, 2023, 6:58:40 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 6:58:43 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:58:45 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Rune med helm","id":1147,"quantity":1,"price":11106}],"date":"Nov 22, 2023, 6:58:57 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:59:03 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:59:16 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":80}],"date":"Nov 22, 2023, 6:59:18 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 22, 2023, 6:59:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 6:59:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":7,"price":197}],"date":"Nov 22, 2023, 6:59:52 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":460,"price":1}],"date":"Nov 22, 2023, 6:59:52 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 7:00:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 7:00:07 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4536},{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 7:00:16 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 7:00:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 7:00:39 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 7:00:42 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 22, 2023, 7:00:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 7:01:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black axe","id":1361,"quantity":1,"price":183}],"date":"Nov 22, 2023, 7:01:04 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":192}],"date":"Nov 22, 2023, 7:01:10 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 22, 2023, 7:01:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 22, 2023, 7:01:23 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 9:02:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 9:02:42 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:02:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:02:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314}],"date":"Nov 27, 2023, 9:03:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos talisman","id":1452,"quantity":1,"price":90}],"date":"Nov 27, 2023, 9:03:07 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:03:13 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 9:03:21 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril kiteshield","id":1197,"quantity":1,"price":1048}],"date":"Nov 27, 2023, 9:03:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:03:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Chaos talisman","id":1452,"quantity":1,"price":90}],"date":"Nov 27, 2023, 9:03:39 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:03:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 9:03:49 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:04:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black sword","id":1283,"quantity":1,"price":271}],"date":"Nov 27, 2023, 9:04:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:04:12 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0}],"date":"Nov 27, 2023, 9:04:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 9:04:24 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:04:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy harralander","id":205,"quantity":1,"price":594}],"date":"Nov 27, 2023, 9:04:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5883}],"date":"Nov 27, 2023, 9:04:42 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Grimy tarromin","id":203,"quantity":1,"price":163}],"date":"Nov 27, 2023, 9:04:45 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:04:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 9:05:18 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Adamantite bar","id":2361,"quantity":1,"price":1853}],"date":"Nov 27, 2023, 9:05:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 9:05:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 9:05:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Law rune","id":563,"quantity":3,"price":117}],"date":"Nov 27, 2023, 9:07:23 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 9:07:26 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 9:07:32 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Defence potion(3)","id":133,"quantity":1,"price":305}],"date":"Nov 27, 2023, 9:07:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:07:51 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:07:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 9:08:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:08:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5883}],"date":"Nov 27, 2023, 9:08:16 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 9:08:20 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 9:08:26 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 9:08:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":163}],"date":"Nov 27, 2023, 9:08:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Rune chainbody","id":1113,"quantity":1,"price":29225}],"date":"Nov 27, 2023, 9:08:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:08:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 9:09:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 9:09:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:09:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 9:09:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 9:09:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:02:04 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:02:09 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Steel battleaxe","id":1365,"quantity":1,"price":180}],"date":"Nov 27, 2023, 10:03:40 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:03:43 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:03:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:03:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:03:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:03:58 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:04:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:04:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:04:12 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:04:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:04:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:04:23 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:04:28 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:04:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:04:33 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 10:04:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":272}],"date":"Nov 27, 2023, 10:04:43 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:04:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 10:04:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0}],"date":"Nov 27, 2023, 10:04:53 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:04:58 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":69}],"date":"Nov 27, 2023, 10:05:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:05:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:05:08 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:05:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:05:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:05:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Defence potion(3)","id":133,"quantity":1,"price":305}],"date":"Nov 27, 2023, 10:05:23 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:05:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:05:33 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:05:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:05:40 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:05:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":69}],"date":"Nov 27, 2023, 10:05:49 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:05:52 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:05:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":272}],"date":"Nov 27, 2023, 10:05:59 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 10:06:05 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:06:09 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy lantadyme","id":2485,"quantity":1,"price":1739}],"date":"Nov 27, 2023, 10:06:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":272}],"date":"Nov 27, 2023, 10:06:22 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:06:26 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:06:32 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2361,"quantity":1,"price":1853}],"date":"Nov 27, 2023, 10:06:38 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:06:42 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster","id":379,"quantity":1,"price":182}],"date":"Nov 27, 2023, 10:06:45 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Grimy marrentill","id":201,"quantity":1,"price":69}],"date":"Nov 27, 2023, 10:06:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:06:53 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2361,"quantity":1,"price":1853}],"date":"Nov 27, 2023, 10:07:01 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:07:03 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2361,"quantity":1,"price":1853}],"date":"Nov 27, 2023, 10:07:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:07:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:07:16 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:07:20 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:07:23 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:07:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:07:34 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:07:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:07:40 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:07:45 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:07:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:07:53 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:07:55 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:07:59 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:08:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:08:08 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":180}],"date":"Nov 27, 2023, 10:08:13 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:08:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:08:21 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:08:26 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:08:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:08:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:08:34 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 10:08:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:08:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:08:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":163}],"date":"Nov 27, 2023, 10:08:49 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:08:57 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy kwuarm","id":213,"quantity":1,"price":3504}],"date":"Nov 27, 2023, 10:09:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5883}],"date":"Nov 27, 2023, 10:09:05 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Lobster","id":379,"quantity":1,"price":182}],"date":"Nov 27, 2023, 10:09:07 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 10:09:13 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:09:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:09:22 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:09:25 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:09:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 10:09:39 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:09:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:09:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:09:58 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy harralander","id":205,"quantity":1,"price":594}],"date":"Nov 27, 2023, 10:09:59 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:10:03 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:10:09 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:10:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:10:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:10:26 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Cosmic talisman","id":1454,"quantity":1,"price":119}],"date":"Nov 27, 2023, 10:10:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:10:32 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":69}],"date":"Nov 27, 2023, 10:10:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Law rune","id":563,"quantity":3,"price":117}],"date":"Nov 27, 2023, 10:10:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Defence potion(3)","id":133,"quantity":1,"price":305}],"date":"Nov 27, 2023, 10:10:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:10:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:10:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:10:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:11:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:11:05 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:11:08 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:11:13 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:11:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:11:20 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:11:24 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5883}],"date":"Nov 27, 2023, 10:11:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Defence potion(3)","id":133,"quantity":1,"price":305}],"date":"Nov 27, 2023, 10:11:32 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5883}],"date":"Nov 27, 2023, 10:11:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:11:40 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Adamantite bar","id":2361,"quantity":1,"price":1853}],"date":"Nov 27, 2023, 10:11:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:11:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":180}],"date":"Nov 27, 2023, 10:12:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:12:04 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:12:07 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:12:13 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy harralander","id":205,"quantity":1,"price":594}],"date":"Nov 27, 2023, 10:12:18 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Tooth half of key","id":985,"quantity":1,"price":9850}],"date":"Nov 27, 2023, 10:12:20 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:12:26 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:12:28 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":163}],"date":"Nov 27, 2023, 10:12:33 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":460,"price":1}],"date":"Nov 27, 2023, 10:12:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:12:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:12:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:12:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:12:52 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 10:13:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:13:35 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 10:13:40 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:13:49 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:13:55 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:13:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 10:13:59 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:14:05 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:14:12 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Rune med helm","id":1147,"quantity":1,"price":11164}],"date":"Nov 27, 2023, 10:14:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":163}],"date":"Nov 27, 2023, 10:14:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:14:21 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:14:29 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:14:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:14:40 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:14:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:14:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:14:52 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5883}],"date":"Nov 27, 2023, 10:14:58 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:15:01 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:15:10 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38032}],"date":"Nov 27, 2023, 10:15:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:15:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:15:42 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Grimy irit leaf","id":209,"quantity":1,"price":1633}],"date":"Nov 27, 2023, 10:15:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Black axe","id":1361,"quantity":1,"price":196}],"date":"Nov 27, 2023, 10:16:22 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:16:27 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy irit leaf","id":209,"quantity":1,"price":1633}],"date":"Nov 27, 2023, 10:16:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy harralander","id":205,"quantity":1,"price":594}],"date":"Nov 27, 2023, 10:16:34 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:16:38 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black sword","id":1283,"quantity":1,"price":271}],"date":"Nov 27, 2023, 10:16:43 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":3000,"price":1}],"date":"Nov 27, 2023, 10:16:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:16:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:17:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black sword","id":1283,"quantity":1,"price":271}],"date":"Nov 27, 2023, 10:17:05 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 10:17:09 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:17:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:17:16 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:17:22 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black axe","id":1361,"quantity":1,"price":196}],"date":"Nov 27, 2023, 10:17:25 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy tarromin","id":203,"quantity":1,"price":163}],"date":"Nov 27, 2023, 10:17:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:17:33 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:17:38 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:17:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 10:17:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:17:49 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Steel battleaxe","id":1365,"quantity":1,"price":180}],"date":"Nov 27, 2023, 10:17:53 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:17:58 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:18:01 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos talisman","id":1452,"quantity":1,"price":90}],"date":"Nov 27, 2023, 10:18:05 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:18:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black axe","id":1361,"quantity":1,"price":196}],"date":"Nov 27, 2023, 10:18:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:18:23 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:18:26 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black sword","id":1283,"quantity":1,"price":271}],"date":"Nov 27, 2023, 10:18:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:18:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:18:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:18:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black axe","id":1361,"quantity":1,"price":196}],"date":"Nov 27, 2023, 10:18:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:18:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:18:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":69}],"date":"Nov 27, 2023, 10:19:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:19:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:21:51 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:21:59 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Mithril kiteshield","id":1197,"quantity":1,"price":1048}],"date":"Nov 27, 2023, 10:22:01 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:22:05 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:22:08 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:22:12 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":69}],"date":"Nov 27, 2023, 10:22:21 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black axe","id":1361,"quantity":1,"price":196}],"date":"Nov 27, 2023, 10:22:27 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:22:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:22:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster","id":379,"quantity":1,"price":182}],"date":"Nov 27, 2023, 10:22:42 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:22:45 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:22:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Defence potion(3)","id":133,"quantity":1,"price":305}],"date":"Nov 27, 2023, 10:22:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:22:58 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:23:07 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:23:12 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:23:20 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster","id":379,"quantity":1,"price":182}],"date":"Nov 27, 2023, 10:23:23 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 10:23:24 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:23:28 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:23:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:23:35 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:23:38 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":460,"price":1}],"date":"Nov 27, 2023, 10:23:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:23:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:23:48 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:23:59 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 10:24:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Rune med helm","id":1147,"quantity":1,"price":11164}],"date":"Nov 27, 2023, 10:24:11 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:24:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Chaos rune","id":562,"quantity":10,"price":73}],"date":"Nov 27, 2023, 10:24:19 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:24:24 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":137}],"date":"Nov 27, 2023, 10:24:33 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:24:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":272}],"date":"Nov 27, 2023, 10:24:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:24:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black sword","id":1283,"quantity":1,"price":271}],"date":"Nov 27, 2023, 10:25:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0}],"date":"Nov 27, 2023, 10:25:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Blood rune","id":565,"quantity":7,"price":195}],"date":"Nov 27, 2023, 10:25:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4314},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:25:12 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:25:13 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:25:14 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Adamantite bar","id":2361,"quantity":1,"price":1853}],"date":"Nov 27, 2023, 10:25:17 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:25:18 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:25:27 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:25:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":276}],"date":"Nov 27, 2023, 10:25:33 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":72}],"date":"Nov 27, 2023, 10:25:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":7,"price":194}],"date":"Nov 27, 2023, 10:25:39 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:25:43 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":143}],"date":"Nov 27, 2023, 10:25:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:25:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:25:52 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Chaos rune","id":562,"quantity":10,"price":72}],"date":"Nov 27, 2023, 10:25:59 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled abyssal head","id":13507,"quantity":1,"price":4268},{"name":"Grimy dwarf weed","id":217,"quantity":1,"price":2862}],"date":"Nov 27, 2023, 10:26:01 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:26:03 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:26:11 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":508}],"date":"Nov 27, 2023, 10:26:13 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Chaos rune","id":562,"quantity":10,"price":72}],"date":"Nov 27, 2023, 10:26:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:26:27 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black sword","id":1283,"quantity":1,"price":271}],"date":"Nov 27, 2023, 10:26:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:26:37 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:26:43 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:26:45 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:26:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":7,"price":194}],"date":"Nov 27, 2023, 10:26:54 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:26:57 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:27:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:27:02 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Black sword","id":1283,"quantity":1,"price":271}],"date":"Nov 27, 2023, 10:27:06 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:27:09 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black axe","id":1361,"quantity":1,"price":189}],"date":"Nov 27, 2023, 10:27:12 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:27:15 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":7,"price":194}],"date":"Nov 27, 2023, 10:27:20 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":60,"price":2}],"date":"Nov 27, 2023, 10:27:24 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:27:30 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Nov 27, 2023, 10:27:35 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:27:39 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (hard)","id":24364,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:27:41 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black axe","id":1361,"quantity":1,"price":189}],"date":"Nov 27, 2023, 10:27:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy irit leaf","id":209,"quantity":1,"price":1654}],"date":"Nov 27, 2023, 10:27:47 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:27:50 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:27:56 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Black axe","id":1361,"quantity":1,"price":189}],"date":"Nov 27, 2023, 10:28:00 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Scroll box (elite)","id":24365,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:28:03 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:28:08 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":4253}],"date":"Nov 27, 2023, 10:28:12 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:28:16 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:28:20 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:28:25 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy guam leaf","id":199,"quantity":1,"price":143}],"date":"Nov 27, 2023, 10:28:28 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":50,"price":4}],"date":"Nov 27, 2023, 10:28:31 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:28:36 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":132,"price":1}],"date":"Nov 27, 2023, 10:28:39 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Abyssal whip","id":4151,"quantity":1,"price":1338321}],"date":"Nov 27, 2023, 10:28:44 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":30,"price":1}],"date":"Nov 27, 2023, 10:28:46 PM"}
+{"name":"Abyssal demon","level":124,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Nov 27, 2023, 10:28:59 PM"}

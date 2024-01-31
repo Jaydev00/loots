@@ -1,1 +1,3 @@
 {"name":"Zombie","level":23,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze axe","id":1351,"quantity":1,"price":183}],"date":"Aug 20, 2022, 2:22:15 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":64},{"name":"Coins","id":995,"quantity":18,"price":1}],"date":"Nov 16, 2023, 8:48:40 AM"}
+{"name":"Zombie","level":132,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":80,"price":1}],"date":"Nov 22, 2023, 6:06:26 PM"}

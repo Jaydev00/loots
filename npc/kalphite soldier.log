@@ -970,3 +970,5 @@
 {"name":"Kalphite Soldier","level":85,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":12,"price":52}],"date":"Aug 28, 2022, 3:29:55 PM"}
 {"name":"Kalphite Soldier","level":85,"killCount":-1,"type":"NPC","drops":[{"name":"Steel full helm","id":1157,"quantity":1,"price":357}],"date":"Aug 28, 2022, 3:30:07 PM"}
 {"name":"Kalphite Soldier","level":85,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":120,"price":1}],"date":"Aug 28, 2022, 3:30:22 PM"}
+{"name":"Kalphite Soldier","level":85,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":120,"price":1}],"date":"Nov 19, 2023, 9:22:01 PM"}
+{"name":"Kalphite Soldier","level":85,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":120,"price":1}],"date":"Nov 19, 2023, 9:22:17 PM"}

@@ -2110,3 +2110,4 @@
 {"name":"Elf","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coins","id":995,"quantity":280,"price":1},{"name":"Coin pouch","id":22538,"quantity":1,"price":0}],"date":"Apr 25, 2023, 10:36:47 PM"}
 {"name":"Elf","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coins","id":995,"quantity":280,"price":1},{"name":"Coin pouch","id":22538,"quantity":1,"price":0}],"date":"Apr 25, 2023, 10:37:00 PM"}
 {"name":"Elf","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coins","id":995,"quantity":280,"price":1},{"name":"Coin pouch","id":22538,"quantity":1,"price":0}],"date":"Apr 25, 2023, 10:37:01 PM"}
+{"name":"Elf","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22538,"quantity":1,"price":0}],"date":"Oct 14, 2023, 8:55:10 PM"}

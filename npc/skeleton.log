@@ -81,3 +81,6 @@
 {"name":"Skeleton","level":77,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":59}],"date":"Jun 30, 2023, 8:56:03 AM"}
 {"name":"Skeleton","level":25,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63},{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Aug 9, 2023, 1:03:59 PM"}
 {"name":"Skeleton","level":25,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63}],"date":"Aug 9, 2023, 1:04:21 PM"}
+{"name":"Skeleton","level":77,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79}],"date":"Nov 3, 2023, 11:29:31 PM"}
+{"name":"Skeleton","level":22,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":64}],"date":"Nov 15, 2023, 3:18:24 PM"}
+{"name":"Skeleton","level":132,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Mithril arrow","id":888,"quantity":15,"price":3}],"date":"Nov 22, 2023, 6:06:20 PM"}

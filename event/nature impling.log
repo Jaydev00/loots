@@ -12,3 +12,6 @@
 {"name":"Nature impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Belladonna seed","id":5281,"quantity":1,"price":98}],"date":"Jul 25, 2023, 4:35:24 PM"}
 {"name":"Nature impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Limpwurt seed","id":5100,"quantity":1,"price":2}],"date":"Jul 26, 2023, 12:56:19 PM"}
 {"name":"Nature impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Limpwurt seed","id":5100,"quantity":1,"price":2}],"date":"Jul 27, 2023, 11:12:17 AM"}
+{"name":"Nature impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Tarromin","id":254,"quantity":4,"price":175}],"date":"Sep 27, 2023, 5:05:02 PM"}
+{"name":"Nature impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Clue scroll (hard)","id":2788,"quantity":1,"price":0},{"name":"Harralander seed","id":5294,"quantity":1,"price":12}],"date":"Oct 10, 2023, 11:46:38 AM"}
+{"name":"Nature impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Tarromin","id":254,"quantity":4,"price":160}],"date":"Jan 10, 2024, 5:37:07 PM"}

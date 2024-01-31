@@ -340,3 +340,4 @@
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3446}],"date":"Jun 30, 2023, 2:20:15 PM"}
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":43,"price":8}],"date":"Jun 30, 2023, 2:20:41 PM"}
 {"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":50}],"date":"Aug 2, 2023, 3:24:32 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":64}],"date":"Oct 10, 2023, 8:05:01 PM"}

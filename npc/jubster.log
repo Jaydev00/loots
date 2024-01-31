@@ -4,3 +4,4 @@
 {"name":"Jubster","level":87,"killCount":-1,"type":"NPC","drops":[{"name":"Raw jubbly","id":7567,"quantity":6,"price":827},{"name":"Bones","id":526,"quantity":1,"price":55},{"name":"Tea flask","id":10859,"quantity":1,"price":0}],"date":"Aug 20, 2022, 2:28:57 PM"}
 {"name":"Jubster","level":87,"killCount":-1,"type":"NPC","drops":[{"name":"Raw jubbly","id":7567,"quantity":7,"price":827},{"name":"Bones","id":526,"quantity":1,"price":55},{"name":"Gold satchel","id":10881,"quantity":1,"price":0}],"date":"Aug 20, 2022, 2:29:21 PM"}
 {"name":"Jubster","level":87,"killCount":-1,"type":"NPC","drops":[{"name":"Raw jubbly","id":7567,"quantity":3,"price":827},{"name":"Bones","id":526,"quantity":1,"price":55}],"date":"Aug 20, 2022, 2:29:40 PM"}
+{"name":"Jubster","level":87,"killCount":-1,"type":"NPC","drops":[{"name":"Raw jubbly","id":7567,"quantity":4,"price":455},{"name":"Bones","id":526,"quantity":1,"price":66}],"date":"Nov 22, 2023, 10:20:36 AM"}

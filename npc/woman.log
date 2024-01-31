@@ -8,3 +8,4 @@
 {"name":"Woman","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":65}],"date":"Oct 20, 2022, 12:18:40 PM"}
 {"name":"Woman","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Fire rune","id":554,"quantity":6,"price":5}],"date":"Jan 26, 2023, 10:18:27 AM"}
 {"name":"Woman","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63},{"name":"Earth talisman","id":1440,"quantity":1,"price":209}],"date":"Apr 17, 2023, 10:18:17 PM"}
+{"name":"Woman","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":64},{"name":"Coins","id":995,"quantity":5,"price":1}],"date":"Nov 15, 2023, 8:49:45 AM"}
