@@ -107,5 +107,3 @@
 {"name":"TzHaar-Ket","level":221,"killCount":-1,"type":"NPC","drops":[{"name":"Tokkul","id":6529,"quantity":51,"price":0},{"name":"Tokkul","id":6529,"quantity":40,"price":0}],"date":"Aug 6, 2023, 5:57:03 PM"}
 {"name":"TzHaar-Ket","level":221,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled tzhaar head","id":13498,"quantity":1,"price":3425}],"date":"Aug 6, 2023, 5:57:12 PM"}
 {"name":"TzHaar-Ket","level":149,"killCount":-1,"type":"NPC","drops":[{"name":"Toktz-ket-xil","id":6524,"quantity":1,"price":330910}],"date":"Aug 26, 2023, 2:40:30 PM"}
-{"name":"TzHaar-Ket","level":149,"killCount":-1,"type":"NPC","drops":[{"name":"Tokkul","id":6529,"quantity":28,"price":0}],"date":"Nov 15, 2023, 10:40:06 AM"}
-{"name":"TzHaar-Ket","level":149,"killCount":-1,"type":"NPC","drops":[{"name":"Tokkul","id":6529,"quantity":32,"price":0}],"date":"Nov 24, 2023, 9:52:31 PM"}

@@ -15,7 +15,3 @@
 {"name":"Hespori","level":-1,"killCount":123,"type":"EVENT","drops":[{"name":"Attas seed","id":22881,"quantity":2,"price":0},{"name":"Mahogany seed","id":21488,"quantity":2,"price":1675}],"date":"Oct 6, 2023, 11:11:23 AM"}
 {"name":"Hespori","level":-1,"killCount":124,"type":"EVENT","drops":[{"name":"Iasor seed","id":22883,"quantity":1,"price":0},{"name":"Lantadyme seed","id":5302,"quantity":4,"price":189}],"date":"Oct 7, 2023, 7:43:40 PM"}
 {"name":"Hespori","level":-1,"killCount":125,"type":"EVENT","drops":[{"name":"Iasor seed","id":22883,"quantity":2,"price":0},{"name":"Potato cactus seed","id":22873,"quantity":9,"price":5}],"date":"Oct 10, 2023, 10:02:29 AM"}
-{"name":"Hespori","level":-1,"killCount":2,"type":"EVENT","drops":[{"name":"Iasor seed","id":22883,"quantity":6,"price":0},{"name":"Bottomless compost bucket","id":22994,"quantity":3,"price":570027}],"date":"Nov 21, 2023, 5:15:09 PM"}
-{"name":"Hespori","level":-1,"killCount":3,"type":"EVENT","drops":[{"name":"Kronos seed","id":22885,"quantity":3,"price":0},{"name":"Limpwurt seed","id":5100,"quantity":30,"price":4}],"date":"Nov 21, 2023, 5:16:21 PM"}
-{"name":"Hespori","level":-1,"killCount":4,"type":"EVENT","drops":[{"name":"Iasor seed","id":22883,"quantity":3,"price":0},{"name":"Spirit seed","id":5317,"quantity":3,"price":0}],"date":"Nov 21, 2023, 5:17:45 PM"}
-{"name":"Hespori","level":-1,"killCount":5,"type":"EVENT","drops":[{"name":"Iasor seed","id":22883,"quantity":6,"price":0},{"name":"Watermelon seed","id":5321,"quantity":57,"price":3}],"date":"Nov 21, 2023, 5:19:02 PM"}

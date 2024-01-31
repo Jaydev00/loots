@@ -4,4 +4,3 @@
 {"name":"Market Guard","level":48,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63},{"name":"Key (medium)","id":7299,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":15,"price":1}],"date":"Aug 9, 2023, 12:11:32 PM"}
 {"name":"Market Guard","level":48,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":69},{"name":"Key (medium)","id":7299,"quantity":1,"price":0}],"date":"Sep 25, 2023, 1:30:49 PM"}
 {"name":"Market Guard","level":48,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Key (medium)","id":7299,"quantity":1,"price":0}],"date":"Nov 3, 2023, 11:11:29 PM"}
-{"name":"Market Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":65}],"date":"Nov 27, 2023, 7:23:41 PM"}

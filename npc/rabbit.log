@@ -1,4 +1,3 @@
 {"name":"Rabbit","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":57},{"name":"Raw rabbit","id":3226,"quantity":1,"price":152}],"date":"Jul 11, 2023, 11:59:24 AM"}
-{"name":"Rabbit","level":1,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":64},{"name":"Raw rabbit","id":3226,"quantity":1,"price":188}],"date":"Nov 15, 2023, 11:46:18 AM"}
 {"name":"Rabbit","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75},{"name":"Raw rabbit","id":3226,"quantity":1,"price":210}],"date":"Jan 16, 2024, 5:53:26 PM"}
 {"name":"Rabbit","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74},{"name":"Raw rabbit","id":3226,"quantity":1,"price":219}],"date":"Jan 17, 2024, 12:09:28 PM"}

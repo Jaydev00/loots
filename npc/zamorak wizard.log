@@ -123,13 +123,11 @@
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":63},{"name":"Blood rune","id":565,"quantity":8,"price":198}],"date":"Aug 9, 2023, 1:04:48 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":69},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Sep 4, 2023, 1:16:37 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":69},{"name":"Nature rune","id":561,"quantity":28,"price":86}],"date":"Sep 4, 2023, 1:18:13 PM"}
-{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":86},{"name":"Blood rune","id":565,"quantity":8,"price":195}],"date":"Sep 13, 2023, 2:35:18 PM"}
-{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77}],"date":"Nov 6, 2023, 1:40:55 PM"}
-{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Nov 6, 2023, 1:44:49 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":85},{"name":"Coins","id":995,"quantity":240,"price":1}],"date":"Sep 11, 2023, 9:15:40 AM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":85},{"name":"Blood rune","id":565,"quantity":8,"price":195}],"date":"Sep 12, 2023, 11:23:20 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":85},{"name":"Blood rune","id":565,"quantity":8,"price":195}],"date":"Sep 12, 2023, 11:37:01 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":85},{"name":"Earth rune","id":557,"quantity":107,"price":4}],"date":"Sep 12, 2023, 11:48:38 PM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":86},{"name":"Blood rune","id":565,"quantity":8,"price":195}],"date":"Sep 13, 2023, 2:35:18 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":86},{"name":"Blood rune","id":565,"quantity":8,"price":195}],"date":"Sep 13, 2023, 10:37:49 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":86},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Sep 13, 2023, 10:41:07 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":88},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Sep 14, 2023, 11:06:23 AM"}
@@ -137,6 +135,8 @@
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":88},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Sep 14, 2023, 3:59:58 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":69},{"name":"Death rune","id":560,"quantity":45,"price":104}],"date":"Sep 29, 2023, 10:15:52 AM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Nov 4, 2023, 5:32:57 PM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77}],"date":"Nov 6, 2023, 1:40:55 PM"}
+{"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":77},{"name":"Coins","id":995,"quantity":77,"price":1}],"date":"Nov 6, 2023, 1:44:49 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":65},{"name":"Coins","id":995,"quantity":89,"price":1}],"date":"Jan 10, 2024, 11:30:12 AM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Earth rune","id":557,"quantity":79,"price":4}],"date":"Jan 10, 2024, 5:18:38 PM"}
 {"name":"Zamorak wizard","level":65,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Earth battlestaff","id":1399,"quantity":1,"price":8895}],"date":"Jan 10, 2024, 5:20:42 PM"}
