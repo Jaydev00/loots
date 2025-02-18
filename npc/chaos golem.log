@@ -235,3 +235,4 @@
 {"name":"Chaos Golem","level":70,"killCount":-1,"type":"NPC","drops":[{"name":"Barronite shards","id":25676,"quantity":19,"price":0},{"name":"Rune essence","id":1437,"quantity":4,"price":15}],"date":"Aug 23, 2022, 12:03:10 PM"}
 {"name":"Chaos Golem","level":70,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut diamond","id":1617,"quantity":1,"price":2638}],"date":"Aug 23, 2022, 12:03:45 PM"}
 {"name":"Chaos Golem","level":70,"killCount":-1,"type":"NPC","drops":[{"name":"Barronite guard","id":25639,"quantity":1,"price":0},{"name":"Chaos rune","id":562,"quantity":9,"price":59}],"date":"Aug 23, 2022, 12:04:14 PM"}
+{"name":"Chaos Golem","level":70,"killCount":-1,"type":"NPC","drops":[{"name":"Barronite shards","id":25676,"quantity":24,"price":0},{"name":"Chaos core","id":25700,"quantity":1,"price":0},{"name":"Gold ore","id":444,"quantity":1,"price":175},{"name":"Gold ore","id":444,"quantity":1,"price":175}],"date":"Feb 25, 2024, 11:30:07 AM"}

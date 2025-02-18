@@ -1053,3 +1053,294 @@
 {"name":"Kraken","level":291,"killCount":1564,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":89}],"date":"Nov 11, 2023, 1:19:23 PM"}
 {"name":"Kraken","level":291,"killCount":1565,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":11746,"price":1}],"date":"Nov 11, 2023, 1:20:14 PM"}
 {"name":"Kraken","level":291,"killCount":1566,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":89}],"date":"Nov 11, 2023, 1:21:10 PM"}
+{"name":"Kraken","level":291,"killCount":1567,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":948}],"date":"Aug 21, 2024, 11:55:24 AM"}
+{"name":"Kraken","level":291,"killCount":1568,"type":"NPC","drops":[{"name":"Rusty sword","id":686,"quantity":1,"price":0}],"date":"Aug 21, 2024, 11:56:10 AM"}
+{"name":"Kraken","level":291,"killCount":1569,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976}],"date":"Aug 21, 2024, 11:57:13 AM"}
+{"name":"Kraken","level":291,"killCount":1570,"type":"NPC","drops":[{"name":"Rune warhammer","id":1347,"quantity":1,"price":24616}],"date":"Aug 21, 2024, 11:58:07 AM"}
+{"name":"Kraken","level":291,"killCount":1571,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 11:59:01 AM"}
+{"name":"Kraken","level":291,"killCount":1572,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":948}],"date":"Aug 21, 2024, 11:59:43 AM"}
+{"name":"Kraken","level":291,"killCount":1573,"type":"NPC","drops":[{"name":"Bucket","id":1925,"quantity":1,"price":6}],"date":"Aug 21, 2024, 12:00:33 PM"}
+{"name":"Kraken","level":291,"killCount":1574,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 12:01:19 PM"}
+{"name":"Kraken","level":291,"killCount":1575,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":243}],"date":"Aug 21, 2024, 12:02:17 PM"}
+{"name":"Kraken","level":291,"killCount":1576,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":104}],"date":"Aug 21, 2024, 12:03:06 PM"}
+{"name":"Kraken","level":291,"killCount":1577,"type":"NPC","drops":[{"name":"Antidote++(4)","id":5953,"quantity":2,"price":5897}],"date":"Aug 21, 2024, 12:03:58 PM"}
+{"name":"Kraken","level":291,"killCount":1578,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":19046},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":19046}],"date":"Aug 21, 2024, 12:04:56 PM"}
+{"name":"Kraken","level":291,"killCount":1579,"type":"NPC","drops":[{"name":"Bucket","id":1925,"quantity":1,"price":6}],"date":"Aug 21, 2024, 12:05:54 PM"}
+{"name":"Kraken","level":291,"killCount":1580,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":103}],"date":"Aug 21, 2024, 12:07:00 PM"}
+{"name":"Kraken","level":291,"killCount":1581,"type":"NPC","drops":[{"name":"Seaweed","id":402,"quantity":125,"price":14}],"date":"Aug 21, 2024, 12:07:46 PM"}
+{"name":"Kraken","level":291,"killCount":1582,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":202}],"date":"Aug 21, 2024, 12:08:35 PM"}
+{"name":"Kraken","level":291,"killCount":1583,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":243}],"date":"Aug 21, 2024, 12:09:12 PM"}
+{"name":"Kraken","level":291,"killCount":1584,"type":"NPC","drops":[{"name":"Rusty sword","id":686,"quantity":1,"price":0}],"date":"Aug 21, 2024, 12:10:01 PM"}
+{"name":"Kraken","level":291,"killCount":1585,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":17307,"price":1}],"date":"Aug 21, 2024, 12:10:55 PM"}
+{"name":"Kraken","level":291,"killCount":1586,"type":"NPC","drops":[{"name":"Unpowered orb","id":568,"quantity":50,"price":76}],"date":"Aug 21, 2024, 12:11:41 PM"}
+{"name":"Kraken","level":291,"killCount":1588,"type":"NPC","drops":[{"name":"Watermelon seed","id":5321,"quantity":24,"price":7}],"date":"Aug 21, 2024, 12:13:18 PM"}
+{"name":"Kraken","level":291,"killCount":1589,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":948}],"date":"Aug 21, 2024, 12:14:26 PM"}
+{"name":"Kraken","level":291,"killCount":1590,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 12:15:21 PM"}
+{"name":"Kraken","level":291,"killCount":1591,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":13240,"price":1}],"date":"Aug 21, 2024, 2:00:48 PM"}
+{"name":"Kraken","level":291,"killCount":1592,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":202}],"date":"Aug 21, 2024, 2:01:43 PM"}
+{"name":"Kraken","level":291,"killCount":1593,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 2:02:35 PM"}
+{"name":"Kraken","level":291,"killCount":1594,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32}],"date":"Aug 21, 2024, 2:03:23 PM"}
+{"name":"Kraken","level":291,"killCount":1595,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":243}],"date":"Aug 21, 2024, 2:04:19 PM"}
+{"name":"Kraken","level":291,"killCount":1596,"type":"NPC","drops":[{"name":"Unpowered orb","id":568,"quantity":50,"price":76}],"date":"Aug 21, 2024, 2:05:13 PM"}
+{"name":"Kraken","level":291,"killCount":1597,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 2:06:06 PM"}
+{"name":"Kraken","level":291,"killCount":1598,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":948}],"date":"Aug 21, 2024, 2:06:50 PM"}
+{"name":"Kraken","level":291,"killCount":1599,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":16500,"price":1}],"date":"Aug 21, 2024, 2:07:51 PM"}
+{"name":"Kraken","level":291,"killCount":1600,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":19499,"price":1}],"date":"Aug 21, 2024, 2:08:46 PM"}
+{"name":"Kraken","level":291,"killCount":1601,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 2:09:55 PM"}
+{"name":"Kraken","level":291,"killCount":1602,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 2:12:18 PM"}
+{"name":"Kraken","level":291,"killCount":1603,"type":"NPC","drops":[{"name":"Diamond","id":1602,"quantity":8,"price":1714}],"date":"Aug 21, 2024, 2:13:01 PM"}
+{"name":"Kraken","level":291,"killCount":1604,"type":"NPC","drops":[{"name":"Mystic robe bottom","id":4093,"quantity":1,"price":47719}],"date":"Aug 21, 2024, 2:13:48 PM"}
+{"name":"Kraken","level":291,"killCount":1605,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":202}],"date":"Aug 21, 2024, 2:14:33 PM"}
+{"name":"Kraken","level":291,"killCount":1606,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":11526,"price":1}],"date":"Aug 21, 2024, 2:15:17 PM"}
+{"name":"Kraken","level":291,"killCount":1607,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 2:16:06 PM"}
+{"name":"Kraken","level":291,"killCount":1608,"type":"NPC","drops":[{"name":"Mystic water staff","id":1403,"quantity":1,"price":25139}],"date":"Aug 21, 2024, 2:16:59 PM"}
+{"name":"Kraken","level":291,"killCount":1609,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":103}],"date":"Aug 21, 2024, 2:17:59 PM"}
+{"name":"Kraken","level":291,"killCount":1610,"type":"NPC","drops":[{"name":"Rune longsword","id":1303,"quantity":1,"price":18689}],"date":"Aug 21, 2024, 2:18:43 PM"}
+{"name":"Kraken","level":291,"killCount":1611,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":202}],"date":"Aug 21, 2024, 2:19:39 PM"}
+{"name":"Kraken","level":291,"killCount":1612,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 2:20:24 PM"}
+{"name":"Kraken","level":291,"killCount":1613,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 2:21:18 PM"}
+{"name":"Kraken","level":291,"killCount":1614,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":103}],"date":"Aug 21, 2024, 2:22:08 PM"}
+{"name":"Kraken","level":291,"killCount":1615,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976}],"date":"Aug 21, 2024, 2:22:51 PM"}
+{"name":"Kraken","level":291,"killCount":1616,"type":"NPC","drops":[{"name":"Mystic water staff","id":1403,"quantity":1,"price":25139}],"date":"Aug 21, 2024, 2:23:37 PM"}
+{"name":"Kraken","level":291,"killCount":1617,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32}],"date":"Aug 21, 2024, 2:24:23 PM"}
+{"name":"Kraken","level":291,"killCount":1618,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":243}],"date":"Aug 21, 2024, 2:25:17 PM"}
+{"name":"Kraken","level":291,"killCount":1619,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":19046},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":19046}],"date":"Aug 21, 2024, 2:26:14 PM"}
+{"name":"Kraken","level":291,"killCount":1620,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":75}],"date":"Aug 21, 2024, 2:27:10 PM"}
+{"name":"Kraken","level":291,"killCount":1621,"type":"NPC","drops":[{"name":"Antidote++(4)","id":5953,"quantity":2,"price":5897}],"date":"Aug 21, 2024, 2:27:51 PM"}
+{"name":"Kraken","level":291,"killCount":1622,"type":"NPC","drops":[{"name":"Mystic robe bottom","id":4093,"quantity":1,"price":47719}],"date":"Aug 21, 2024, 2:28:43 PM"}
+{"name":"Kraken","level":291,"killCount":1623,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3052,"quantity":6,"price":7944}],"date":"Aug 21, 2024, 2:29:32 PM"}
+{"name":"Kraken","level":291,"killCount":1624,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":476}],"date":"Aug 21, 2024, 2:30:19 PM"}
+{"name":"Kraken","level":291,"killCount":1625,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":19046},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":19046}],"date":"Aug 21, 2024, 2:31:10 PM"}
+{"name":"Kraken","level":291,"killCount":1626,"type":"NPC","drops":[{"name":"Mystic robe top","id":4091,"quantity":1,"price":71488}],"date":"Aug 21, 2024, 2:32:01 PM"}
+{"name":"Kraken","level":291,"killCount":1627,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3052,"quantity":6,"price":7944}],"date":"Aug 21, 2024, 2:32:52 PM"}
+{"name":"Kraken","level":291,"killCount":1628,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":243}],"date":"Aug 21, 2024, 2:33:36 PM"}
+{"name":"Kraken","level":291,"killCount":1629,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 2:34:15 PM"}
+{"name":"Kraken","level":291,"killCount":1630,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":104}],"date":"Aug 21, 2024, 2:35:06 PM"}
+{"name":"Kraken","level":291,"killCount":1632,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":202}],"date":"Aug 21, 2024, 2:36:54 PM"}
+{"name":"Kraken","level":291,"killCount":1633,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":243}],"date":"Aug 21, 2024, 2:37:40 PM"}
+{"name":"Kraken","level":291,"killCount":1634,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32}],"date":"Aug 21, 2024, 2:38:30 PM"}
+{"name":"Kraken","level":291,"killCount":1635,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3052,"quantity":6,"price":7944}],"date":"Aug 21, 2024, 2:39:21 PM"}
+{"name":"Kraken","level":291,"killCount":1636,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32},{"name":"Edible seaweed","id":403,"quantity":1,"price":32}],"date":"Aug 21, 2024, 2:40:19 PM"}
+{"name":"Kraken","level":291,"killCount":1637,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 2:41:14 PM"}
+{"name":"Kraken","level":291,"killCount":1638,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":202}],"date":"Aug 21, 2024, 2:42:01 PM"}
+{"name":"Kraken","level":291,"killCount":1639,"type":"NPC","drops":[{"name":"Raw monkfish","id":7945,"quantity":100,"price":280}],"date":"Aug 21, 2024, 2:43:20 PM"}
+{"name":"Kraken","level":291,"killCount":1640,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":103}],"date":"Aug 21, 2024, 2:44:09 PM"}
+{"name":"Kraken","level":291,"killCount":1641,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":476}],"date":"Aug 21, 2024, 2:45:39 PM"}
+{"name":"Kraken","level":291,"killCount":1642,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976}],"date":"Aug 21, 2024, 2:52:06 PM"}
+{"name":"Kraken","level":291,"killCount":1643,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":15255,"price":1}],"date":"Aug 21, 2024, 2:53:01 PM"}
+{"name":"Kraken","level":291,"killCount":1644,"type":"NPC","drops":[{"name":"Mystic robe bottom","id":4093,"quantity":1,"price":47719}],"date":"Aug 21, 2024, 2:53:47 PM"}
+{"name":"Kraken","level":291,"killCount":1645,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":103}],"date":"Aug 21, 2024, 2:54:36 PM"}
+{"name":"Kraken","level":291,"killCount":1646,"type":"NPC","drops":[{"name":"Cooked karambwan","id":3144,"quantity":1,"price":548},{"name":"Cooked karambwan","id":3144,"quantity":1,"price":548},{"name":"Cooked karambwan","id":3144,"quantity":1,"price":548}],"date":"Aug 21, 2024, 2:55:24 PM"}
+{"name":"Kraken","level":291,"killCount":1647,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 2:56:10 PM"}
+{"name":"Kraken","level":291,"killCount":1648,"type":"NPC","drops":[{"name":"Torstol seed","id":5304,"quantity":2,"price":9948}],"date":"Aug 21, 2024, 2:57:42 PM"}
+{"name":"Kraken","level":291,"killCount":1649,"type":"NPC","drops":[{"name":"Unpowered orb","id":568,"quantity":50,"price":76}],"date":"Aug 21, 2024, 2:58:39 PM"}
+{"name":"Kraken","level":291,"killCount":1650,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 2:59:29 PM"}
+{"name":"Kraken","level":291,"killCount":1651,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":19046},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":19046}],"date":"Aug 21, 2024, 3:00:19 PM"}
+{"name":"Kraken","level":291,"killCount":1652,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":202}],"date":"Aug 21, 2024, 3:01:22 PM"}
+{"name":"Kraken","level":291,"killCount":1653,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 3:02:09 PM"}
+{"name":"Kraken","level":291,"killCount":1654,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":243}],"date":"Aug 21, 2024, 3:02:54 PM"}
+{"name":"Kraken","level":291,"killCount":1656,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":243}],"date":"Aug 21, 2024, 3:04:35 PM"}
+{"name":"Kraken","level":291,"killCount":1657,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 3:05:21 PM"}
+{"name":"Kraken","level":291,"killCount":1658,"type":"NPC","drops":[{"name":"Rune longsword","id":1303,"quantity":1,"price":18689}],"date":"Aug 21, 2024, 3:06:24 PM"}
+{"name":"Kraken","level":291,"killCount":1659,"type":"NPC","drops":[{"name":"Mystic robe top","id":4091,"quantity":1,"price":71488}],"date":"Aug 21, 2024, 3:07:20 PM"}
+{"name":"Kraken","level":291,"killCount":1660,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 3:08:10 PM"}
+{"name":"Kraken","level":291,"killCount":1661,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":202}],"date":"Aug 21, 2024, 3:09:08 PM"}
+{"name":"Kraken","level":291,"killCount":1662,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976}],"date":"Aug 21, 2024, 3:10:02 PM"}
+{"name":"Kraken","level":291,"killCount":1663,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 3:11:00 PM"}
+{"name":"Kraken","level":291,"killCount":1665,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Aug 21, 2024, 3:12:31 PM"}
+{"name":"Kraken","level":291,"killCount":1666,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":224}],"date":"Aug 21, 2024, 3:13:27 PM"}
+{"name":"Kraken","level":291,"killCount":1667,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976}],"date":"Aug 21, 2024, 3:14:20 PM"}
+{"name":"Kraken","level":291,"killCount":1668,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":104}],"date":"Aug 21, 2024, 3:15:08 PM"}
+{"name":"Kraken","level":291,"killCount":1669,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":103}],"date":"Aug 21, 2024, 3:15:55 PM"}
+{"name":"Kraken","level":291,"killCount":1670,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976},{"name":"Shark","id":385,"quantity":1,"price":976}],"date":"Aug 21, 2024, 3:17:02 PM"}
+{"name":"Kraken","level":291,"killCount":1671,"type":"NPC","drops":[{"name":"Unpowered orb","id":568,"quantity":50,"price":76}],"date":"Aug 21, 2024, 3:17:51 PM"}
+{"name":"Kraken","level":291,"killCount":1672,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":11580,"price":1}],"date":"Aug 21, 2024, 3:18:45 PM"}
+{"name":"Kraken","level":291,"killCount":1673,"type":"NPC","drops":[{"name":"Antidote++(4)","id":5953,"quantity":2,"price":6869}],"date":"Oct 21, 2024, 11:41:08 AM"}
+{"name":"Kraken","level":291,"killCount":1674,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":12970,"price":1}],"date":"Oct 21, 2024, 11:41:57 AM"}
+{"name":"Kraken","level":291,"killCount":1675,"type":"NPC","drops":[{"name":"Torstol seed","id":5304,"quantity":2,"price":6895}],"date":"Oct 21, 2024, 11:42:59 AM"}
+{"name":"Kraken","level":291,"killCount":1676,"type":"NPC","drops":[{"name":"Antidote++(4)","id":5953,"quantity":2,"price":6869}],"date":"Oct 21, 2024, 11:44:01 AM"}
+{"name":"Kraken","level":291,"killCount":1677,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":184}],"date":"Oct 21, 2024, 11:44:54 AM"}
+{"name":"Kraken","level":291,"killCount":1678,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":19288,"price":1}],"date":"Oct 21, 2024, 11:45:50 AM"}
+{"name":"Kraken","level":291,"killCount":1679,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Oct 21, 2024, 11:46:49 AM"}
+{"name":"Kraken","level":291,"killCount":1680,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":924},{"name":"Shark","id":385,"quantity":1,"price":924},{"name":"Shark","id":385,"quantity":1,"price":924},{"name":"Shark","id":385,"quantity":1,"price":924},{"name":"Shark","id":385,"quantity":1,"price":924}],"date":"Oct 21, 2024, 11:47:42 AM"}
+{"name":"Kraken","level":291,"killCount":1681,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3052,"quantity":6,"price":7999}],"date":"Oct 21, 2024, 11:48:37 AM"}
+{"name":"Kraken","level":291,"killCount":1682,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":4}],"date":"Oct 21, 2024, 11:49:32 AM"}
+{"name":"Kraken","level":291,"killCount":1683,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":172}],"date":"Oct 21, 2024, 11:50:29 AM"}
+{"name":"Kraken","level":291,"killCount":1684,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":17759,"price":1}],"date":"Oct 21, 2024, 11:51:17 AM"}
+{"name":"Kraken","level":291,"killCount":1685,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":16420},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":16420}],"date":"Oct 21, 2024, 11:52:03 AM"}
+{"name":"Kraken","level":291,"killCount":1686,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":16420},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":16420}],"date":"Oct 21, 2024, 11:52:50 AM"}
+{"name":"Kraken","level":291,"killCount":1687,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":172}],"date":"Oct 21, 2024, 11:53:48 AM"}
+{"name":"Kraken","level":291,"killCount":1688,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":273}],"date":"Oct 21, 2024, 11:54:43 AM"}
+{"name":"Kraken","level":291,"killCount":1689,"type":"NPC","drops":[{"name":"Antidote++(4)","id":5953,"quantity":2,"price":6869}],"date":"Oct 21, 2024, 11:55:30 AM"}
+{"name":"Kraken","level":291,"killCount":1690,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":184}],"date":"Oct 21, 2024, 11:56:11 AM"}
+{"name":"Kraken","level":291,"killCount":1691,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":558}],"date":"Oct 24, 2024, 8:22:58 AM"}
+{"name":"Kraken","level":291,"killCount":1692,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":11451,"price":1}],"date":"Oct 24, 2024, 8:24:02 AM"}
+{"name":"Kraken","level":291,"killCount":1693,"type":"NPC","drops":[{"name":"Magic seed","id":5316,"quantity":1,"price":94986}],"date":"Oct 24, 2024, 8:24:58 AM"}
+{"name":"Kraken","level":291,"killCount":1694,"type":"NPC","drops":[{"name":"Watermelon seed","id":5321,"quantity":24,"price":16}],"date":"Oct 24, 2024, 8:25:50 AM"}
+{"name":"Kraken","level":291,"killCount":1695,"type":"NPC","drops":[{"name":"Raw shark","id":384,"quantity":50,"price":692}],"date":"Oct 24, 2024, 8:27:01 AM"}
+{"name":"Kraken","level":291,"killCount":1696,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":267}],"date":"Oct 24, 2024, 8:27:46 AM"}
+{"name":"Kraken","level":291,"killCount":1697,"type":"NPC","drops":[{"name":"Rune longsword","id":1303,"quantity":1,"price":18760}],"date":"Oct 24, 2024, 8:28:33 AM"}
+{"name":"Kraken","level":291,"killCount":1698,"type":"NPC","drops":[{"name":"Diamond","id":1602,"quantity":8,"price":1713}],"date":"Oct 24, 2024, 8:29:25 AM"}
+{"name":"Kraken","level":291,"killCount":1699,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":181}],"date":"Oct 24, 2024, 8:30:11 AM"}
+{"name":"Kraken","level":291,"killCount":1700,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":104}],"date":"Oct 24, 2024, 8:30:59 AM"}
+{"name":"Kraken","level":291,"killCount":1701,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850}],"date":"Oct 24, 2024, 8:31:46 AM"}
+{"name":"Kraken","level":291,"killCount":1702,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31}],"date":"Oct 24, 2024, 8:32:42 AM"}
+{"name":"Kraken","level":291,"killCount":1703,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Oct 24, 2024, 8:33:41 AM"}
+{"name":"Kraken","level":291,"killCount":1704,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":14762,"price":1}],"date":"Oct 24, 2024, 8:34:25 AM"}
+{"name":"Kraken","level":291,"killCount":1706,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":181}],"date":"Oct 24, 2024, 8:36:07 AM"}
+{"name":"Kraken","level":291,"killCount":1707,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":181}],"date":"Oct 24, 2024, 8:36:59 AM"}
+{"name":"Kraken","level":291,"killCount":1708,"type":"NPC","drops":[{"name":"Rune longsword","id":1303,"quantity":1,"price":18760}],"date":"Oct 24, 2024, 8:37:44 AM"}
+{"name":"Kraken","level":291,"killCount":1709,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31}],"date":"Oct 24, 2024, 8:38:49 AM"}
+{"name":"Kraken","level":291,"killCount":1710,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":969}],"date":"Oct 24, 2024, 8:39:43 AM"}
+{"name":"Kraken","level":291,"killCount":1711,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Oct 24, 2024, 8:40:43 AM"}
+{"name":"Kraken","level":291,"killCount":1712,"type":"NPC","drops":[{"name":"Battlestaff","id":1392,"quantity":10,"price":8519}],"date":"Oct 24, 2024, 8:41:32 AM"}
+{"name":"Kraken","level":291,"killCount":1713,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":181}],"date":"Oct 24, 2024, 8:42:18 AM"}
+{"name":"Kraken","level":291,"killCount":1714,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":969}],"date":"Oct 24, 2024, 8:43:20 AM"}
+{"name":"Kraken","level":291,"killCount":1715,"type":"NPC","drops":[{"name":"Mystic water staff","id":1403,"quantity":1,"price":25235}],"date":"Oct 24, 2024, 8:44:01 AM"}
+{"name":"Kraken","level":291,"killCount":1716,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850}],"date":"Oct 24, 2024, 8:45:16 AM"}
+{"name":"Kraken","level":291,"killCount":1717,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850}],"date":"Oct 24, 2024, 8:46:04 AM"}
+{"name":"Kraken","level":291,"killCount":1718,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31}],"date":"Oct 24, 2024, 8:46:45 AM"}
+{"name":"Kraken","level":291,"killCount":1719,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":267}],"date":"Oct 24, 2024, 8:47:50 AM"}
+{"name":"Kraken","level":291,"killCount":1720,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31}],"date":"Oct 24, 2024, 8:49:33 AM"}
+{"name":"Kraken","level":291,"killCount":1721,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":181}],"date":"Oct 24, 2024, 8:50:25 AM"}
+{"name":"Kraken","level":291,"killCount":1722,"type":"NPC","drops":[{"name":"Runite bar","id":2363,"quantity":1,"price":12445},{"name":"Runite bar","id":2363,"quantity":1,"price":12445}],"date":"Oct 24, 2024, 8:51:21 AM"}
+{"name":"Kraken","level":291,"killCount":1723,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":12716,"price":1}],"date":"Oct 24, 2024, 8:52:13 AM"}
+{"name":"Kraken","level":291,"killCount":1724,"type":"NPC","drops":[{"name":"Antidote++(4)","id":5953,"quantity":2,"price":7024}],"date":"Oct 24, 2024, 8:53:12 AM"}
+{"name":"Kraken","level":291,"killCount":1725,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":14285,"price":1}],"date":"Oct 24, 2024, 8:53:55 AM"}
+{"name":"Kraken","level":291,"killCount":1726,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":115}],"date":"Oct 24, 2024, 8:55:18 AM"}
+{"name":"Kraken","level":291,"killCount":1727,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31}],"date":"Oct 24, 2024, 8:56:27 AM"}
+{"name":"Kraken","level":291,"killCount":1728,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":104}],"date":"Oct 24, 2024, 8:57:20 AM"}
+{"name":"Kraken","level":291,"killCount":1729,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Oct 24, 2024, 8:58:12 AM"}
+{"name":"Kraken","level":291,"killCount":1730,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10096,"price":1}],"date":"Oct 24, 2024, 9:00:12 AM"}
+{"name":"Kraken","level":291,"killCount":1731,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":267}],"date":"Oct 24, 2024, 9:01:15 AM"}
+{"name":"Kraken","level":291,"killCount":1732,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850}],"date":"Oct 24, 2024, 9:02:19 AM"}
+{"name":"Kraken","level":291,"killCount":1733,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":104}],"date":"Oct 24, 2024, 9:03:03 AM"}
+{"name":"Kraken","level":291,"killCount":1734,"type":"NPC","drops":[{"name":"Runite bar","id":2363,"quantity":1,"price":12445},{"name":"Runite bar","id":2363,"quantity":1,"price":12445}],"date":"Oct 24, 2024, 9:03:55 AM"}
+{"name":"Kraken","level":291,"killCount":1735,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":181}],"date":"Oct 24, 2024, 9:04:54 AM"}
+{"name":"Kraken","level":291,"killCount":1736,"type":"NPC","drops":[{"name":"Antidote++(4)","id":5953,"quantity":2,"price":7024}],"date":"Oct 24, 2024, 9:05:44 AM"}
+{"name":"Kraken","level":291,"killCount":1737,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850},{"name":"Shark","id":385,"quantity":1,"price":850}],"date":"Oct 24, 2024, 9:06:27 AM"}
+{"name":"Kraken","level":291,"killCount":1738,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":267}],"date":"Oct 24, 2024, 9:07:16 AM"}
+{"name":"Kraken","level":291,"killCount":1739,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":104}],"date":"Oct 24, 2024, 9:08:15 AM"}
+{"name":"Kraken","level":291,"killCount":1741,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":104}],"date":"Oct 24, 2024, 9:09:55 AM"}
+{"name":"Kraken","level":291,"killCount":1742,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":969}],"date":"Oct 24, 2024, 9:10:40 AM"}
+{"name":"Kraken","level":291,"killCount":1743,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":13239,"price":1}],"date":"Oct 24, 2024, 9:12:06 AM"}
+{"name":"Kraken","level":291,"killCount":1744,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":16988,"price":1}],"date":"Oct 24, 2024, 9:12:52 AM"}
+{"name":"Kraken","level":291,"killCount":1745,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":16658,"price":1}],"date":"Oct 24, 2024, 9:13:42 AM"}
+{"name":"Kraken","level":291,"killCount":1746,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":15983},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":15983}],"date":"Oct 24, 2024, 9:14:37 AM"}
+{"name":"Kraken","level":291,"killCount":1747,"type":"NPC","drops":[{"name":"Raw monkfish","id":7945,"quantity":100,"price":219}],"date":"Oct 24, 2024, 9:15:25 AM"}
+{"name":"Kraken","level":291,"killCount":1748,"type":"NPC","drops":[{"name":"Raw shark","id":384,"quantity":50,"price":692}],"date":"Oct 24, 2024, 9:16:21 AM"}
+{"name":"Kraken","level":291,"killCount":1749,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":104}],"date":"Oct 24, 2024, 9:17:42 AM"}
+{"name":"Kraken","level":291,"killCount":1750,"type":"NPC","drops":[{"name":"Unpowered orb","id":568,"quantity":50,"price":78}],"date":"Oct 24, 2024, 9:19:00 AM"}
+{"name":"Kraken","level":291,"killCount":1751,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":267}],"date":"Oct 24, 2024, 9:20:09 AM"}
+{"name":"Kraken","level":291,"killCount":1752,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":15173,"price":1}],"date":"Oct 24, 2024, 9:21:03 AM"}
+{"name":"Kraken","level":291,"killCount":1753,"type":"NPC","drops":[{"name":"Seaweed","id":402,"quantity":125,"price":14}],"date":"Oct 24, 2024, 9:21:42 AM"}
+{"name":"Kraken","level":291,"killCount":1754,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Oct 24, 2024, 9:22:42 AM"}
+{"name":"Kraken","level":291,"killCount":1755,"type":"NPC","drops":[{"name":"Seaweed","id":402,"quantity":125,"price":14}],"date":"Oct 24, 2024, 9:23:40 AM"}
+{"name":"Kraken","level":291,"killCount":1756,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":104}],"date":"Oct 24, 2024, 9:24:38 AM"}
+{"name":"Kraken","level":291,"killCount":1757,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":181}],"date":"Oct 24, 2024, 9:26:10 AM"}
+{"name":"Kraken","level":291,"killCount":1758,"type":"NPC","drops":[{"name":"Battlestaff","id":1392,"quantity":10,"price":8519}],"date":"Oct 24, 2024, 9:27:02 AM"}
+{"name":"Kraken","level":291,"killCount":1759,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Oct 24, 2024, 9:27:54 AM"}
+{"name":"Kraken","level":291,"killCount":1760,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":171}],"date":"Oct 24, 2024, 9:28:53 AM"}
+{"name":"Kraken","level":291,"killCount":1761,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":115}],"date":"Oct 24, 2024, 9:29:53 AM"}
+{"name":"Kraken","level":291,"killCount":1762,"type":"NPC","drops":[{"name":"Diamond","id":1602,"quantity":8,"price":1713}],"date":"Oct 24, 2024, 9:30:40 AM"}
+{"name":"Kraken","level":291,"killCount":1763,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":104}],"date":"Oct 24, 2024, 9:31:54 AM"}
+{"name":"Kraken","level":291,"killCount":1764,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":267}],"date":"Oct 24, 2024, 9:32:42 AM"}
+{"name":"Kraken","level":291,"killCount":1765,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":115}],"date":"Oct 24, 2024, 9:33:27 AM"}
+{"name":"Kraken","level":291,"killCount":1766,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31},{"name":"Edible seaweed","id":403,"quantity":1,"price":31}],"date":"Oct 24, 2024, 9:34:27 AM"}
+{"name":"Kraken","level":291,"killCount":1767,"type":"NPC","drops":[{"name":"Battlestaff","id":1392,"quantity":10,"price":8519}],"date":"Oct 24, 2024, 9:35:22 AM"}
+{"name":"Kraken","level":291,"killCount":1768,"type":"NPC","drops":[{"name":"Battlestaff","id":1392,"quantity":10,"price":8519}],"date":"Oct 24, 2024, 9:36:24 AM"}
+{"name":"Kraken","level":291,"killCount":1769,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":267}],"date":"Oct 24, 2024, 9:37:04 AM"}
+{"name":"Kraken","level":291,"killCount":1770,"type":"NPC","drops":[{"name":"Dragonstone ring","id":1645,"quantity":1,"price":11825}],"date":"Oct 24, 2024, 9:37:57 AM"}
+{"name":"Kraken","level":291,"killCount":1771,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":181}],"date":"Oct 24, 2024, 9:39:07 AM"}
+{"name":"Kraken","level":291,"killCount":1772,"type":"NPC","drops":[{"name":"Unpowered orb","id":568,"quantity":50,"price":78}],"date":"Oct 24, 2024, 9:40:08 AM"}
+{"name":"Kraken","level":291,"killCount":1773,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":267}],"date":"Oct 24, 2024, 9:41:00 AM"}
+{"name":"Kraken","level":291,"killCount":1774,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":171}],"date":"Oct 24, 2024, 9:42:06 AM"}
+{"name":"Kraken","level":291,"killCount":1775,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":115}],"date":"Oct 24, 2024, 9:43:21 AM"}
+{"name":"Kraken","level":291,"killCount":1776,"type":"NPC","drops":[{"name":"Mystic robe bottom","id":4093,"quantity":1,"price":47631}],"date":"Oct 24, 2024, 9:44:10 AM"}
+{"name":"Kraken","level":291,"killCount":1777,"type":"NPC","drops":[{"name":"Raw monkfish","id":7945,"quantity":100,"price":219}],"date":"Oct 24, 2024, 9:44:57 AM"}
+{"name":"Kraken","level":291,"killCount":1778,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":13078,"price":1}],"date":"Oct 24, 2024, 9:46:28 AM"}
+{"name":"Kraken","level":291,"killCount":1779,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":15849,"price":1}],"date":"Oct 24, 2024, 9:49:08 AM"}
+{"name":"Kraken","level":291,"killCount":1780,"type":"NPC","drops":[{"name":"Mystic water staff","id":1403,"quantity":1,"price":25125}],"date":"Oct 24, 2024, 9:49:56 AM"}
+{"name":"Kraken","level":291,"killCount":1781,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":15622,"price":1}],"date":"Feb 12, 2025, 8:54:44 PM"}
+{"name":"Kraken","level":291,"killCount":1783,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":17010},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":17010}],"date":"Feb 12, 2025, 8:56:24 PM"}
+{"name":"Kraken","level":291,"killCount":1784,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 8:57:12 PM"}
+{"name":"Kraken","level":291,"killCount":1785,"type":"NPC","drops":[{"name":"Brimstone key","id":23083,"quantity":1,"price":0},{"name":"Shark","id":385,"quantity":1,"price":931},{"name":"Shark","id":385,"quantity":1,"price":931},{"name":"Shark","id":385,"quantity":1,"price":931},{"name":"Shark","id":385,"quantity":1,"price":931},{"name":"Shark","id":385,"quantity":1,"price":931}],"date":"Feb 12, 2025, 8:58:07 PM"}
+{"name":"Kraken","level":291,"killCount":1786,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":162}],"date":"Feb 12, 2025, 8:58:55 PM"}
+{"name":"Kraken","level":291,"killCount":1787,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 8:59:45 PM"}
+{"name":"Kraken","level":291,"killCount":1788,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 9:00:35 PM"}
+{"name":"Kraken","level":291,"killCount":1789,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":162}],"date":"Feb 12, 2025, 9:01:21 PM"}
+{"name":"Kraken","level":291,"killCount":1790,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":19810,"price":1}],"date":"Feb 12, 2025, 9:02:13 PM"}
+{"name":"Kraken","level":291,"killCount":1791,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 9:03:15 PM"}
+{"name":"Kraken","level":291,"killCount":1792,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":121}],"date":"Feb 12, 2025, 9:04:04 PM"}
+{"name":"Kraken","level":291,"killCount":1793,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":18382,"price":1}],"date":"Feb 12, 2025, 9:04:57 PM"}
+{"name":"Kraken","level":291,"killCount":1794,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":22},{"name":"Edible seaweed","id":403,"quantity":1,"price":22},{"name":"Edible seaweed","id":403,"quantity":1,"price":22},{"name":"Edible seaweed","id":403,"quantity":1,"price":22},{"name":"Edible seaweed","id":403,"quantity":1,"price":22}],"date":"Feb 12, 2025, 9:05:40 PM"}
+{"name":"Kraken","level":291,"killCount":1795,"type":"NPC","drops":[{"name":"Mystic robe top","id":4091,"quantity":1,"price":71716}],"date":"Feb 12, 2025, 9:06:28 PM"}
+{"name":"Kraken","level":291,"killCount":1796,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Feb 12, 2025, 9:07:13 PM"}
+{"name":"Kraken","level":291,"killCount":1797,"type":"NPC","drops":[{"name":"Mystic robe top","id":4091,"quantity":1,"price":71716}],"date":"Feb 12, 2025, 9:08:03 PM"}
+{"name":"Kraken","level":291,"killCount":1798,"type":"NPC","drops":[{"name":"Watermelon seed","id":5321,"quantity":24,"price":48}],"date":"Feb 12, 2025, 9:08:49 PM"}
+{"name":"Kraken","level":291,"killCount":1799,"type":"NPC","drops":[{"name":"Runite bar","id":2363,"quantity":1,"price":12469},{"name":"Runite bar","id":2363,"quantity":1,"price":12469}],"date":"Feb 12, 2025, 9:09:34 PM"}
+{"name":"Kraken","level":291,"killCount":1800,"type":"NPC","drops":[{"name":"Bucket","id":1925,"quantity":1,"price":4}],"date":"Feb 12, 2025, 9:14:03 PM"}
+{"name":"Kraken","level":291,"killCount":1801,"type":"NPC","drops":[{"name":"Crystal key","id":989,"quantity":1,"price":24950}],"date":"Feb 12, 2025, 9:15:13 PM"}
+{"name":"Kraken","level":291,"killCount":1802,"type":"NPC","drops":[{"name":"Raw monkfish","id":7945,"quantity":100,"price":261}],"date":"Feb 12, 2025, 9:16:02 PM"}
+{"name":"Kraken","level":291,"killCount":1803,"type":"NPC","drops":[{"name":"Unpowered orb","id":568,"quantity":50,"price":71}],"date":"Feb 12, 2025, 9:16:44 PM"}
+{"name":"Kraken","level":291,"killCount":1804,"type":"NPC","drops":[{"name":"Seaweed","id":402,"quantity":125,"price":14}],"date":"Feb 12, 2025, 9:19:58 PM"}
+{"name":"Kraken","level":291,"killCount":1805,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":18286,"price":1}],"date":"Feb 12, 2025, 9:21:15 PM"}
+{"name":"Kraken","level":291,"killCount":1806,"type":"NPC","drops":[{"name":"Battlestaff","id":1392,"quantity":10,"price":8363}],"date":"Feb 12, 2025, 9:22:10 PM"}
+{"name":"Kraken","level":291,"killCount":1807,"type":"NPC","drops":[{"name":"Raw monkfish","id":7945,"quantity":100,"price":261}],"date":"Feb 12, 2025, 9:23:51 PM"}
+{"name":"Kraken","level":291,"killCount":1808,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 9:24:39 PM"}
+{"name":"Kraken","level":291,"killCount":1809,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":121}],"date":"Feb 12, 2025, 9:25:35 PM"}
+{"name":"Kraken","level":291,"killCount":1810,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Feb 12, 2025, 9:26:27 PM"}
+{"name":"Kraken","level":291,"killCount":1811,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 9:27:14 PM"}
+{"name":"Kraken","level":291,"killCount":1812,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 9:28:06 PM"}
+{"name":"Kraken","level":291,"killCount":1813,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":238}],"date":"Feb 12, 2025, 9:29:03 PM"}
+{"name":"Kraken","level":291,"killCount":1814,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Feb 12, 2025, 9:29:54 PM"}
+{"name":"Kraken","level":291,"killCount":1815,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 9:30:48 PM"}
+{"name":"Kraken","level":291,"killCount":1816,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Feb 12, 2025, 9:31:32 PM"}
+{"name":"Kraken","level":291,"killCount":1817,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":11330,"price":1}],"date":"Feb 12, 2025, 9:32:26 PM"}
+{"name":"Kraken","level":291,"killCount":1818,"type":"NPC","drops":[{"name":"Antidote++(4)","id":5953,"quantity":2,"price":8052}],"date":"Feb 12, 2025, 9:33:12 PM"}
+{"name":"Kraken","level":291,"killCount":1819,"type":"NPC","drops":[{"name":"Brimstone key","id":23083,"quantity":1,"price":0},{"name":"Soul rune","id":566,"quantity":50,"price":162}],"date":"Feb 12, 2025, 9:33:54 PM"}
+{"name":"Kraken","level":291,"killCount":1820,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 9:34:42 PM"}
+{"name":"Kraken","level":291,"killCount":1821,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 9:35:33 PM"}
+{"name":"Kraken","level":291,"killCount":1822,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 9:36:44 PM"}
+{"name":"Kraken","level":291,"killCount":1823,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Feb 12, 2025, 9:37:36 PM"}
+{"name":"Kraken","level":291,"killCount":1824,"type":"NPC","drops":[{"name":"Rusty sword","id":686,"quantity":1,"price":0}],"date":"Feb 12, 2025, 9:38:24 PM"}
+{"name":"Kraken","level":291,"killCount":1825,"type":"NPC","drops":[{"name":"Mystic robe bottom","id":4093,"quantity":1,"price":47591}],"date":"Feb 12, 2025, 9:39:56 PM"}
+{"name":"Kraken","level":291,"killCount":1826,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":19818,"price":1}],"date":"Feb 12, 2025, 9:40:48 PM"}
+{"name":"Kraken","level":291,"killCount":1827,"type":"NPC","drops":[{"name":"Edible seaweed","id":403,"quantity":1,"price":22},{"name":"Edible seaweed","id":403,"quantity":1,"price":22},{"name":"Edible seaweed","id":403,"quantity":1,"price":22},{"name":"Edible seaweed","id":403,"quantity":1,"price":22},{"name":"Edible seaweed","id":403,"quantity":1,"price":22}],"date":"Feb 12, 2025, 9:41:55 PM"}
+{"name":"Kraken","level":291,"killCount":1828,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":121}],"date":"Feb 12, 2025, 9:43:15 PM"}
+{"name":"Kraken","level":291,"killCount":1829,"type":"NPC","drops":[{"name":"Magic seed","id":5316,"quantity":1,"price":130441}],"date":"Feb 12, 2025, 9:44:02 PM"}
+{"name":"Kraken","level":291,"killCount":1830,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":17291,"price":1}],"date":"Feb 12, 2025, 9:44:47 PM"}
+{"name":"Kraken","level":291,"killCount":1831,"type":"NPC","drops":[{"name":"Brimstone key","id":23083,"quantity":1,"price":0},{"name":"Antidote++(4)","id":5953,"quantity":2,"price":8052}],"date":"Feb 12, 2025, 9:45:31 PM"}
+{"name":"Kraken","level":291,"killCount":1832,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 9:46:31 PM"}
+{"name":"Kraken","level":291,"killCount":1833,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":1,"price":931},{"name":"Shark","id":385,"quantity":1,"price":931},{"name":"Shark","id":385,"quantity":1,"price":931},{"name":"Shark","id":385,"quantity":1,"price":931},{"name":"Shark","id":385,"quantity":1,"price":931}],"date":"Feb 12, 2025, 9:47:31 PM"}
+{"name":"Kraken","level":291,"killCount":1834,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 9:48:23 PM"}
+{"name":"Kraken","level":291,"killCount":1835,"type":"NPC","drops":[{"name":"Rune longsword","id":1303,"quantity":1,"price":18796}],"date":"Feb 12, 2025, 9:49:11 PM"}
+{"name":"Kraken","level":291,"killCount":1836,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":100,"price":121}],"date":"Feb 12, 2025, 9:50:00 PM"}
+{"name":"Kraken","level":291,"killCount":1837,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":162}],"date":"Feb 12, 2025, 9:50:51 PM"}
+{"name":"Kraken","level":291,"killCount":1838,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 9:51:50 PM"}
+{"name":"Kraken","level":291,"killCount":1839,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":11839,"price":1}],"date":"Feb 12, 2025, 9:52:28 PM"}
+{"name":"Kraken","level":291,"killCount":1840,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":166}],"date":"Feb 12, 2025, 9:53:20 PM"}
+{"name":"Kraken","level":291,"killCount":1841,"type":"NPC","drops":[{"name":"Raw monkfish","id":7945,"quantity":100,"price":261}],"date":"Feb 12, 2025, 9:54:07 PM"}
+{"name":"Kraken","level":291,"killCount":1842,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":18084,"price":1}],"date":"Feb 12, 2025, 9:54:52 PM"}
+{"name":"Kraken","level":291,"killCount":1843,"type":"NPC","drops":[{"name":"Torstol seed","id":5304,"quantity":2,"price":4931}],"date":"Feb 12, 2025, 9:55:44 PM"}
+{"name":"Kraken","level":291,"killCount":1844,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 9:56:43 PM"}
+{"name":"Kraken","level":291,"killCount":1845,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":15658,"price":1}],"date":"Feb 12, 2025, 9:57:37 PM"}
+{"name":"Kraken","level":291,"killCount":1846,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":247}],"date":"Feb 12, 2025, 9:58:23 PM"}
+{"name":"Kraken","level":291,"killCount":1847,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":856}],"date":"Feb 12, 2025, 9:59:08 PM"}
+{"name":"Kraken","level":291,"killCount":1848,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":13552,"price":1}],"date":"Feb 12, 2025, 10:00:03 PM"}
+{"name":"Kraken","level":291,"killCount":1849,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 10:00:49 PM"}
+{"name":"Kraken","level":291,"killCount":1850,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":400,"price":5}],"date":"Feb 12, 2025, 10:01:44 PM"}
+{"name":"Kraken","level":291,"killCount":1851,"type":"NPC","drops":[{"name":"Oak plank","id":8779,"quantity":60,"price":619}],"date":"Feb 12, 2025, 10:02:55 PM"}
+{"name":"Kraken","level":291,"killCount":1852,"type":"NPC","drops":[{"name":"Mystic robe bottom","id":4093,"quantity":1,"price":47591}],"date":"Feb 12, 2025, 10:03:41 PM"}
+{"name":"Kraken","level":291,"killCount":1853,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":150,"price":166}],"date":"Feb 12, 2025, 10:04:29 PM"}
+{"name":"Kraken","level":291,"killCount":1854,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":18854,"price":1}],"date":"Feb 12, 2025, 10:05:14 PM"}
+{"name":"Kraken","level":291,"killCount":1855,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":238}],"date":"Feb 12, 2025, 10:06:01 PM"}
+{"name":"Kraken","level":291,"killCount":1856,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":162}],"date":"Feb 12, 2025, 10:07:01 PM"}
+{"name":"Kraken","level":291,"killCount":1857,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":17010},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":17010}],"date":"Feb 12, 2025, 10:08:09 PM"}
+{"name":"Kraken","level":291,"killCount":1858,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 10:09:13 PM"}
+{"name":"Kraken","level":291,"killCount":1859,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":12678,"price":1}],"date":"Feb 12, 2025, 10:10:08 PM"}
+{"name":"Kraken","level":291,"killCount":1860,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":250,"price":94}],"date":"Feb 12, 2025, 10:11:13 PM"}
+{"name":"Kraken","level":291,"killCount":1861,"type":"NPC","drops":[{"name":"Pirate boots","id":7114,"quantity":1,"price":856}],"date":"Feb 12, 2025, 10:12:08 PM"}
+{"name":"Kraken","level":291,"killCount":1862,"type":"NPC","drops":[{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":17010},{"name":"Sanfew serum(4)","id":10925,"quantity":1,"price":17010}],"date":"Feb 12, 2025, 10:13:04 PM"}
+{"name":"Kraken","level":291,"killCount":1863,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":60,"price":238}],"date":"Feb 12, 2025, 10:14:11 PM"}
+{"name":"Kraken","level":291,"killCount":1864,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":50,"price":162}],"date":"Feb 12, 2025, 10:15:07 PM"}

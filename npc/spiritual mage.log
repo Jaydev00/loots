@@ -341,3 +341,417 @@
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":43,"price":8}],"date":"Jun 30, 2023, 2:20:41 PM"}
 {"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":50}],"date":"Aug 2, 2023, 3:24:32 PM"}
 {"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":64}],"date":"Oct 10, 2023, 8:05:01 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super defence(3)","id":163,"quantity":1,"price":3583}],"date":"Apr 15, 2024, 12:11:20 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1325,"price":1}],"date":"Apr 15, 2024, 12:12:39 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:12:58 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":3,"price":1783}],"date":"Apr 15, 2024, 12:13:08 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:13:26 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":3,"price":147}],"date":"Apr 15, 2024, 12:13:52 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:14:16 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":42,"price":11}],"date":"Apr 15, 2024, 12:14:31 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 12:14:56 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":68,"price":85}],"date":"Apr 15, 2024, 12:17:46 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":40,"price":85}],"date":"Apr 15, 2024, 12:18:05 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:18:14 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":31,"price":11}],"date":"Apr 15, 2024, 12:18:33 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Nihil shard","id":26231,"quantity":5,"price":3570}],"date":"Apr 15, 2024, 12:18:50 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":49,"price":11}],"date":"Apr 15, 2024, 12:19:01 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 12:19:19 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 12:19:33 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:20:07 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":7249,"quantity":1,"price":0},{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:20:32 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":30,"price":11}],"date":"Apr 15, 2024, 12:20:53 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":83,"price":81}],"date":"Apr 15, 2024, 12:21:16 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:21:47 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":7,"price":147}],"date":"Apr 15, 2024, 12:22:07 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":12574,"quantity":1,"price":0},{"name":"Astral rune","id":9075,"quantity":75,"price":81}],"date":"Apr 15, 2024, 12:22:29 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:22:50 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":42,"price":11}],"date":"Apr 15, 2024, 12:23:10 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1334,"price":1}],"date":"Apr 15, 2024, 12:23:32 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":6010}],"date":"Apr 15, 2024, 12:24:05 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 12:24:17 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 12:24:58 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:25:13 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 12:25:42 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:25:58 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 12:26:13 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":6010}],"date":"Apr 15, 2024, 12:26:31 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 12:27:03 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 12:27:20 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:28:17 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:28:37 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Nihil shard","id":26231,"quantity":7,"price":3570}],"date":"Apr 15, 2024, 12:28:56 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":3525,"quantity":1,"price":0},{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 12:29:07 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":4,"price":147}],"date":"Apr 15, 2024, 12:29:38 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":6911,"price":1}],"date":"Apr 15, 2024, 12:29:55 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 12:30:18 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1305,"price":1}],"date":"Apr 15, 2024, 12:30:30 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:30:47 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super defence(3)","id":163,"quantity":1,"price":3583}],"date":"Apr 15, 2024, 12:31:04 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":97,"price":81}],"date":"Apr 15, 2024, 12:31:28 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":2783,"quantity":1,"price":0},{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 12:31:48 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":50,"price":85}],"date":"Apr 15, 2024, 12:32:02 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":30,"price":11}],"date":"Apr 15, 2024, 12:32:29 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 12:32:55 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 12:33:23 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":60,"price":11}],"date":"Apr 15, 2024, 12:33:40 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:33:52 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 12:34:18 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":4,"price":147}],"date":"Apr 15, 2024, 12:34:35 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":25,"price":259}],"date":"Apr 15, 2024, 12:34:53 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1320,"price":1}],"date":"Apr 15, 2024, 12:35:08 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":1,"price":1783}],"date":"Apr 15, 2024, 12:35:23 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":1,"price":147}],"date":"Apr 15, 2024, 12:35:41 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:36:07 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:36:41 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":7,"price":147}],"date":"Apr 15, 2024, 12:37:11 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":6927,"price":1}],"date":"Apr 15, 2024, 12:37:31 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:38:02 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":92,"price":81}],"date":"Apr 15, 2024, 12:38:32 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":25,"price":223}],"date":"Apr 15, 2024, 12:39:07 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":25,"price":223}],"date":"Apr 15, 2024, 12:39:27 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 12:39:52 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 12:40:17 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":1,"price":1783}],"date":"Apr 15, 2024, 12:40:41 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:40:56 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:41:17 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:41:42 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 12:41:59 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:42:28 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood essence","id":26390,"quantity":1,"price":59436}],"date":"Apr 15, 2024, 12:43:10 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":3,"price":147}],"date":"Apr 15, 2024, 12:43:34 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:43:57 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":65,"price":85}],"date":"Apr 15, 2024, 12:44:15 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1333,"price":1}],"date":"Apr 15, 2024, 12:45:03 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 12:46:36 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 12:47:17 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:47:37 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:48:02 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":94,"price":81}],"date":"Apr 15, 2024, 12:48:36 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Dragon boots","id":11840,"quantity":1,"price":116039},{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 12:48:55 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":49,"price":81}],"date":"Apr 15, 2024, 12:49:19 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":6,"price":147}],"date":"Apr 15, 2024, 12:49:36 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 12:49:48 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":2,"price":1783}],"date":"Apr 15, 2024, 12:50:14 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":3,"price":147}],"date":"Apr 15, 2024, 12:50:47 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 12:51:15 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Nihil shard","id":26231,"quantity":8,"price":3570}],"date":"Apr 15, 2024, 12:51:39 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":39,"price":11}],"date":"Apr 15, 2024, 12:52:02 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":41,"price":11}],"date":"Apr 15, 2024, 12:52:15 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":88,"price":81}],"date":"Apr 15, 2024, 12:52:37 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":5,"price":147}],"date":"Apr 15, 2024, 12:52:54 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":35,"price":11}],"date":"Apr 15, 2024, 12:53:14 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 12:53:36 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:53:58 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1321,"price":1}],"date":"Apr 15, 2024, 12:54:15 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":71,"price":81}],"date":"Apr 15, 2024, 12:54:30 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":25,"price":259}],"date":"Apr 15, 2024, 12:54:48 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":4,"price":147}],"date":"Apr 15, 2024, 12:55:05 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:55:22 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":81,"price":81}],"date":"Apr 15, 2024, 12:55:54 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:56:15 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 12:56:44 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 12:57:20 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:57:45 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":50,"price":81}],"date":"Apr 15, 2024, 12:58:01 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 12:58:21 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:58:48 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 12:59:41 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Smoke rune","id":4697,"quantity":102,"price":30}],"date":"Apr 15, 2024, 1:00:00 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 1:00:14 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":3,"price":147}],"date":"Apr 15, 2024, 1:00:52 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 1:01:04 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:01:22 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1325,"price":1}],"date":"Apr 15, 2024, 1:02:46 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":1,"price":1783}],"date":"Apr 15, 2024, 1:03:19 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 1:03:33 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:04:08 AM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":63,"price":81}],"date":"Apr 15, 2024, 12:49:35 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 12:50:07 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:52:02 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:52:32 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":25,"price":259}],"date":"Apr 15, 2024, 12:52:58 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 12:53:25 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":6010}],"date":"Apr 15, 2024, 12:53:47 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 12:54:01 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":4,"price":1783}],"date":"Apr 15, 2024, 12:54:31 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":71,"price":81}],"date":"Apr 15, 2024, 12:54:47 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1310,"price":1}],"date":"Apr 15, 2024, 12:55:16 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":43,"price":81}],"date":"Apr 15, 2024, 12:55:27 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:55:54 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":6927,"price":1}],"date":"Apr 15, 2024, 12:56:24 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 12:56:39 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 12:57:02 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 12:57:44 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 12:58:05 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 12:58:39 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":49,"price":81}],"date":"Apr 15, 2024, 12:58:57 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 12:59:20 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 12:59:39 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":47,"price":81}],"date":"Apr 15, 2024, 1:00:00 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":25,"price":223}],"date":"Apr 15, 2024, 1:00:20 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:00:43 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":82,"price":81}],"date":"Apr 15, 2024, 1:01:15 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":56,"price":81}],"date":"Apr 15, 2024, 1:01:42 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:01:53 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":90,"price":81}],"date":"Apr 15, 2024, 1:02:18 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:02:45 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:03:37 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Nihil shard","id":26231,"quantity":6,"price":3570}],"date":"Apr 15, 2024, 1:03:57 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":59,"price":81}],"date":"Apr 15, 2024, 1:04:27 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":25,"price":259}],"date":"Apr 15, 2024, 1:04:59 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":59,"price":81}],"date":"Apr 15, 2024, 1:05:16 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":58,"price":11}],"date":"Apr 15, 2024, 1:05:32 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":1,"price":1783}],"date":"Apr 15, 2024, 1:05:51 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":66,"price":85}],"date":"Apr 15, 2024, 1:06:11 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:06:43 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 1:07:05 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":25,"price":223}],"date":"Apr 15, 2024, 1:07:34 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 1:07:54 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 1:08:22 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 1:08:57 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 1:09:22 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":3558}],"date":"Apr 15, 2024, 1:09:42 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":68,"price":81}],"date":"Apr 15, 2024, 1:10:03 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 1:10:30 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:11:55 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:12:34 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 1:13:05 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 1:13:31 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":68,"price":81}],"date":"Apr 15, 2024, 1:13:50 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 1:14:11 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":96,"price":81}],"date":"Apr 15, 2024, 1:14:36 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":41,"price":11}],"date":"Apr 15, 2024, 1:15:22 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1323,"price":1}],"date":"Apr 15, 2024, 1:15:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 1:16:00 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 1:16:15 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Dragon boots","id":11840,"quantity":1,"price":116039},{"name":"Astral rune","id":9075,"quantity":78,"price":81}],"date":"Apr 15, 2024, 1:16:37 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":41,"price":81}],"date":"Apr 15, 2024, 1:17:06 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":66,"price":85}],"date":"Apr 15, 2024, 1:17:28 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":2,"price":1783}],"date":"Apr 15, 2024, 1:17:42 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:17:58 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:18:27 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":3558}],"date":"Apr 15, 2024, 1:18:47 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Dragon boots","id":11840,"quantity":1,"price":116039},{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 1:19:39 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super defence(3)","id":163,"quantity":1,"price":3583}],"date":"Apr 15, 2024, 1:20:15 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:20:40 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":3558}],"date":"Apr 15, 2024, 1:21:11 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":25,"price":259}],"date":"Apr 15, 2024, 1:21:35 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:22:01 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:22:23 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":59,"price":81}],"date":"Apr 15, 2024, 1:22:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:23:12 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super defence(3)","id":163,"quantity":1,"price":3583}],"date":"Apr 15, 2024, 1:23:32 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 1:24:23 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":3526,"quantity":1,"price":0},{"name":"Dragon boots","id":11840,"quantity":1,"price":116039},{"name":"Lava rune","id":4699,"quantity":30,"price":11}],"date":"Apr 15, 2024, 1:24:35 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":6905,"price":1}],"date":"Apr 15, 2024, 1:25:24 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":67,"price":81}],"date":"Apr 15, 2024, 1:25:58 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 1:26:27 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":42,"price":85}],"date":"Apr 15, 2024, 1:26:53 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":64,"price":81}],"date":"Apr 15, 2024, 1:27:12 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":25,"price":223}],"date":"Apr 15, 2024, 1:27:27 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:27:52 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super defence(3)","id":163,"quantity":1,"price":3583}],"date":"Apr 15, 2024, 1:28:13 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":60,"price":85}],"date":"Apr 15, 2024, 1:28:49 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 1:29:08 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":1,"price":1783}],"date":"Apr 15, 2024, 1:29:32 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":25,"price":223}],"date":"Apr 15, 2024, 1:29:48 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1300,"price":1}],"date":"Apr 15, 2024, 1:30:09 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":37,"price":11}],"date":"Apr 15, 2024, 1:30:39 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 1:31:06 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":90,"price":81}],"date":"Apr 15, 2024, 1:31:32 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":62,"price":85}],"date":"Apr 15, 2024, 1:31:51 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":6010}],"date":"Apr 15, 2024, 1:37:03 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":6920,"price":1}],"date":"Apr 15, 2024, 1:37:50 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 1:38:04 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 1:38:23 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":2,"price":147}],"date":"Apr 15, 2024, 1:38:46 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":30,"price":11}],"date":"Apr 15, 2024, 1:39:20 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":66,"price":81}],"date":"Apr 15, 2024, 1:39:58 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:40:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":1,"price":1783}],"date":"Apr 15, 2024, 1:41:03 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":41,"price":85}],"date":"Apr 15, 2024, 1:41:29 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":48,"price":11}],"date":"Apr 15, 2024, 1:41:49 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 1:41:51 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:45:04 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 1:45:22 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":3558}],"date":"Apr 15, 2024, 1:46:16 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":48,"price":85}],"date":"Apr 15, 2024, 1:46:33 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:46:54 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":2,"price":1783}],"date":"Apr 15, 2024, 1:48:45 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":50,"price":11}],"date":"Apr 15, 2024, 1:49:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":54,"price":81}],"date":"Apr 15, 2024, 1:50:27 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 1:50:40 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 1:51:03 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":10,"price":147}],"date":"Apr 15, 2024, 1:51:55 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":1,"price":1783}],"date":"Apr 15, 2024, 1:52:05 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":3558}],"date":"Apr 15, 2024, 1:52:29 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 1:53:45 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":88,"price":81}],"date":"Apr 15, 2024, 1:54:21 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 1:54:35 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":33,"price":11}],"date":"Apr 15, 2024, 1:55:01 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 1:55:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":3,"price":1783}],"date":"Apr 15, 2024, 1:55:55 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 1:56:14 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 1:56:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":7,"price":147}],"date":"Apr 15, 2024, 1:58:11 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":93,"price":81}],"date":"Apr 15, 2024, 1:59:02 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1300,"price":1}],"date":"Apr 15, 2024, 1:59:21 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":4,"price":147}],"date":"Apr 15, 2024, 1:59:29 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":37,"price":11}],"date":"Apr 15, 2024, 1:59:59 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":84,"price":81}],"date":"Apr 15, 2024, 2:01:02 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 2:01:43 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 2:02:24 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 2:02:32 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 2:03:04 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1330,"price":1}],"date":"Apr 15, 2024, 2:03:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":7,"price":147}],"date":"Apr 15, 2024, 2:03:48 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":98,"price":81}],"date":"Apr 15, 2024, 2:04:30 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":25,"price":259}],"date":"Apr 15, 2024, 2:04:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 2:05:30 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 2:05:42 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":10,"price":147}],"date":"Apr 15, 2024, 2:06:49 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood essence","id":26390,"quantity":1,"price":59436}],"date":"Apr 15, 2024, 2:07:23 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":25,"price":223}],"date":"Apr 15, 2024, 2:08:46 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":19878,"quantity":1,"price":0},{"name":"Coal","id":454,"quantity":3,"price":147}],"date":"Apr 15, 2024, 2:08:56 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Dragon boots","id":11840,"quantity":1,"price":116039},{"name":"Lava rune","id":4699,"quantity":43,"price":11}],"date":"Apr 15, 2024, 2:09:45 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Smoke rune","id":4697,"quantity":148,"price":30}],"date":"Apr 15, 2024, 2:10:27 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 2:10:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 2:10:53 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":3558}],"date":"Apr 15, 2024, 2:12:52 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":56,"price":85}],"date":"Apr 15, 2024, 2:12:57 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1321,"price":1}],"date":"Apr 15, 2024, 2:13:24 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":51,"price":81}],"date":"Apr 15, 2024, 2:14:07 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 2:15:12 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1330,"price":1}],"date":"Apr 15, 2024, 2:15:21 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 2:15:31 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 2:15:44 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":2778,"quantity":1,"price":0},{"name":"Death rune","id":560,"quantity":25,"price":167}],"date":"Apr 15, 2024, 2:16:25 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":4,"price":1783}],"date":"Apr 15, 2024, 2:16:54 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 2:17:39 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":8,"price":147}],"date":"Apr 15, 2024, 2:17:51 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 2:18:11 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super defence(3)","id":163,"quantity":1,"price":3583}],"date":"Apr 15, 2024, 2:18:29 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Adamantite bar","id":2362,"quantity":3,"price":1783}],"date":"Apr 15, 2024, 2:18:55 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 2:19:36 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 2:19:47 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":25,"price":223}],"date":"Apr 15, 2024, 2:20:51 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 2:21:20 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 2:21:30 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 2:21:32 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":3411}],"date":"Apr 15, 2024, 2:22:02 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":37,"price":11}],"date":"Apr 15, 2024, 2:22:38 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 2:22:44 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 2:23:10 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 2:24:16 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy snapdragon","id":3051,"quantity":1,"price":6675}],"date":"Apr 15, 2024, 2:24:37 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":55,"price":81}],"date":"Apr 15, 2024, 2:24:42 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 2:24:50 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 2:25:56 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1300,"price":1}],"date":"Apr 15, 2024, 2:26:08 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":41,"price":11}],"date":"Apr 15, 2024, 2:26:21 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1311,"price":1}],"date":"Apr 15, 2024, 2:26:31 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 2:26:59 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 2:27:50 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 2:28:26 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":64,"price":81}],"date":"Apr 15, 2024, 2:28:37 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Apr 15, 2024, 2:29:35 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1333,"price":1}],"date":"Apr 15, 2024, 2:29:52 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":25,"price":259}],"date":"Apr 15, 2024, 2:30:10 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1035}],"date":"Apr 15, 2024, 2:30:49 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 2:31:13 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 2:31:23 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy avantoe","id":211,"quantity":1,"price":3558}],"date":"Apr 15, 2024, 2:32:06 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1682}],"date":"Apr 15, 2024, 2:32:26 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":88,"price":81}],"date":"Apr 15, 2024, 2:33:41 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 2:33:52 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":6647}],"date":"Apr 15, 2024, 2:34:06 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Apr 15, 2024, 2:35:33 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":102}],"date":"Nov 1, 2024, 4:11:58 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":20,"price":124}],"date":"Nov 1, 2024, 4:12:22 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":10,"price":224}],"date":"Nov 1, 2024, 4:12:41 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":20,"price":124}],"date":"Nov 1, 2024, 4:13:00 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":18,"price":108}],"date":"Nov 1, 2024, 4:13:08 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":85}],"date":"Nov 1, 2024, 4:13:35 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":5}],"date":"Nov 1, 2024, 4:13:51 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":18,"price":108}],"date":"Nov 1, 2024, 4:14:03 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Nov 1, 2024, 4:14:17 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":85}],"date":"Nov 1, 2024, 4:14:47 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":102}],"date":"Nov 1, 2024, 4:15:07 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Blood rune","id":565,"quantity":10,"price":224}],"date":"Nov 1, 2024, 4:15:23 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Law rune","id":563,"quantity":15,"price":150}],"date":"Nov 1, 2024, 4:15:44 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":50,"price":5}],"date":"Nov 1, 2024, 4:16:18 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":85}],"date":"Nov 1, 2024, 4:17:11 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Nov 1, 2024, 4:17:21 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":102}],"date":"Nov 1, 2024, 4:17:33 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Nov 1, 2024, 4:17:43 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":25,"price":108}],"date":"Nov 1, 2024, 4:18:08 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Nov 1, 2024, 4:18:23 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Nov 1, 2024, 4:18:33 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":169}],"date":"Nov 1, 2024, 4:18:44 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":169}],"date":"Nov 1, 2024, 4:18:57 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":85}],"date":"Nov 1, 2024, 4:19:15 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Antipoison(3)","id":176,"quantity":5,"price":127}],"date":"Nov 1, 2024, 4:19:28 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mind rune","id":558,"quantity":50,"price":3}],"date":"Nov 1, 2024, 4:19:47 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Nov 1, 2024, 4:20:00 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":90,"price":1}],"date":"Nov 1, 2024, 4:20:22 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Soul rune","id":566,"quantity":25,"price":176}],"date":"Nov 1, 2024, 4:33:18 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":6691}],"date":"Nov 1, 2024, 4:34:03 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Nihil shard","id":26231,"quantity":9,"price":5175}],"date":"Nov 1, 2024, 4:34:40 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":4,"price":165}],"date":"Nov 1, 2024, 4:35:09 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":89,"price":85}],"date":"Nov 1, 2024, 4:35:25 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1304,"price":1}],"date":"Nov 1, 2024, 4:35:52 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":6926,"price":1}],"date":"Nov 1, 2024, 4:36:17 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Nov 1, 2024, 4:39:08 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":65,"price":5}],"date":"Nov 1, 2024, 4:39:32 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":20,"price":113}],"date":"Nov 1, 2024, 4:40:12 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Nov 1, 2024, 4:40:33 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":102}],"date":"Nov 1, 2024, 4:40:43 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":25,"price":108}],"date":"Nov 1, 2024, 4:41:00 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Nov 1, 2024, 4:41:19 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":90,"price":1}],"date":"Nov 1, 2024, 4:41:44 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":5}],"date":"Nov 1, 2024, 4:41:58 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":25,"price":108}],"date":"Nov 1, 2024, 4:42:10 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":90,"price":1}],"date":"Nov 1, 2024, 4:42:33 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Nov 1, 2024, 4:42:47 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Nov 1, 2024, 4:43:11 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":5}],"date":"Nov 1, 2024, 4:43:30 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":102}],"date":"Nov 1, 2024, 4:43:40 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":25,"price":108}],"date":"Nov 1, 2024, 4:43:56 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1328,"price":1}],"date":"Nov 1, 2024, 5:15:07 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Nov 1, 2024, 5:15:48 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":7990}],"date":"Nov 1, 2024, 5:16:10 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Nov 1, 2024, 5:16:30 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":85,"price":85}],"date":"Nov 1, 2024, 5:16:57 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":57,"price":113}],"date":"Nov 1, 2024, 6:15:10 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":63,"price":113}],"date":"Nov 1, 2024, 6:15:32 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":250,"price":5}],"date":"Nov 1, 2024, 6:16:00 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy torstol","id":219,"quantity":1,"price":2976}],"date":"Nov 1, 2024, 6:16:15 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":44,"price":85}],"date":"Nov 1, 2024, 6:16:34 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":1318,"price":1}],"date":"Nov 1, 2024, 6:16:53 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":56,"price":97}],"date":"Feb 11, 2025, 9:14:02 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1137}],"date":"Feb 11, 2025, 9:14:31 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Feb 11, 2025, 9:15:03 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Lava rune","id":4699,"quantity":41,"price":17}],"date":"Feb 11, 2025, 9:15:24 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":61,"price":138}],"date":"Feb 11, 2025, 9:15:44 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":76,"price":138}],"date":"Feb 11, 2025, 9:16:23 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Feb 11, 2025, 9:19:39 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":94}],"date":"Feb 11, 2025, 9:19:47 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":90,"price":1}],"date":"Feb 11, 2025, 9:19:59 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":65,"price":5}],"date":"Feb 11, 2025, 9:20:14 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":138}],"date":"Feb 11, 2025, 9:20:32 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":25,"price":101}],"date":"Feb 11, 2025, 9:20:47 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Feb 11, 2025, 9:21:00 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Feb 11, 2025, 9:21:14 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":2731,"quantity":1,"price":0},{"name":"Water rune","id":555,"quantity":15,"price":5}],"date":"Feb 11, 2025, 9:21:38 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":20,"price":121}],"date":"Feb 11, 2025, 9:22:11 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Feb 11, 2025, 9:22:26 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":20,"price":97}],"date":"Feb 11, 2025, 9:22:38 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":166}],"date":"Feb 11, 2025, 9:22:48 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":87,"price":138}],"date":"Feb 11, 2025, 10:09:19 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(3)","id":26342,"quantity":1,"price":1556}],"date":"Feb 11, 2025, 10:10:03 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":85,"price":138}],"date":"Feb 11, 2025, 10:11:03 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":2,"price":145}],"date":"Feb 11, 2025, 10:11:20 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":7485}],"date":"Feb 11, 2025, 10:11:39 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Feb 11, 2025, 10:12:04 PM"}
+{"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1137}],"date":"Feb 11, 2025, 10:12:38 PM"}

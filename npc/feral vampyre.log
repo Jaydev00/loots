@@ -224,3 +224,4 @@
 {"name":"Feral Vampyre","level":77,"killCount":-1,"type":"NPC","drops":[{"name":"Vampyre dust","id":3325,"quantity":1,"price":684},{"name":"Chaos rune","id":562,"quantity":3,"price":75}],"date":"Dec 22, 2022, 2:13:40 PM"}
 {"name":"Feral Vampyre","level":77,"killCount":-1,"type":"NPC","drops":[{"name":"Vampyre dust","id":3325,"quantity":1,"price":588},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":250}],"date":"Dec 27, 2022, 11:06:32 PM"}
 {"name":"Feral Vampyre","level":61,"killCount":-1,"type":"NPC","drops":[{"name":"Vampyre dust","id":3325,"quantity":1,"price":740},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":48}],"date":"Jul 19, 2023, 3:43:16 PM"}
+{"name":"Feral Vampyre","level":61,"killCount":-1,"type":"NPC","drops":[{"name":"Vampyre dust","id":3325,"quantity":1,"price":995}],"date":"Oct 28, 2024, 12:11:29 PM"}

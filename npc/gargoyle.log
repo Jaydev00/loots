@@ -1361,3 +1361,848 @@
 {"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":603,"price":1}],"date":"Jan 29, 2024, 11:47:45 PM"}
 {"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":648,"price":1}],"date":"Jan 29, 2024, 11:48:10 PM"}
 {"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3434}],"date":"Jan 29, 2024, 11:48:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:28:50 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":466,"price":1}],"date":"Jun 24, 2024, 9:28:55 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":12,"price":114}],"date":"Jun 24, 2024, 9:29:10 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jun 24, 2024, 9:29:28 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10986}],"date":"Jun 24, 2024, 9:29:47 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":845,"price":1}],"date":"Jun 24, 2024, 9:29:59 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":488,"price":1}],"date":"Jun 24, 2024, 9:30:15 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":658,"price":1}],"date":"Jun 24, 2024, 9:30:32 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:30:41 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:30:59 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38036}],"date":"Jun 24, 2024, 9:31:13 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":417,"price":1}],"date":"Jun 24, 2024, 9:31:28 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":542,"price":1}],"date":"Jun 24, 2024, 9:31:41 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20609}],"date":"Jun 24, 2024, 9:31:52 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":26566,"quantity":1,"price":0},{"name":"Gold bar","id":2358,"quantity":13,"price":114}],"date":"Jun 24, 2024, 9:32:05 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":159}],"date":"Jun 24, 2024, 9:32:20 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":765,"price":1}],"date":"Jun 24, 2024, 9:32:32 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:32:42 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":17,"price":159}],"date":"Jun 24, 2024, 9:32:52 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":902,"price":1}],"date":"Jun 24, 2024, 9:33:22 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:33:33 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":503,"price":1}],"date":"Jun 24, 2024, 9:33:47 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38036}],"date":"Jun 24, 2024, 9:33:59 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":793,"price":1}],"date":"Jun 24, 2024, 9:34:10 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":573}],"date":"Jun 24, 2024, 9:34:19 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":140}],"date":"Jun 24, 2024, 9:34:29 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":734,"price":1}],"date":"Jun 24, 2024, 9:34:43 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Jun 24, 2024, 9:35:11 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":710,"price":1}],"date":"Jun 24, 2024, 9:35:22 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Granite maul","id":4153,"quantity":1,"price":262269}],"date":"Jun 24, 2024, 9:35:35 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":573}],"date":"Jun 24, 2024, 9:35:49 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:36:10 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":573}],"date":"Jun 24, 2024, 9:36:13 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":571,"price":1}],"date":"Jun 24, 2024, 9:36:23 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":392}],"date":"Jun 24, 2024, 9:36:42 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":15,"price":159}],"date":"Jun 24, 2024, 9:37:01 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37911}],"date":"Jun 24, 2024, 9:37:28 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jun 24, 2024, 9:37:43 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24458}],"date":"Jun 24, 2024, 9:37:54 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Jun 24, 2024, 9:38:08 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20609}],"date":"Jun 24, 2024, 9:38:21 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38036}],"date":"Jun 24, 2024, 9:38:35 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":811,"price":1}],"date":"Jun 24, 2024, 9:38:46 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":869,"price":1}],"date":"Jun 24, 2024, 9:39:02 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":775,"price":1}],"date":"Jun 24, 2024, 9:39:17 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":781,"price":1}],"date":"Jun 24, 2024, 9:39:39 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jun 24, 2024, 9:39:52 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jun 24, 2024, 9:40:04 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":17,"price":159}],"date":"Jun 24, 2024, 9:40:14 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":95}],"date":"Jun 24, 2024, 9:40:29 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20609}],"date":"Jun 24, 2024, 9:40:38 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10986}],"date":"Jun 24, 2024, 9:40:49 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":95}],"date":"Jun 24, 2024, 9:41:34 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":658,"price":1}],"date":"Jun 24, 2024, 9:42:22 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":837,"price":1}],"date":"Jun 24, 2024, 9:42:31 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":998,"price":1}],"date":"Jun 24, 2024, 9:42:46 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":442}],"date":"Jun 24, 2024, 9:42:58 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":442}],"date":"Jun 24, 2024, 9:43:34 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":159}],"date":"Jun 24, 2024, 9:43:46 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":564,"price":1}],"date":"Jun 24, 2024, 9:44:00 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":95}],"date":"Jun 24, 2024, 9:44:15 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":140}],"date":"Jun 24, 2024, 9:44:30 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20609}],"date":"Jun 24, 2024, 9:44:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":10,"price":159}],"date":"Jun 24, 2024, 9:45:03 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":837,"price":1}],"date":"Jun 24, 2024, 9:45:16 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":779,"price":1}],"date":"Jun 24, 2024, 9:45:37 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":577,"price":1}],"date":"Jun 24, 2024, 9:45:52 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jun 24, 2024, 9:45:59 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":761,"price":1}],"date":"Jun 24, 2024, 9:46:22 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":553,"price":1}],"date":"Jun 24, 2024, 9:46:39 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":575,"price":1}],"date":"Jun 24, 2024, 9:46:50 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:47:07 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":487,"price":1}],"date":"Jun 24, 2024, 9:47:18 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":511,"price":1}],"date":"Jun 24, 2024, 9:47:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":690,"price":1}],"date":"Jun 24, 2024, 9:47:56 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":714,"price":1}],"date":"Jun 24, 2024, 9:48:03 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":140}],"date":"Jun 24, 2024, 9:48:14 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:48:32 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jun 24, 2024, 9:49:35 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":392}],"date":"Jun 24, 2024, 9:49:51 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":401,"price":1}],"date":"Jun 24, 2024, 9:50:00 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":858,"price":1}],"date":"Jun 24, 2024, 9:50:15 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jun 24, 2024, 9:50:29 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":442}],"date":"Jun 24, 2024, 9:50:46 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:50:58 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:51:08 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":18,"price":159}],"date":"Jun 24, 2024, 9:51:28 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":442}],"date":"Jun 24, 2024, 9:52:08 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:52:30 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":582,"price":1}],"date":"Jun 24, 2024, 9:52:42 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":442}],"date":"Jun 24, 2024, 9:52:57 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:54:06 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":413,"price":1}],"date":"Jun 24, 2024, 9:54:24 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":639,"price":1}],"date":"Jun 24, 2024, 9:54:36 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":540,"price":1}],"date":"Jun 24, 2024, 9:54:48 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":95}],"date":"Jun 24, 2024, 9:54:58 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":748,"price":1}],"date":"Jun 24, 2024, 9:55:12 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Jun 24, 2024, 9:55:28 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":729,"price":1}],"date":"Jun 24, 2024, 9:55:46 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":712,"price":1}],"date":"Jun 24, 2024, 9:55:57 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Jun 24, 2024, 9:56:13 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:56:26 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":140}],"date":"Jun 24, 2024, 9:56:40 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20609}],"date":"Jun 24, 2024, 9:56:49 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":442}],"date":"Jun 24, 2024, 9:57:02 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":673,"price":1}],"date":"Jun 24, 2024, 9:57:12 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Jun 24, 2024, 9:57:25 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38036}],"date":"Jun 24, 2024, 9:57:35 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":672,"price":1}],"date":"Jun 24, 2024, 9:57:55 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38036}],"date":"Jun 24, 2024, 9:58:11 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":159}],"date":"Jun 24, 2024, 9:58:27 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":159}],"date":"Jun 24, 2024, 9:58:39 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 9:58:54 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":520,"price":1}],"date":"Jun 24, 2024, 9:59:03 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24458}],"date":"Jun 24, 2024, 10:00:09 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":722,"price":1}],"date":"Jun 24, 2024, 10:00:23 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3458}],"date":"Jun 24, 2024, 10:00:39 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":617,"price":1}],"date":"Jun 24, 2024, 10:00:55 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":442}],"date":"Jun 24, 2024, 10:01:08 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 10:01:19 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jun 24, 2024, 10:01:35 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":159}],"date":"Jun 24, 2024, 10:01:47 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":159}],"date":"Jun 24, 2024, 10:01:58 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10986}],"date":"Jun 24, 2024, 10:02:13 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":428,"price":1}],"date":"Jun 24, 2024, 10:02:31 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":18,"price":159}],"date":"Jun 24, 2024, 10:02:39 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 10:02:48 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":541,"price":1}],"date":"Jun 24, 2024, 10:03:03 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":159}],"date":"Jun 24, 2024, 10:03:16 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jun 24, 2024, 10:03:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":140}],"date":"Jun 24, 2024, 10:04:15 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":442}],"date":"Jun 24, 2024, 10:04:27 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":159}],"date":"Jun 24, 2024, 10:04:42 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":681,"price":1}],"date":"Jun 24, 2024, 10:04:55 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38036}],"date":"Jun 24, 2024, 10:05:02 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":15,"price":159}],"date":"Jun 24, 2024, 10:05:12 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 10:05:28 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":982,"price":1}],"date":"Jun 24, 2024, 10:05:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":159}],"date":"Jun 24, 2024, 10:05:57 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10986}],"date":"Jun 24, 2024, 10:06:07 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":12,"price":159}],"date":"Jun 24, 2024, 10:06:19 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":680,"price":1}],"date":"Jun 24, 2024, 10:06:31 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jun 24, 2024, 10:06:46 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":463,"price":1}],"date":"Jun 24, 2024, 10:06:58 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":935,"price":1}],"date":"Jun 24, 2024, 10:07:10 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Jun 24, 2024, 10:07:26 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Jun 24, 2024, 10:07:57 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":95}],"date":"Jun 24, 2024, 10:08:15 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":159}],"date":"Jun 24, 2024, 10:08:27 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jun 24, 2024, 10:08:43 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":527,"price":1}],"date":"Jun 24, 2024, 10:08:52 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":539,"price":1}],"date":"Jun 24, 2024, 10:09:07 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 10:09:19 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant boots","id":4129,"quantity":1,"price":1977}],"date":"Jun 24, 2024, 10:09:35 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":506,"price":1}],"date":"Jun 24, 2024, 10:09:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Jun 24, 2024, 10:09:59 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":159}],"date":"Jun 24, 2024, 10:10:23 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut ruby","id":1619,"quantity":1,"price":986}],"date":"Aug 15, 2024, 12:10:30 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3438}],"date":"Aug 15, 2024, 12:10:40 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 15, 2024, 12:10:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":571,"price":1}],"date":"Aug 15, 2024, 12:11:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":166}],"date":"Aug 15, 2024, 12:11:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Aug 15, 2024, 12:11:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":403,"price":1}],"date":"Aug 15, 2024, 12:11:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 15, 2024, 12:12:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20578}],"date":"Aug 15, 2024, 12:12:28 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":507,"price":1}],"date":"Aug 15, 2024, 12:12:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":201}],"date":"Aug 15, 2024, 12:12:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":852,"price":1}],"date":"Aug 15, 2024, 12:13:09 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":18,"price":166}],"date":"Aug 15, 2024, 12:13:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":773,"price":1}],"date":"Aug 15, 2024, 12:13:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":719,"price":1}],"date":"Aug 15, 2024, 12:13:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 15, 2024, 12:14:01 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":11,"price":166}],"date":"Aug 15, 2024, 12:14:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":984,"price":1}],"date":"Aug 15, 2024, 12:14:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":913,"price":1}],"date":"Aug 15, 2024, 12:14:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":639,"price":1}],"date":"Aug 15, 2024, 12:14:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":11,"price":166}],"date":"Aug 15, 2024, 12:15:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 15, 2024, 12:15:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":873,"price":1}],"date":"Aug 15, 2024, 12:15:37 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 15, 2024, 12:15:47 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 15, 2024, 12:16:02 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":892}],"date":"Aug 15, 2024, 12:16:28 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":166}],"date":"Aug 15, 2024, 12:16:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":665,"price":1}],"date":"Aug 15, 2024, 12:16:54 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":201}],"date":"Aug 15, 2024, 12:17:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":14,"price":107}],"date":"Aug 15, 2024, 12:17:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant boots","id":4129,"quantity":1,"price":1248}],"date":"Aug 15, 2024, 12:17:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":17,"price":166}],"date":"Aug 15, 2024, 12:17:50 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":581,"price":1}],"date":"Aug 15, 2024, 12:18:19 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":892}],"date":"Aug 15, 2024, 12:18:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 15, 2024, 12:18:50 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":543}],"date":"Aug 15, 2024, 12:18:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":549,"price":1}],"date":"Aug 15, 2024, 12:19:07 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 15, 2024, 12:19:16 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":622,"price":1}],"date":"Aug 15, 2024, 12:19:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":938,"price":1}],"date":"Aug 15, 2024, 12:19:52 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 15, 2024, 12:20:07 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":463,"price":1}],"date":"Aug 15, 2024, 12:20:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 15, 2024, 12:20:32 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":434,"price":1}],"date":"Aug 15, 2024, 12:20:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":19854,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":764,"price":1}],"date":"Aug 15, 2024, 12:20:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Aug 15, 2024, 12:21:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":424,"price":1}],"date":"Aug 15, 2024, 12:21:28 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 15, 2024, 12:21:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":496,"price":1}],"date":"Aug 15, 2024, 12:21:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":784,"price":1}],"date":"Aug 15, 2024, 12:22:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 15, 2024, 12:22:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":587,"price":1}],"date":"Aug 15, 2024, 12:22:58 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 15, 2024, 12:23:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":953,"price":1}],"date":"Aug 15, 2024, 12:23:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":657,"price":1}],"date":"Aug 17, 2024, 5:12:19 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":544,"price":1}],"date":"Aug 17, 2024, 5:12:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":732,"price":1}],"date":"Aug 17, 2024, 5:13:02 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":723,"price":1}],"date":"Aug 17, 2024, 5:13:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":235}],"date":"Aug 17, 2024, 5:14:04 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 17, 2024, 5:14:50 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":622,"price":1}],"date":"Aug 17, 2024, 5:15:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":524}],"date":"Aug 17, 2024, 5:15:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 5:15:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":165}],"date":"Aug 17, 2024, 5:16:04 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":826,"price":1}],"date":"Aug 17, 2024, 5:16:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:16:46 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":879,"price":1}],"date":"Aug 17, 2024, 5:17:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":916}],"date":"Aug 17, 2024, 5:17:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":235}],"date":"Aug 17, 2024, 5:17:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":654,"price":1}],"date":"Aug 17, 2024, 5:18:12 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:18:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:18:37 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":211}],"date":"Aug 17, 2024, 5:18:47 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":696,"price":1}],"date":"Aug 17, 2024, 5:19:03 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:19:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":869,"price":1}],"date":"Aug 17, 2024, 5:19:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":787,"price":1}],"date":"Aug 17, 2024, 5:19:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:20:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 17, 2024, 5:20:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":165}],"date":"Aug 17, 2024, 5:20:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":524}],"date":"Aug 17, 2024, 5:21:07 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":678,"price":1}],"date":"Aug 17, 2024, 5:21:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 5:21:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24437}],"date":"Aug 17, 2024, 5:22:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":14,"price":165}],"date":"Aug 17, 2024, 5:22:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10788}],"date":"Aug 17, 2024, 5:23:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":793,"price":1}],"date":"Aug 17, 2024, 5:23:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 17, 2024, 5:23:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37781}],"date":"Aug 17, 2024, 5:24:12 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":527,"price":1}],"date":"Aug 17, 2024, 5:24:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 5:24:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":764,"price":1}],"date":"Aug 17, 2024, 5:24:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:25:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":424,"price":1}],"date":"Aug 17, 2024, 5:25:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37806}],"date":"Aug 17, 2024, 5:26:16 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":571,"price":1}],"date":"Aug 17, 2024, 5:26:39 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:26:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":638,"price":1}],"date":"Aug 17, 2024, 5:27:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":12556,"quantity":1,"price":0},{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 5:27:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 5:27:42 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:27:58 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":515,"price":1}],"date":"Aug 17, 2024, 5:28:12 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":561,"price":1}],"date":"Aug 17, 2024, 5:28:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20561}],"date":"Aug 17, 2024, 5:28:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":722,"price":1}],"date":"Aug 17, 2024, 5:28:54 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":726,"price":1}],"date":"Aug 17, 2024, 5:29:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":14,"price":165}],"date":"Aug 17, 2024, 5:29:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":497,"price":1}],"date":"Aug 17, 2024, 5:30:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":682,"price":1}],"date":"Aug 17, 2024, 5:30:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":608,"price":1}],"date":"Aug 17, 2024, 5:30:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut diamond","id":1617,"quantity":1,"price":2342}],"date":"Aug 17, 2024, 5:30:54 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 5:31:22 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":690,"price":1}],"date":"Aug 17, 2024, 5:31:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":165}],"date":"Aug 17, 2024, 5:31:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":868,"price":1}],"date":"Aug 17, 2024, 5:32:37 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":10,"price":165}],"date":"Aug 17, 2024, 5:32:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":457,"price":1}],"date":"Aug 17, 2024, 5:33:31 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":165}],"date":"Aug 17, 2024, 5:33:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:34:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":12,"price":111}],"date":"Aug 17, 2024, 5:34:39 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 5:34:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 5:35:10 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant boots","id":4129,"quantity":1,"price":1240}],"date":"Aug 17, 2024, 5:35:27 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:35:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Aug 17, 2024, 5:36:01 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":211}],"date":"Aug 17, 2024, 5:36:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:36:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":803,"price":1}],"date":"Aug 17, 2024, 5:36:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 17, 2024, 5:37:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 5:37:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:37:32 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20561}],"date":"Aug 17, 2024, 5:37:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":752,"price":1}],"date":"Aug 17, 2024, 5:38:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":524}],"date":"Aug 17, 2024, 5:38:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Aug 17, 2024, 5:38:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":613,"price":1}],"date":"Aug 17, 2024, 5:39:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":576,"price":1}],"date":"Aug 17, 2024, 5:39:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:39:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":916}],"date":"Aug 17, 2024, 5:40:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":425,"price":1}],"date":"Aug 17, 2024, 5:40:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":13,"price":111}],"date":"Aug 17, 2024, 5:40:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:41:09 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":693,"price":1}],"date":"Aug 17, 2024, 5:41:22 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24437}],"date":"Aug 17, 2024, 5:41:47 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":975,"price":1}],"date":"Aug 17, 2024, 5:41:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 17, 2024, 5:42:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":482,"price":1}],"date":"Aug 17, 2024, 5:42:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:42:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":676,"price":1}],"date":"Aug 17, 2024, 5:43:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":211}],"date":"Aug 17, 2024, 5:43:42 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":573,"price":1}],"date":"Aug 17, 2024, 5:44:12 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":426,"price":1}],"date":"Aug 17, 2024, 5:44:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 5:44:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":539,"price":1}],"date":"Aug 17, 2024, 5:45:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut ruby","id":1619,"quantity":1,"price":1002}],"date":"Aug 17, 2024, 5:45:27 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":11,"price":111}],"date":"Aug 17, 2024, 5:45:39 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 17, 2024, 5:45:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":459,"price":1}],"date":"Aug 17, 2024, 5:46:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":211}],"date":"Aug 17, 2024, 5:46:47 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 5:47:03 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:47:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":524}],"date":"Aug 17, 2024, 5:47:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":10,"price":111}],"date":"Aug 17, 2024, 5:47:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 5:48:12 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":416,"price":1}],"date":"Aug 17, 2024, 5:48:31 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:48:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10788}],"date":"Aug 17, 2024, 5:49:04 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":668,"price":1}],"date":"Aug 17, 2024, 5:49:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 5:49:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":474,"price":1}],"date":"Aug 17, 2024, 5:49:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":916}],"date":"Aug 17, 2024, 5:50:01 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":885,"price":1}],"date":"Aug 17, 2024, 5:50:16 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:50:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:50:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":549,"price":1}],"date":"Aug 17, 2024, 5:51:04 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 17, 2024, 5:51:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":480,"price":1}],"date":"Aug 17, 2024, 5:51:42 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":105}],"date":"Aug 17, 2024, 5:52:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":599,"price":1}],"date":"Aug 17, 2024, 5:52:32 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20561}],"date":"Aug 17, 2024, 5:52:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:53:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:53:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":743,"price":1}],"date":"Aug 17, 2024, 5:53:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":563,"price":1}],"date":"Aug 17, 2024, 5:54:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":714,"price":1}],"date":"Aug 17, 2024, 5:54:16 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":777,"price":1}],"date":"Aug 17, 2024, 5:54:37 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 5:54:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":916}],"date":"Aug 17, 2024, 5:55:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":211}],"date":"Aug 17, 2024, 5:55:50 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 5:56:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":860,"price":1}],"date":"Aug 17, 2024, 5:56:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":435,"price":1}],"date":"Aug 17, 2024, 5:56:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":17,"price":165}],"date":"Aug 17, 2024, 5:56:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":524}],"date":"Aug 17, 2024, 5:57:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":516,"price":1}],"date":"Aug 17, 2024, 5:57:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":466,"price":1}],"date":"Aug 17, 2024, 5:57:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":705,"price":1}],"date":"Aug 17, 2024, 5:58:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":235}],"date":"Aug 17, 2024, 5:58:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":211}],"date":"Aug 17, 2024, 5:59:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":646,"price":1}],"date":"Aug 17, 2024, 5:59:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 17, 2024, 5:59:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":729,"price":1}],"date":"Aug 17, 2024, 6:00:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":737,"price":1}],"date":"Aug 17, 2024, 6:00:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":165}],"date":"Aug 17, 2024, 6:01:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":615,"price":1}],"date":"Aug 17, 2024, 6:01:28 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":524}],"date":"Aug 17, 2024, 6:01:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 6:01:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":211}],"date":"Aug 17, 2024, 6:02:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":916}],"date":"Aug 17, 2024, 6:02:35 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 6:02:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20561}],"date":"Aug 17, 2024, 6:03:09 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":532,"price":1}],"date":"Aug 17, 2024, 6:03:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":774,"price":1}],"date":"Aug 17, 2024, 6:03:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3468}],"date":"Aug 17, 2024, 6:03:52 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":716,"price":1}],"date":"Aug 17, 2024, 6:04:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 17, 2024, 6:04:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":856,"price":1}],"date":"Aug 17, 2024, 6:05:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 6:05:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":508,"price":1}],"date":"Aug 17, 2024, 6:05:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":165}],"date":"Aug 17, 2024, 6:06:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":681,"price":1}],"date":"Aug 17, 2024, 6:06:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":436,"price":1}],"date":"Aug 17, 2024, 6:07:02 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 17, 2024, 6:07:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20561}],"date":"Aug 17, 2024, 6:07:30 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":165}],"date":"Aug 17, 2024, 6:07:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":641,"price":1}],"date":"Aug 17, 2024, 6:08:04 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":10,"price":111}],"date":"Aug 17, 2024, 6:08:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":524}],"date":"Aug 17, 2024, 6:08:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":211}],"date":"Aug 17, 2024, 6:08:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":170}],"date":"Aug 29, 2024, 8:58:38 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3473}],"date":"Aug 29, 2024, 8:58:53 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":725,"price":1}],"date":"Aug 29, 2024, 8:59:03 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37906}],"date":"Aug 29, 2024, 8:59:32 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":170}],"date":"Aug 29, 2024, 8:59:43 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":406,"price":1}],"date":"Aug 29, 2024, 9:00:02 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":682,"price":1}],"date":"Aug 29, 2024, 9:00:21 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10790}],"date":"Aug 29, 2024, 9:00:39 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":591,"price":1}],"date":"Aug 29, 2024, 9:01:11 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":423,"price":1}],"date":"Aug 29, 2024, 9:01:20 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 29, 2024, 9:01:49 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":99}],"date":"Aug 29, 2024, 9:02:07 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 29, 2024, 9:02:18 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37906}],"date":"Aug 29, 2024, 9:02:28 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":99}],"date":"Aug 29, 2024, 9:02:51 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":202}],"date":"Aug 29, 2024, 9:03:11 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":626,"price":1}],"date":"Aug 29, 2024, 9:03:30 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":202}],"date":"Aug 29, 2024, 9:03:44 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":553,"price":1}],"date":"Aug 29, 2024, 9:03:56 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":99}],"date":"Aug 29, 2024, 9:04:13 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37390}],"date":"Aug 29, 2024, 9:04:30 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 29, 2024, 9:04:51 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":615,"price":1}],"date":"Aug 29, 2024, 9:05:12 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":638,"price":1}],"date":"Aug 29, 2024, 9:05:29 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 29, 2024, 9:05:41 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":15,"price":170}],"date":"Aug 29, 2024, 9:05:58 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3473}],"date":"Aug 29, 2024, 9:06:09 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37906}],"date":"Aug 29, 2024, 9:06:34 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":519}],"date":"Aug 29, 2024, 9:06:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":559,"price":1}],"date":"Aug 29, 2024, 9:06:57 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":99}],"date":"Aug 29, 2024, 9:07:09 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":14,"price":113}],"date":"Aug 29, 2024, 9:07:38 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":542,"price":1}],"date":"Aug 29, 2024, 9:07:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":202}],"date":"Aug 29, 2024, 9:08:00 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":627,"price":1}],"date":"Aug 29, 2024, 9:08:12 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 29, 2024, 2:41:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 29, 2024, 2:41:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 29, 2024, 2:41:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":724,"price":1}],"date":"Aug 29, 2024, 2:41:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Aug 29, 2024, 2:41:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":455,"price":1}],"date":"Aug 29, 2024, 2:42:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":202}],"date":"Aug 29, 2024, 2:42:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":544,"price":1}],"date":"Aug 29, 2024, 2:42:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":442,"price":1}],"date":"Aug 29, 2024, 2:42:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Aug 29, 2024, 2:43:02 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10790}],"date":"Aug 29, 2024, 2:43:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3473}],"date":"Aug 29, 2024, 2:43:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37906}],"date":"Aug 29, 2024, 2:43:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":12,"price":170}],"date":"Aug 29, 2024, 2:43:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":863,"price":1}],"date":"Aug 29, 2024, 2:44:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Brimstone key","id":23083,"quantity":1,"price":0},{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 29, 2024, 2:44:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":789,"price":1}],"date":"Aug 29, 2024, 2:44:35 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37906}],"date":"Aug 29, 2024, 2:44:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 29, 2024, 2:45:01 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":990,"price":1}],"date":"Aug 29, 2024, 2:45:09 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":231}],"date":"Aug 29, 2024, 2:45:16 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 29, 2024, 3:07:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":12,"price":170}],"date":"Aug 29, 2024, 3:07:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":519}],"date":"Aug 29, 2024, 3:08:01 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 29, 2024, 3:08:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":14,"price":170}],"date":"Aug 29, 2024, 3:08:31 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":710,"price":1}],"date":"Aug 29, 2024, 3:08:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":980,"price":1}],"date":"Aug 29, 2024, 3:08:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut ruby","id":1619,"quantity":1,"price":996}],"date":"Aug 29, 2024, 3:09:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 29, 2024, 3:09:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":231}],"date":"Aug 29, 2024, 3:09:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":202}],"date":"Aug 29, 2024, 3:09:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":452,"price":1}],"date":"Aug 29, 2024, 3:10:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":99}],"date":"Aug 29, 2024, 3:10:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":170}],"date":"Aug 29, 2024, 3:10:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":519}],"date":"Aug 29, 2024, 3:11:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":170}],"date":"Aug 29, 2024, 3:11:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":99}],"date":"Aug 29, 2024, 3:11:30 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 29, 2024, 3:11:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":771,"price":1}],"date":"Aug 29, 2024, 3:11:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mystic robe top (dark)","id":4101,"quantity":1,"price":71616}],"date":"Aug 29, 2024, 3:12:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":468,"price":1}],"date":"Aug 29, 2024, 3:12:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":429,"price":1}],"date":"Aug 29, 2024, 3:12:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":705,"price":1}],"date":"Aug 29, 2024, 3:12:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":931,"price":1}],"date":"Aug 29, 2024, 3:13:16 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":99}],"date":"Aug 29, 2024, 3:13:37 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Granite maul","id":4153,"quantity":1,"price":335000}],"date":"Aug 29, 2024, 3:13:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Aug 29, 2024, 3:14:09 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Aug 29, 2024, 3:14:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":907,"price":1}],"date":"Aug 29, 2024, 3:14:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20550}],"date":"Aug 29, 2024, 3:14:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Aug 29, 2024, 3:15:16 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":555,"price":1}],"date":"Aug 29, 2024, 3:15:35 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":470,"price":1}],"date":"Aug 29, 2024, 3:15:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":170}],"date":"Aug 29, 2024, 3:16:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":609,"price":1}],"date":"Aug 29, 2024, 3:16:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":637,"price":1}],"date":"Aug 29, 2024, 3:16:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":713,"price":1}],"date":"Sep 12, 2024, 3:10:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":846,"price":1}],"date":"Sep 12, 2024, 3:10:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Sep 12, 2024, 3:11:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20739}],"date":"Sep 12, 2024, 3:11:50 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":727,"price":1}],"date":"Sep 12, 2024, 3:12:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":935,"price":1}],"date":"Sep 12, 2024, 3:12:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":11126}],"date":"Sep 12, 2024, 3:12:31 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":203}],"date":"Sep 12, 2024, 3:13:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":868,"price":1}],"date":"Sep 12, 2024, 3:13:09 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":503}],"date":"Sep 12, 2024, 3:13:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:13:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:13:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Sep 12, 2024, 3:14:19 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":452,"price":1}],"date":"Sep 12, 2024, 3:14:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":896,"price":1}],"date":"Sep 12, 2024, 3:14:39 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":926,"price":1}],"date":"Sep 12, 2024, 3:15:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":756,"price":1}],"date":"Sep 12, 2024, 3:15:22 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":649,"price":1}],"date":"Sep 12, 2024, 3:15:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":570,"price":1}],"date":"Sep 12, 2024, 3:16:03 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":522}],"date":"Sep 12, 2024, 3:16:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":176}],"date":"Sep 12, 2024, 3:16:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":522}],"date":"Sep 12, 2024, 3:16:46 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant boots","id":4129,"quantity":1,"price":1090}],"date":"Sep 12, 2024, 3:17:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":461,"price":1}],"date":"Sep 12, 2024, 3:17:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":659,"price":1}],"date":"Sep 12, 2024, 3:17:22 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":522}],"date":"Sep 12, 2024, 3:17:35 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":104}],"date":"Sep 12, 2024, 3:17:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":104}],"date":"Sep 12, 2024, 3:17:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":761}],"date":"Sep 12, 2024, 3:18:10 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:18:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Sep 12, 2024, 3:18:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":959,"price":1}],"date":"Sep 12, 2024, 3:18:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Sep 12, 2024, 3:18:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":814,"price":1}],"date":"Sep 12, 2024, 3:19:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":546,"price":1}],"date":"Sep 12, 2024, 3:19:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":610,"price":1}],"date":"Sep 12, 2024, 3:19:32 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":711,"price":1}],"date":"Sep 12, 2024, 3:19:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:19:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24546}],"date":"Sep 12, 2024, 3:20:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":11126}],"date":"Sep 12, 2024, 3:20:32 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":12542,"quantity":1,"price":0},{"name":"Steel bar","id":2354,"quantity":15,"price":522}],"date":"Sep 12, 2024, 3:20:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24546}],"date":"Sep 12, 2024, 3:21:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":501,"price":1}],"date":"Sep 12, 2024, 3:21:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":699,"price":1}],"date":"Sep 12, 2024, 3:21:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":465,"price":1}],"date":"Sep 12, 2024, 3:22:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":203}],"date":"Sep 12, 2024, 3:22:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Sep 12, 2024, 3:22:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:22:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":837,"price":1}],"date":"Sep 12, 2024, 3:23:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Sep 12, 2024, 3:23:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":731,"price":1}],"date":"Sep 12, 2024, 3:23:28 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38005}],"date":"Sep 12, 2024, 3:23:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":463,"price":1}],"date":"Sep 12, 2024, 3:23:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":104}],"date":"Sep 12, 2024, 3:24:02 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":522}],"date":"Sep 12, 2024, 3:24:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":11126}],"date":"Sep 12, 2024, 3:24:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Sep 12, 2024, 3:24:54 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":547,"price":1}],"date":"Sep 12, 2024, 3:25:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3528}],"date":"Sep 12, 2024, 3:25:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":695,"price":1}],"date":"Sep 12, 2024, 3:25:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:25:58 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:26:22 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:26:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":890,"price":1}],"date":"Sep 12, 2024, 3:26:40 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":11126}],"date":"Sep 12, 2024, 3:26:55 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":12,"price":117}],"date":"Sep 12, 2024, 3:27:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24546}],"date":"Sep 12, 2024, 3:27:27 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":798,"price":1}],"date":"Sep 12, 2024, 3:27:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Sep 12, 2024, 3:27:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":661,"price":1}],"date":"Sep 12, 2024, 3:28:04 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24546}],"date":"Sep 12, 2024, 3:28:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:28:32 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":562,"price":1}],"date":"Sep 12, 2024, 3:28:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":752,"price":1}],"date":"Sep 12, 2024, 3:29:01 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":522}],"date":"Sep 12, 2024, 3:29:12 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:29:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":537,"price":1}],"date":"Sep 12, 2024, 3:29:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":11,"price":176}],"date":"Sep 12, 2024, 3:29:50 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":104}],"date":"Sep 12, 2024, 3:30:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:30:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":799,"price":1}],"date":"Sep 12, 2024, 3:30:46 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Sep 12, 2024, 3:30:58 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Sep 12, 2024, 3:31:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":962,"price":1}],"date":"Sep 12, 2024, 3:31:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":176}],"date":"Sep 12, 2024, 3:31:31 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Sep 12, 2024, 3:31:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":761}],"date":"Sep 12, 2024, 3:31:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:32:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant boots","id":4129,"quantity":1,"price":1090}],"date":"Sep 12, 2024, 3:32:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":203}],"date":"Sep 12, 2024, 3:32:32 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:32:55 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":681,"price":1}],"date":"Sep 12, 2024, 3:33:07 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:33:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":104}],"date":"Sep 12, 2024, 3:33:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":787,"price":1}],"date":"Sep 12, 2024, 3:33:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Sep 12, 2024, 3:33:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":104}],"date":"Sep 12, 2024, 3:33:59 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":552,"price":1}],"date":"Sep 12, 2024, 3:34:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":176}],"date":"Sep 12, 2024, 3:34:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":237}],"date":"Sep 12, 2024, 3:34:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Sep 12, 2024, 3:34:46 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":568,"price":1}],"date":"Sep 12, 2024, 3:34:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":176}],"date":"Sep 12, 2024, 3:35:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":38005}],"date":"Sep 12, 2024, 3:35:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":932,"price":1}],"date":"Sep 12, 2024, 3:35:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3528}],"date":"Sep 12, 2024, 3:35:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:36:02 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":693,"price":1}],"date":"Sep 12, 2024, 3:36:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":14,"price":117}],"date":"Sep 12, 2024, 3:36:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":725,"price":1}],"date":"Sep 12, 2024, 3:36:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":203}],"date":"Sep 12, 2024, 3:36:47 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":741,"price":1}],"date":"Sep 12, 2024, 3:37:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":237}],"date":"Sep 12, 2024, 3:37:31 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":802,"price":1}],"date":"Sep 12, 2024, 3:37:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":522}],"date":"Sep 12, 2024, 3:37:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":176}],"date":"Sep 12, 2024, 3:38:01 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":551,"price":1}],"date":"Sep 12, 2024, 3:38:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":522}],"date":"Sep 12, 2024, 3:38:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Sep 12, 2024, 3:38:31 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":503}],"date":"Sep 12, 2024, 3:38:42 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Sep 12, 2024, 3:39:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Sep 12, 2024, 3:40:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3528}],"date":"Sep 12, 2024, 3:40:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Sep 12, 2024, 3:40:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Sep 12, 2024, 3:41:04 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":104}],"date":"Sep 12, 2024, 3:41:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":203}],"date":"Sep 12, 2024, 3:41:37 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24546}],"date":"Sep 12, 2024, 3:41:58 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:42:09 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":618,"price":1}],"date":"Sep 12, 2024, 3:42:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":503}],"date":"Sep 12, 2024, 3:42:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:42:35 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":692,"price":1}],"date":"Sep 12, 2024, 3:42:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Sep 12, 2024, 3:43:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":964,"price":1}],"date":"Sep 12, 2024, 3:43:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":539,"price":1}],"date":"Sep 12, 2024, 3:43:37 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":13,"price":176}],"date":"Sep 12, 2024, 3:43:52 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":595,"price":1}],"date":"Sep 12, 2024, 3:44:05 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":237}],"date":"Sep 12, 2024, 3:44:19 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":612,"price":1}],"date":"Sep 12, 2024, 3:44:32 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Sep 12, 2024, 3:44:42 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":13,"price":117}],"date":"Sep 12, 2024, 3:44:55 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":535,"price":1}],"date":"Sep 12, 2024, 3:45:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":4}],"date":"Sep 12, 2024, 3:45:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":421,"price":1}],"date":"Sep 12, 2024, 3:45:28 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Sep 12, 2024, 3:45:37 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":927,"price":1}],"date":"Sep 12, 2024, 3:45:52 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune battleaxe","id":1373,"quantity":1,"price":24546}],"date":"Sep 12, 2024, 3:46:19 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":677,"price":1}],"date":"Sep 12, 2024, 3:46:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":4}],"date":"Sep 12, 2024, 3:46:46 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":761}],"date":"Sep 12, 2024, 3:46:58 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":103}],"date":"Oct 27, 2024, 12:30:55 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3517}],"date":"Oct 27, 2024, 12:31:05 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":599,"price":1}],"date":"Oct 27, 2024, 12:31:17 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":523}],"date":"Oct 27, 2024, 12:31:32 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":5}],"date":"Oct 27, 2024, 12:31:43 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20747}],"date":"Oct 27, 2024, 12:31:56 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20747}],"date":"Oct 27, 2024, 12:32:13 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":17,"price":161}],"date":"Oct 27, 2024, 12:32:31 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":589,"price":1}],"date":"Oct 27, 2024, 12:32:50 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":11,"price":161}],"date":"Oct 27, 2024, 12:33:09 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":523}],"date":"Oct 27, 2024, 12:33:29 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":586,"price":1}],"date":"Oct 27, 2024, 12:33:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":786,"price":1}],"date":"Oct 27, 2024, 12:34:02 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":103}],"date":"Oct 27, 2024, 12:34:18 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":5}],"date":"Oct 27, 2024, 12:34:31 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":580,"price":1}],"date":"Oct 27, 2024, 12:34:54 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":16,"price":161}],"date":"Oct 27, 2024, 12:35:06 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":496,"price":1}],"date":"Oct 27, 2024, 12:35:46 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":912,"price":1}],"date":"Oct 27, 2024, 12:35:57 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":720}],"date":"Oct 27, 2024, 12:36:09 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":448,"price":1}],"date":"Oct 27, 2024, 12:36:24 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Oct 27, 2024, 12:36:36 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Oct 27, 2024, 12:36:51 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":453,"price":1}],"date":"Oct 27, 2024, 12:37:05 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3517}],"date":"Oct 27, 2024, 12:37:18 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":14,"price":113}],"date":"Oct 27, 2024, 12:37:52 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Oct 27, 2024, 12:38:12 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":523}],"date":"Oct 27, 2024, 12:38:21 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":172}],"date":"Oct 27, 2024, 12:38:33 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril bar","id":2360,"quantity":15,"price":720}],"date":"Oct 27, 2024, 12:38:42 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant boots","id":4129,"quantity":1,"price":1165}],"date":"Oct 27, 2024, 12:38:54 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":18,"price":161}],"date":"Oct 27, 2024, 12:39:09 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":549,"price":1}],"date":"Oct 27, 2024, 12:39:30 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Oct 27, 2024, 12:39:43 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":11,"price":161}],"date":"Oct 27, 2024, 12:40:18 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":10,"price":161}],"date":"Oct 27, 2024, 12:40:39 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":19868,"quantity":1,"price":0},{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Oct 27, 2024, 12:40:58 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":601,"price":1}],"date":"Oct 27, 2024, 12:41:13 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":719,"price":1}],"date":"Oct 27, 2024, 12:41:27 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":656,"price":1}],"date":"Oct 27, 2024, 12:41:41 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":161}],"date":"Oct 27, 2024, 12:41:53 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37969}],"date":"Oct 27, 2024, 12:42:03 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":172}],"date":"Oct 27, 2024, 12:42:16 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":907,"price":1}],"date":"Oct 27, 2024, 12:42:33 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":103}],"date":"Oct 27, 2024, 12:42:44 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":462}],"date":"Oct 27, 2024, 12:42:55 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Oct 27, 2024, 12:43:02 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":523}],"date":"Oct 27, 2024, 12:43:25 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":172}],"date":"Oct 27, 2024, 12:43:35 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":908,"price":1}],"date":"Oct 27, 2024, 12:43:57 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":523}],"date":"Oct 27, 2024, 12:44:09 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Oct 27, 2024, 12:44:27 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":843,"price":1}],"date":"Oct 27, 2024, 12:44:39 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":556,"price":1}],"date":"Oct 27, 2024, 12:44:51 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":12,"price":113}],"date":"Oct 27, 2024, 12:45:01 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":161}],"date":"Oct 27, 2024, 12:45:13 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":711,"price":1}],"date":"Oct 27, 2024, 12:45:21 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":103}],"date":"Oct 27, 2024, 12:45:37 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":938,"price":1}],"date":"Oct 27, 2024, 12:45:49 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Oct 27, 2024, 12:45:59 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3517}],"date":"Oct 27, 2024, 12:46:27 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":172}],"date":"Oct 27, 2024, 12:46:57 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37969}],"date":"Oct 27, 2024, 12:47:06 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":523}],"date":"Oct 27, 2024, 12:47:19 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37969}],"date":"Oct 27, 2024, 12:47:31 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":804,"price":1}],"date":"Oct 27, 2024, 12:47:43 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37892}],"date":"Oct 27, 2024, 12:47:51 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":103}],"date":"Oct 27, 2024, 12:48:04 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":103}],"date":"Oct 27, 2024, 12:48:15 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":12,"price":161}],"date":"Oct 27, 2024, 12:48:40 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":451,"price":1}],"date":"Oct 27, 2024, 12:48:52 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Oct 27, 2024, 12:49:01 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37969}],"date":"Oct 27, 2024, 12:49:16 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":172}],"date":"Oct 27, 2024, 12:49:29 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":12,"price":161}],"date":"Oct 27, 2024, 12:49:55 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":10988}],"date":"Oct 27, 2024, 12:50:08 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":905,"price":1}],"date":"Oct 27, 2024, 12:50:22 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":697,"price":1}],"date":"Oct 27, 2024, 12:50:33 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":590,"price":1}],"date":"Oct 27, 2024, 12:50:49 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3517}],"date":"Oct 27, 2024, 12:51:01 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":440,"price":1}],"date":"Oct 27, 2024, 12:51:20 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":560,"price":1}],"date":"Oct 27, 2024, 12:51:33 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":563,"price":1}],"date":"Oct 27, 2024, 12:51:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":791,"price":1}],"date":"Oct 27, 2024, 12:52:09 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":546,"price":1}],"date":"Oct 27, 2024, 12:52:24 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":642,"price":1}],"date":"Oct 27, 2024, 12:52:40 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":790,"price":1}],"date":"Oct 27, 2024, 12:52:48 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Oct 27, 2024, 12:52:54 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":420,"price":1}],"date":"Oct 27, 2024, 12:53:10 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":15,"price":161}],"date":"Oct 27, 2024, 12:53:20 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":519,"price":1}],"date":"Oct 27, 2024, 12:53:28 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":523}],"date":"Oct 27, 2024, 12:53:45 AM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":711,"price":1}],"date":"Jan 11, 2025, 7:03:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":540,"price":1}],"date":"Jan 11, 2025, 7:03:45 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":11367}],"date":"Jan 11, 2025, 7:04:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 11, 2025, 7:04:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 11, 2025, 7:04:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":155}],"date":"Jan 11, 2025, 7:04:40 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":516,"price":1}],"date":"Jan 11, 2025, 7:04:55 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":549,"price":1}],"date":"Jan 11, 2025, 7:05:07 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":12,"price":155}],"date":"Jan 11, 2025, 7:05:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":713,"price":1}],"date":"Jan 11, 2025, 7:05:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":5}],"date":"Jan 11, 2025, 7:05:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":11367}],"date":"Jan 11, 2025, 7:05:55 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 11, 2025, 7:06:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":155}],"date":"Jan 11, 2025, 7:06:30 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jan 11, 2025, 7:06:44 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":5}],"date":"Jan 11, 2025, 7:07:03 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 11, 2025, 7:07:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":737,"price":1}],"date":"Jan 11, 2025, 7:07:27 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 11, 2025, 7:07:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 11, 2025, 7:07:58 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":10,"price":155}],"date":"Jan 11, 2025, 7:08:19 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":526,"price":1}],"date":"Jan 11, 2025, 7:08:31 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37794}],"date":"Jan 11, 2025, 7:08:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 11, 2025, 7:08:52 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jan 11, 2025, 7:09:07 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":259}],"date":"Jan 11, 2025, 7:09:16 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 11, 2025, 7:09:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 11, 2025, 7:09:42 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":602,"price":1}],"date":"Jan 11, 2025, 7:09:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":708,"price":1}],"date":"Jan 11, 2025, 7:10:09 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":90}],"date":"Jan 11, 2025, 7:10:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":662,"price":1}],"date":"Jan 11, 2025, 7:10:55 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":793,"price":1}],"date":"Jan 11, 2025, 7:11:07 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jan 11, 2025, 7:11:33 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":410,"price":1}],"date":"Jan 11, 2025, 7:11:47 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":954,"price":1}],"date":"Jan 11, 2025, 7:12:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":150,"price":5}],"date":"Jan 11, 2025, 7:12:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":898,"price":1}],"date":"Jan 11, 2025, 7:12:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":12,"price":122}],"date":"Jan 11, 2025, 7:12:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":538}],"date":"Jan 11, 2025, 7:13:03 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":726,"price":1}],"date":"Jan 11, 2025, 7:13:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 12, 2025, 12:05:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":10,"price":155}],"date":"Jan 12, 2025, 12:05:21 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37787}],"date":"Jan 12, 2025, 12:05:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":978,"price":1}],"date":"Jan 12, 2025, 12:06:02 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 12, 2025, 12:06:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20580}],"date":"Jan 12, 2025, 12:06:30 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":517,"price":1}],"date":"Jan 12, 2025, 12:06:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":523,"price":1}],"date":"Jan 12, 2025, 12:07:03 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":916,"price":1}],"date":"Jan 12, 2025, 12:07:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":560,"price":1}],"date":"Jan 12, 2025, 12:07:28 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune platelegs","id":1079,"quantity":1,"price":37787}],"date":"Jan 12, 2025, 12:07:40 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 12, 2025, 12:08:02 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":823,"price":1}],"date":"Jan 12, 2025, 12:08:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3493}],"date":"Jan 12, 2025, 12:08:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":511}],"date":"Jan 12, 2025, 12:08:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20580}],"date":"Jan 12, 2025, 12:08:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":91}],"date":"Jan 12, 2025, 12:09:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 12, 2025, 12:09:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":660,"price":1}],"date":"Jan 12, 2025, 12:09:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 12, 2025, 12:09:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":665,"price":1}],"date":"Jan 12, 2025, 12:10:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":798,"price":1}],"date":"Jan 12, 2025, 12:10:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":970,"price":1}],"date":"Jan 12, 2025, 12:10:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":155}],"date":"Jan 12, 2025, 12:11:08 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 12, 2025, 12:11:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 12, 2025, 12:12:13 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":461,"price":1}],"date":"Jan 12, 2025, 12:12:27 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":655,"price":1}],"date":"Jan 12, 2025, 12:12:40 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":532,"price":1}],"date":"Jan 12, 2025, 12:12:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":11,"price":121}],"date":"Jan 12, 2025, 12:13:15 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":2747,"quantity":1,"price":0}],"date":"Jan 12, 2025, 12:13:23 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":717,"price":1}],"date":"Jan 12, 2025, 12:13:35 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune 2h sword","id":1319,"quantity":1,"price":37933}],"date":"Jan 12, 2025, 12:13:47 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20580}],"date":"Jan 12, 2025, 12:14:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":14,"price":155}],"date":"Jan 12, 2025, 12:14:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":798,"price":1}],"date":"Jan 12, 2025, 12:14:20 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":11371}],"date":"Jan 12, 2025, 12:14:30 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":30,"price":91}],"date":"Jan 12, 2025, 12:14:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":750,"price":1}],"date":"Jan 12, 2025, 12:15:04 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold bar","id":2358,"quantity":13,"price":121}],"date":"Jan 12, 2025, 12:15:19 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":584,"price":1}],"date":"Jan 12, 2025, 12:15:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":162}],"date":"Jan 12, 2025, 12:15:43 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 12, 2025, 12:15:53 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":2747,"quantity":1,"price":0},{"name":"Runite ore","id":451,"quantity":1,"price":11371}],"date":"Jan 12, 2025, 12:16:03 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":162}],"date":"Jan 12, 2025, 12:16:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":696,"price":1}],"date":"Jan 12, 2025, 12:17:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":711,"price":1}],"date":"Jan 12, 2025, 12:17:51 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":505,"price":1}],"date":"Jan 12, 2025, 12:18:06 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Runite ore","id":451,"quantity":1,"price":11371}],"date":"Jan 12, 2025, 12:18:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jan 12, 2025, 12:18:41 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":162}],"date":"Jan 12, 2025, 12:18:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":20,"price":155}],"date":"Jan 12, 2025, 12:19:07 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":753,"price":1}],"date":"Jan 12, 2025, 12:19:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 12, 2025, 12:19:34 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":511}],"date":"Jan 12, 2025, 12:19:48 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":518,"price":1}],"date":"Jan 12, 2025, 12:20:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 12, 2025, 12:20:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":259}],"date":"Jan 12, 2025, 12:20:25 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jan 12, 2025, 12:20:38 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 12, 2025, 12:20:49 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":19,"price":155}],"date":"Jan 12, 2025, 12:21:00 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":600,"price":1}],"date":"Jan 12, 2025, 12:21:11 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":671,"price":1}],"date":"Jan 12, 2025, 12:21:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":782,"price":1}],"date":"Jan 12, 2025, 12:21:39 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3493}],"date":"Jan 12, 2025, 12:22:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":664,"price":1}],"date":"Jan 12, 2025, 12:22:26 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":503,"price":1}],"date":"Jan 12, 2025, 12:22:39 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":10000,"price":1}],"date":"Jan 12, 2025, 12:22:56 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 12, 2025, 12:23:14 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":421,"price":1}],"date":"Jan 12, 2025, 12:23:24 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":551,"price":1}],"date":"Jan 12, 2025, 12:23:36 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Steel bar","id":2354,"quantity":15,"price":511}],"date":"Jan 12, 2025, 12:23:47 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":422,"price":1}],"date":"Jan 12, 2025, 12:24:01 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut ruby","id":1619,"quantity":1,"price":1104}],"date":"Jan 12, 2025, 12:24:18 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Gold ore","id":445,"quantity":18,"price":155}],"date":"Jan 12, 2025, 12:24:42 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":656,"price":1}],"date":"Jan 12, 2025, 12:24:55 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":496,"price":1}],"date":"Jan 12, 2025, 12:25:10 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 12, 2025, 12:25:29 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":150,"price":1}],"date":"Jan 12, 2025, 12:25:42 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 12, 2025, 12:25:57 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":551,"price":1}],"date":"Jan 12, 2025, 12:26:17 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":2733,"quantity":1,"price":0},{"name":"Fire rune","id":554,"quantity":75,"price":5}],"date":"Jan 12, 2025, 12:26:30 PM"}
+{"name":"Gargoyle","level":111,"killCount":-1,"type":"NPC","drops":[{"name":"Rune full helm","id":1163,"quantity":1,"price":20580}],"date":"Jan 12, 2025, 12:26:45 PM"}

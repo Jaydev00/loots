@@ -34,3 +34,13 @@
 {"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":12,"price":1}],"date":"Aug 27, 2023, 11:54:47 PM"}
 {"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Bronze arrow","id":882,"quantity":2,"price":3}],"date":"Aug 27, 2023, 11:55:00 PM"}
 {"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":67},{"name":"Coins","id":995,"quantity":12,"price":1}],"date":"Oct 10, 2023, 12:10:16 PM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Onion seed","id":5319,"quantity":4,"price":1}],"date":"Mar 30, 2024, 11:23:39 PM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Blood rune","id":565,"quantity":1,"price":223}],"date":"Mar 31, 2024, 11:15:42 PM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Steel arrow","id":886,"quantity":1,"price":23}],"date":"Apr 3, 2024, 10:37:14 PM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79}],"date":"Apr 3, 2024, 11:49:21 PM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Sweetcorn seed","id":5320,"quantity":3,"price":1}],"date":"Apr 4, 2024, 1:07:28 AM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Cabbage seed","id":5324,"quantity":4,"price":1}],"date":"Apr 21, 2024, 2:27:05 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Coins","id":995,"quantity":7,"price":1}],"date":"May 16, 2024, 8:39:11 AM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":102}],"date":"Jul 7, 2024, 3:54:50 PM"}
+{"name":"Guard","level":21,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":102},{"name":"Iron bolts","id":9140,"quantity":6,"price":7}],"date":"Jul 7, 2024, 3:55:03 PM"}
+{"name":"Guard","level":20,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":94},{"name":"Iron bolts","id":9140,"quantity":9,"price":8}],"date":"Sep 7, 2024, 6:43:56 PM"}

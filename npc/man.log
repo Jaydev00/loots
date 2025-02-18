@@ -26,3 +26,7 @@
 {"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Clue scroll (easy)","id":12185,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":3,"price":1}],"date":"Oct 29, 2022, 4:15:12 PM"}
 {"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":75}],"date":"Dec 18, 2022, 9:43:21 PM"}
 {"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":74}],"date":"Dec 19, 2022, 3:37:15 PM"}
+{"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Coins","id":995,"quantity":3,"price":1},{"name":"Key (medium)","id":2840,"quantity":1,"price":0}],"date":"Apr 3, 2024, 10:54:56 PM"}
+{"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Coins","id":995,"quantity":3,"price":1},{"name":"Key (medium)","id":2840,"quantity":1,"price":0}],"date":"Apr 4, 2024, 12:16:35 AM"}
+{"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Key (medium)","id":2840,"quantity":1,"price":0}],"date":"Apr 4, 2024, 7:22:00 PM"}
+{"name":"Man","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":94},{"name":"Grimy marrentill","id":201,"quantity":1,"price":104},{"name":"Key (medium)","id":2840,"quantity":1,"price":0}],"date":"Sep 7, 2024, 4:34:10 PM"}

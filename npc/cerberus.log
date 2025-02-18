@@ -705,3 +705,6 @@
 {"name":"Cerberus","level":318,"killCount":767,"type":"NPC","drops":[{"name":"Infernal ashes","id":25778,"quantity":1,"price":4004},{"name":"Rune halberd","id":3202,"quantity":1,"price":37661}],"date":"Jul 6, 2023, 9:02:01 PM"}
 {"name":"Cerberus","level":318,"killCount":768,"type":"NPC","drops":[{"name":"Infernal ashes","id":25778,"quantity":1,"price":4004},{"name":"Rune pickaxe","id":1275,"quantity":1,"price":18673}],"date":"Jul 6, 2023, 9:03:57 PM"}
 {"name":"Cerberus","level":318,"killCount":769,"type":"NPC","drops":[{"name":"Infernal ashes","id":25778,"quantity":1,"price":4004},{"name":"Soul rune","id":566,"quantity":100,"price":251}],"date":"Jul 6, 2023, 9:05:37 PM"}
+{"name":"Cerberus","level":318,"killCount":770,"type":"NPC","drops":[{"name":"Infernal ashes","id":25778,"quantity":1,"price":3836},{"name":"Tooth half of key","id":985,"quantity":1,"price":9567}],"date":"Jul 6, 2024, 4:45:15 PM"}
+{"name":"Cerberus","level":318,"killCount":771,"type":"NPC","drops":[{"name":"Infernal ashes","id":25778,"quantity":1,"price":3836},{"name":"Soul rune","id":566,"quantity":100,"price":175}],"date":"Jul 6, 2024, 4:46:45 PM"}
+{"name":"Cerberus","level":318,"killCount":772,"type":"NPC","drops":[{"name":"Infernal ashes","id":25778,"quantity":1,"price":3836},{"name":"Fire rune","id":554,"quantity":300,"price":5}],"date":"Jul 6, 2024, 4:48:01 PM"}

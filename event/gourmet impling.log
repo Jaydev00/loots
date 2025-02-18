@@ -79,3 +79,7 @@
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Frog spawn","id":5004,"quantity":1,"price":0},{"name":"Clue scroll (easy)","id":23158,"quantity":1,"price":0}],"date":"Nov 3, 2023, 3:30:17 PM"}
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Bass","id":365,"quantity":1,"price":87}],"date":"Jan 18, 2024, 11:02:11 AM"}
 {"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Tuna","id":361,"quantity":1,"price":99}],"date":"Jan 29, 2024, 9:27:01 PM"}
+{"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Chocolate cake","id":1897,"quantity":1,"price":129}],"date":"Mar 6, 2024, 11:07:20 AM"}
+{"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Meat pie","id":2327,"quantity":1,"price":48}],"date":"May 2, 2024, 5:20:31 PM"}
+{"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Frog spawn","id":5004,"quantity":1,"price":0}],"date":"Jul 15, 2024, 9:40:10 PM"}
+{"name":"Gourmet impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Spice","id":2007,"quantity":1,"price":33}],"date":"Jul 17, 2024, 8:27:16 PM"}

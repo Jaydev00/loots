@@ -1,1 +1,19 @@
 {"name":"Zombie","level":23,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze axe","id":1351,"quantity":1,"price":183}],"date":"Aug 20, 2022, 2:22:15 PM"}
+{"name":"Zombie","level":80,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Leather boots","id":1061,"quantity":1,"price":51}],"date":"Apr 13, 2024, 7:38:43 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":239}],"date":"Nov 2, 2024, 6:12:08 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Fishing bait","id":313,"quantity":7,"price":5}],"date":"Nov 2, 2024, 6:12:11 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Fishing bait","id":313,"quantity":7,"price":5}],"date":"Nov 2, 2024, 6:12:14 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Coins","id":995,"quantity":26,"price":1}],"date":"Nov 2, 2024, 6:12:17 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Grimy harralander","id":205,"quantity":1,"price":719}],"date":"Nov 2, 2024, 6:12:18 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:12:28 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Iron mace","id":1420,"quantity":1,"price":17}],"date":"Nov 2, 2024, 6:12:28 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Coins","id":995,"quantity":18,"price":1}],"date":"Nov 2, 2024, 6:12:37 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:12:42 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:12:45 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Coins","id":995,"quantity":18,"price":1}],"date":"Nov 2, 2024, 6:12:49 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Iron dagger","id":1203,"quantity":1,"price":94}],"date":"Nov 2, 2024, 6:12:53 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:12:56 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Iron dagger","id":1203,"quantity":1,"price":94}],"date":"Nov 2, 2024, 6:13:01 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Fishing bait","id":313,"quantity":7,"price":5}],"date":"Nov 2, 2024, 6:13:02 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:13:07 PM"}
+{"name":"Zombie","level":24,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Fishing bait","id":313,"quantity":7,"price":5}],"date":"Nov 2, 2024, 6:13:12 PM"}

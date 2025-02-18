@@ -56,3 +56,62 @@
 {"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":94},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Mar 2, 2023, 12:10:43 AM"}
 {"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":94},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Mar 2, 2023, 12:10:55 AM"}
 {"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":94},{"name":"Strawberry seed","id":5323,"quantity":4,"price":3}],"date":"Mar 2, 2023, 12:11:05 AM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 6, 2024, 4:01:26 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 6, 2024, 4:01:51 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 6, 2024, 4:02:02 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121}],"date":"Jul 6, 2024, 4:02:17 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Clay","id":434,"quantity":1,"price":102}],"date":"Jul 6, 2024, 4:02:27 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121}],"date":"Jul 6, 2024, 4:02:44 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Clay","id":434,"quantity":1,"price":102}],"date":"Jul 6, 2024, 4:02:56 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Fungicide","id":7432,"quantity":1,"price":0}],"date":"Jul 6, 2024, 4:03:10 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 6, 2024, 4:03:21 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Steel 2h sword","id":1311,"quantity":1,"price":280}],"date":"Jul 6, 2024, 4:03:38 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 6, 2024, 4:03:46 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 6, 2024, 4:04:03 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 6, 2024, 4:04:17 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121}],"date":"Jul 6, 2024, 4:04:27 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Fungicide","id":7432,"quantity":1,"price":0}],"date":"Jul 6, 2024, 4:04:36 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Steel axe","id":1353,"quantity":1,"price":68}],"date":"Jul 6, 2024, 4:04:56 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 6, 2024, 4:05:07 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 6, 2024, 4:05:17 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":121},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 6, 2024, 4:05:30 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Steel 2h sword","id":1311,"quantity":1,"price":287}],"date":"Jul 7, 2024, 3:56:31 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 7, 2024, 3:56:43 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 7, 2024, 3:56:56 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Fungicide","id":7432,"quantity":1,"price":0}],"date":"Jul 7, 2024, 3:57:10 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 3:57:26 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119}],"date":"Jul 7, 2024, 3:57:41 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 7, 2024, 3:58:03 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Clay","id":434,"quantity":1,"price":104}],"date":"Jul 7, 2024, 3:58:14 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Earth rune","id":557,"quantity":15,"price":4}],"date":"Jul 7, 2024, 3:58:31 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119}],"date":"Jul 7, 2024, 3:58:50 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 3:59:08 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 3:59:20 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Strawberry seed","id":5323,"quantity":4,"price":2}],"date":"Jul 7, 2024, 3:59:33 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Fungicide","id":7432,"quantity":1,"price":0}],"date":"Jul 7, 2024, 3:59:43 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Grimy tarromin","id":203,"quantity":1,"price":167}],"date":"Jul 7, 2024, 4:00:00 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 7, 2024, 4:00:14 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 7, 2024, 4:00:33 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 4:00:57 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119}],"date":"Jul 7, 2024, 4:01:13 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 4:01:25 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119}],"date":"Jul 7, 2024, 4:01:41 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Mort myre fungus","id":2970,"quantity":1,"price":359}],"date":"Jul 7, 2024, 5:56:34 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":220,"price":1}],"date":"Jul 7, 2024, 5:56:47 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 5:56:56 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Uncut sapphire","id":1623,"quantity":1,"price":210}],"date":"Jul 7, 2024, 5:57:08 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Steel 2h sword","id":1311,"quantity":1,"price":287}],"date":"Jul 7, 2024, 5:57:18 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119}],"date":"Jul 7, 2024, 5:57:33 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Grimy tarromin","id":203,"quantity":1,"price":167}],"date":"Jul 7, 2024, 5:57:52 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Clay","id":434,"quantity":1,"price":104}],"date":"Jul 7, 2024, 5:58:06 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 5:58:21 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 5:58:35 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Uncut emerald","id":1621,"quantity":1,"price":388}],"date":"Jul 7, 2024, 5:58:49 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119}],"date":"Jul 7, 2024, 5:59:01 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119}],"date":"Jul 7, 2024, 5:59:15 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 5:59:27 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Steel axe","id":1353,"quantity":1,"price":64}],"date":"Jul 7, 2024, 5:59:41 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Steel 2h sword","id":1311,"quantity":1,"price":287}],"date":"Jul 7, 2024, 6:00:00 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Strawberry seed","id":5323,"quantity":4,"price":2}],"date":"Jul 7, 2024, 6:00:14 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":102,"price":1}],"date":"Jul 7, 2024, 6:00:29 PM"}
+{"name":"Zygomite","level":86,"killCount":-1,"type":"NPC","drops":[{"name":"Ashes","id":592,"quantity":1,"price":119},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Jul 7, 2024, 6:00:47 PM"}

@@ -13,3 +13,7 @@
 {"name":"Death spawn","level":46,"killCount":-1,"type":"NPC","drops":[{"name":"Fiendish ashes","id":25766,"quantity":1,"price":146},{"name":"Fiendish ashes","id":25766,"quantity":1,"price":146}],"date":"Jan 2, 2023, 8:33:11 PM"}
 {"name":"Death spawn","level":46,"killCount":-1,"type":"NPC","drops":[{"name":"Fiendish ashes","id":25766,"quantity":1,"price":146},{"name":"Fiendish ashes","id":25766,"quantity":1,"price":146}],"date":"Jan 12, 2023, 11:13:02 AM"}
 {"name":"Death spawn","level":46,"killCount":-1,"type":"NPC","drops":[{"name":"Fiendish ashes","id":25766,"quantity":1,"price":146}],"date":"Jan 12, 2023, 11:13:02 AM"}
+{"name":"Death spawn","level":46,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant battleaxe","id":1371,"quantity":1,"price":2224}],"date":"Jun 24, 2024, 6:09:37 PM"}
+{"name":"Death spawn","level":46,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant battleaxe","id":1371,"quantity":1,"price":2396}],"date":"Jul 3, 2024, 12:26:22 PM"}
+{"name":"Death spawn","level":46,"killCount":-1,"type":"NPC","drops":[{"name":"Rune sq shield","id":1185,"quantity":1,"price":22568},{"name":"Death rune","id":560,"quantity":23,"price":149},{"name":"Rune axe","id":1359,"quantity":1,"price":7264}],"date":"Jul 3, 2024, 1:35:36 PM"}
+{"name":"Death spawn","level":46,"killCount":-1,"type":"NPC","drops":[{"name":"Rune sq shield","id":1185,"quantity":1,"price":22479}],"date":"Aug 15, 2024, 4:55:37 PM"}

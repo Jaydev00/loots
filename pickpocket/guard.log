@@ -47,3 +47,4 @@
 {"name":"Guard","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22527,"quantity":1,"price":0}],"date":"Dec 2, 2022, 12:33:55 PM"}
 {"name":"Guard","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22527,"quantity":1,"price":0}],"date":"Dec 2, 2022, 12:33:56 PM"}
 {"name":"Guard","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coin pouch","id":22527,"quantity":1,"price":0}],"date":"Dec 2, 2022, 12:33:58 PM"}
+{"name":"Guard","level":-1,"killCount":-1,"type":"PICKPOCKET","drops":[{"name":"Coins","id":995,"quantity":30,"price":1},{"name":"Coin pouch","id":22527,"quantity":1,"price":0}],"date":"May 16, 2024, 8:47:48 AM"}

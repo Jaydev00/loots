@@ -52,3 +52,5 @@
 {"name":"Earth impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Compost","id":6033,"quantity":6,"price":33}],"date":"Oct 10, 2023, 11:21:07 AM"}
 {"name":"Earth impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Fire talisman","id":1442,"quantity":1,"price":1363}],"date":"Oct 10, 2023, 8:47:00 PM"}
 {"name":"Earth impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Fire talisman","id":1442,"quantity":1,"price":1402}],"date":"Oct 14, 2023, 8:26:54 PM"}
+{"name":"Earth impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Fire talisman","id":1442,"quantity":1,"price":1968}],"date":"Feb 14, 2024, 3:06:04 PM"}
+{"name":"Earth impling","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Earth rune","id":557,"quantity":32,"price":5}],"date":"Oct 22, 2024, 4:55:05 PM"}

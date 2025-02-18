@@ -1412,3 +1412,24 @@
 {"name":"Goblin","level":5,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Hammer","id":2347,"quantity":1,"price":80}],"date":"Aug 27, 2023, 10:42:46 PM"}
 {"name":"Goblin","level":5,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Grapes","id":1987,"quantity":1,"price":8}],"date":"Aug 27, 2023, 10:43:01 PM"}
 {"name":"Goblin","level":5,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":72},{"name":"Coins","id":995,"quantity":1,"price":1}],"date":"Aug 27, 2023, 10:43:27 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:36:26 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:36:27 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Goblin mail","id":288,"quantity":1,"price":686}],"date":"Nov 2, 2024, 6:36:29 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Hammer","id":2347,"quantity":1,"price":60}],"date":"Nov 2, 2024, 6:36:31 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Coins","id":995,"quantity":5,"price":1}],"date":"Nov 2, 2024, 6:36:33 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Coins","id":995,"quantity":9,"price":1}],"date":"Nov 2, 2024, 6:36:34 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Hammer","id":2347,"quantity":1,"price":60}],"date":"Nov 2, 2024, 6:36:37 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Goblin mail","id":288,"quantity":1,"price":686}],"date":"Nov 2, 2024, 6:36:38 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:36:41 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:36:42 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:36:42 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Coins","id":995,"quantity":5,"price":1}],"date":"Nov 2, 2024, 6:36:44 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Hammer","id":2347,"quantity":1,"price":60}],"date":"Nov 2, 2024, 6:36:45 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Coins","id":995,"quantity":5,"price":1}],"date":"Nov 2, 2024, 6:36:47 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Goblin mail","id":288,"quantity":1,"price":686}],"date":"Nov 2, 2024, 6:36:52 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:36:53 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Hammer","id":2347,"quantity":1,"price":60}],"date":"Nov 2, 2024, 6:36:54 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114}],"date":"Nov 2, 2024, 6:36:56 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Goblin book","id":10999,"quantity":1,"price":420}],"date":"Nov 2, 2024, 6:36:57 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":114},{"name":"Bronze spear","id":1237,"quantity":1,"price":600}],"date":"Nov 2, 2024, 6:37:01 PM"}
+{"name":"Goblin","level":2,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":90},{"name":"Earth rune","id":557,"quantity":4,"price":5}],"date":"Nov 24, 2024, 11:11:49 AM"}

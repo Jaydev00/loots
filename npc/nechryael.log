@@ -1100,3 +1100,4 @@
 {"name":"Nechryael","level":115,"killCount":-1,"type":"NPC","drops":[{"name":"Malicious ashes","id":25772,"quantity":1,"price":1564},{"name":"Coins","id":995,"quantity":3166,"price":1}],"date":"Jan 25, 2023, 3:27:57 PM"}
 {"name":"Nechryael","level":115,"killCount":-1,"type":"NPC","drops":[{"name":"Malicious ashes","id":25772,"quantity":1,"price":1352},{"name":"Tuna","id":361,"quantity":1,"price":173}],"date":"Oct 10, 2023, 9:23:56 PM"}
 {"name":"Nechryael","level":115,"killCount":-1,"type":"NPC","drops":[{"name":"Malicious ashes","id":25772,"quantity":1,"price":1339},{"name":"Cactus seed","id":5280,"quantity":1,"price":37},{"name":"Avantoe seed","id":5298,"quantity":1,"price":2519}],"date":"Oct 14, 2023, 6:30:59 PM"}
+{"name":"Nechryael","level":115,"killCount":-1,"type":"NPC","drops":[{"name":"Malicious ashes","id":25772,"quantity":1,"price":1125},{"name":"Death rune","id":560,"quantity":5,"price":166}],"date":"Feb 12, 2025, 2:05:11 PM"}

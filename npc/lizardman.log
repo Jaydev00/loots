@@ -16,3 +16,5 @@
 {"name":"Lizardman","level":62,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":73},{"name":"Lizardman fang","id":13391,"quantity":1,"price":19}],"date":"May 26, 2022, 12:26:00 PM"}
 {"name":"Lizardman","level":62,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":73}],"date":"May 26, 2022, 12:26:21 PM"}
 {"name":"Lizardman","level":53,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":79},{"name":"Xerician fabric","id":13383,"quantity":1,"price":838}],"date":"Nov 5, 2023, 7:02:49 PM"}
+{"name":"Lizardman","level":53,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":131}],"date":"Jun 24, 2024, 9:32:13 PM"}
+{"name":"Lizardman","level":53,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":131},{"name":"Lizardman fang","id":13391,"quantity":1,"price":16}],"date":"Jun 24, 2024, 9:33:22 PM"}
