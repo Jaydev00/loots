@@ -121,3 +121,5 @@
 {"name":"Casket (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Uncut jade","id":1628,"quantity":44,"price":106}],"date":"Jan 27, 2025, 12:00:43 PM"}
 {"name":"Casket (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Rune chainbody","id":1114,"quantity":1,"price":29545},{"name":"Clue scroll (medium)","id":2849,"quantity":1,"price":0}],"date":"Jan 27, 2025, 12:00:45 PM"}
 {"name":"Casket (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Sapphire bracelet","id":11073,"quantity":10,"price":545}],"date":"Jan 27, 2025, 12:00:48 PM"}
+{"name":"Casket (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Ruby bracelet","id":11086,"quantity":8,"price":1191}],"date":"Jan 9, 2025, 10:50:13 AM"}
+{"name":"Casket (Tempoross)","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Sapphire bracelet","id":11073,"quantity":11,"price":580}],"date":"Jan 9, 2025, 10:50:14 AM"}

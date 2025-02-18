@@ -127,3 +127,7 @@
 {"name":"Spiritual Warrior","level":158,"killCount":-1,"type":"NPC","drops":[{"name":"Super attack(1)","id":149,"quantity":1,"price":364}],"date":"Apr 15, 2024, 12:28:02 AM"}
 {"name":"Spiritual Warrior","level":158,"killCount":-1,"type":"NPC","drops":[{"name":"Prayer potion(2)","id":141,"quantity":1,"price":4287}],"date":"Apr 15, 2024, 1:14:57 PM"}
 {"name":"Spiritual warrior","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Leather gloves","id":1059,"quantity":1,"price":11}],"date":"Nov 1, 2024, 4:17:58 PM"}
+{"name":"Spiritual warrior","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Black warhammer","id":1341,"quantity":1,"price":401}],"date":"Feb 11, 2025, 12:42:52 PM"}
+{"name":"Spiritual warrior","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Leather gloves","id":1059,"quantity":1,"price":10}],"date":"Feb 11, 2025, 12:43:55 PM"}
+{"name":"Spiritual warrior","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Rune halberd","id":3202,"quantity":1,"price":37808}],"date":"Feb 11, 2025, 12:45:33 PM"}
+{"name":"Spiritual warrior","level":125,"killCount":-1,"type":"NPC","drops":[{"name":"Rune kiteshield","id":1201,"quantity":1,"price":32154}],"date":"Feb 11, 2025, 12:46:12 PM"}

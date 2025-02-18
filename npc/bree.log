@@ -139,3 +139,7 @@
 {"name":"Bree","level":146,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Steel dart","id":808,"quantity":97,"price":3}],"date":"Feb 11, 2025, 10:48:49 PM"}
 {"name":"Bree","level":146,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Steel dart","id":808,"quantity":99,"price":3}],"date":"Feb 11, 2025, 10:51:23 PM"}
 {"name":"Bree","level":146,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":1376,"price":1}],"date":"Feb 11, 2025, 10:54:02 PM"}
+{"name":"Bree","level":146,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":1362,"price":1}],"date":"Feb 11, 2025, 12:53:14 PM"}
+{"name":"Bree","level":146,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Unicorn horn","id":238,"quantity":6,"price":661}],"date":"Feb 11, 2025, 12:56:33 PM"}
+{"name":"Bree","level":146,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Monkfish","id":7946,"quantity":1,"price":397},{"name":"Monkfish","id":7946,"quantity":1,"price":397},{"name":"Monkfish","id":7946,"quantity":1,"price":397}],"date":"Feb 11, 2025, 12:58:44 PM"}
+{"name":"Bree","level":146,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":1360,"price":1}],"date":"Feb 11, 2025, 1:01:52 PM"}

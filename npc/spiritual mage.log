@@ -755,3 +755,27 @@
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Super restore(3)","id":3026,"quantity":1,"price":7485}],"date":"Feb 11, 2025, 10:11:39 PM"}
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":46,"price":1}],"date":"Feb 11, 2025, 10:12:04 PM"}
 {"name":"Spiritual Mage","level":182,"killCount":-1,"type":"NPC","drops":[{"name":"Ancient brew(2)","id":26344,"quantity":1,"price":1137}],"date":"Feb 11, 2025, 10:12:38 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":20,"price":97}],"date":"Feb 11, 2025, 12:40:58 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Dust rune","id":4696,"quantity":15,"price":8}],"date":"Feb 11, 2025, 12:41:19 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mud rune","id":4698,"quantity":20,"price":97}],"date":"Feb 11, 2025, 12:41:54 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":94}],"date":"Feb 11, 2025, 12:42:07 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":5}],"date":"Feb 11, 2025, 12:42:30 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Body rune","id":559,"quantity":35,"price":7}],"date":"Feb 11, 2025, 12:43:10 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":50,"price":5}],"date":"Feb 11, 2025, 12:43:19 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":94}],"date":"Feb 11, 2025, 12:43:44 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Death rune","id":560,"quantity":15,"price":166}],"date":"Feb 11, 2025, 12:44:11 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Feb 11, 2025, 12:44:36 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":18,"price":101}],"date":"Feb 11, 2025, 12:45:03 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":20,"price":121}],"date":"Feb 11, 2025, 12:46:40 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Feb 11, 2025, 12:46:55 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Pure essence","id":7937,"quantity":90,"price":1}],"date":"Feb 11, 2025, 12:47:12 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Air rune","id":556,"quantity":30,"price":5}],"date":"Feb 11, 2025, 12:47:25 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":94}],"date":"Feb 11, 2025, 12:47:43 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":94}],"date":"Feb 11, 2025, 12:48:03 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Nature rune","id":561,"quantity":18,"price":101}],"date":"Feb 11, 2025, 12:48:14 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":138}],"date":"Feb 11, 2025, 12:48:33 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Antipoison(3)","id":176,"quantity":5,"price":225}],"date":"Feb 11, 2025, 12:48:48 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Astral rune","id":9075,"quantity":15,"price":138}],"date":"Feb 11, 2025, 12:49:08 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Antipoison(3)","id":176,"quantity":5,"price":225}],"date":"Feb 11, 2025, 12:49:28 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Chaos rune","id":562,"quantity":10,"price":94}],"date":"Feb 11, 2025, 12:50:15 PM"}
+{"name":"Spiritual mage","level":120,"killCount":-1,"type":"NPC","drops":[{"name":"Mist rune","id":4695,"quantity":20,"price":121}],"date":"Feb 11, 2025, 12:50:20 PM"}

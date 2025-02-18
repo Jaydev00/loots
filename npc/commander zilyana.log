@@ -145,3 +145,7 @@
 {"name":"Commander Zilyana","level":596,"killCount":149,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":19560,"price":1}],"date":"Feb 11, 2025, 10:48:35 PM"}
 {"name":"Commander Zilyana","level":596,"killCount":150,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Adamant platebody","id":1123,"quantity":1,"price":9507}],"date":"Feb 11, 2025, 10:51:03 PM"}
 {"name":"Commander Zilyana","level":596,"killCount":151,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Saradomin sword","id":11838,"quantity":1,"price":171223}],"date":"Feb 11, 2025, 10:53:44 PM"}
+{"name":"Commander Zilyana","level":596,"killCount":118,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":19649,"price":1}],"date":"Feb 11, 2025, 12:53:01 PM"}
+{"name":"Commander Zilyana","level":596,"killCount":119,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Rune kiteshield","id":1201,"quantity":1,"price":32154}],"date":"Feb 11, 2025, 12:55:25 PM"}
+{"name":"Commander Zilyana","level":596,"killCount":120,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Law rune","id":563,"quantity":100,"price":123}],"date":"Feb 11, 2025, 12:57:39 PM"}
+{"name":"Commander Zilyana","level":596,"killCount":121,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":19542,"price":1}],"date":"Feb 11, 2025, 1:00:33 PM"}

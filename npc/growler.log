@@ -139,3 +139,7 @@
 {"name":"Growler","level":139,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":1389,"price":1}],"date":"Feb 11, 2025, 10:48:59 PM"}
 {"name":"Growler","level":139,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Snape grass","id":232,"quantity":5,"price":462}],"date":"Feb 11, 2025, 10:51:38 PM"}
 {"name":"Growler","level":139,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Summer pie","id":7218,"quantity":1,"price":646}],"date":"Feb 11, 2025, 10:54:10 PM"}
+{"name":"Growler","level":139,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Grimy ranarr weed","id":208,"quantity":1,"price":5972}],"date":"Feb 11, 2025, 12:53:37 PM"}
+{"name":"Growler","level":139,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Summer pie","id":7218,"quantity":1,"price":646}],"date":"Feb 11, 2025, 12:56:13 PM"}
+{"name":"Growler","level":139,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":1355,"price":1}],"date":"Feb 11, 2025, 12:58:22 PM"}
+{"name":"Growler","level":139,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":1303,"price":1}],"date":"Feb 11, 2025, 1:01:45 PM"}
