@@ -140,3 +140,4 @@
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":35,"price":1}],"date":"Feb 9, 2025, 12:27:13 PM"}
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":439}],"date":"Feb 11, 2025, 11:11:02 PM"}
 {"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Coins","id":995,"quantity":35,"price":1}],"date":"Feb 11, 2025, 11:16:41 PM"}
+{"name":"Armadylean guard","level":97,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":76},{"name":"Uncut ruby","id":1619,"quantity":1,"price":1051}],"date":"Mar 10, 2025, 9:25:49 AM"}
