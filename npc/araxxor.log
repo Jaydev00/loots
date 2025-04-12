@@ -276,3 +276,43 @@
 {"name":"Araxxor","level":-1,"killCount":301,"type":"NPC","drops":[],"date":"Mar 11, 2025, 3:18:47 PM"}
 {"name":"Araxxor","level":-1,"killCount":302,"type":"NPC","drops":[{"name":"Dragon mace","id":1434,"quantity":2,"price":29319}],"date":"Mar 11, 2025, 3:21:14 PM"}
 {"name":"Araxxor","level":-1,"killCount":303,"type":"NPC","drops":[{"name":"Araxyte venom sack","id":29784,"quantity":12,"price":1825}],"date":"Mar 11, 2025, 3:23:33 PM"}
+{"name":"Araxxor","level":-1,"killCount":304,"type":"NPC","drops":[{"name":"Mahogany seed","id":21488,"quantity":1,"price":919}],"date":"Mar 11, 2025, 9:41:18 PM"}
+{"name":"Araxxor","level":-1,"killCount":305,"type":"NPC","drops":[{"name":"Rune platelegs","id":1080,"quantity":2,"price":37851}],"date":"Mar 11, 2025, 9:44:17 PM"}
+{"name":"Araxxor","level":-1,"killCount":306,"type":"NPC","drops":[{"name":"Hunters\u0027 sunlight crossbow","id":28869,"quantity":1,"price":6291},{"name":"Assembler max cape","id":21898,"quantity":1,"price":0}],"date":"Mar 11, 2025, 9:47:05 PM"}
+{"name":"Araxxor","level":-1,"killCount":307,"type":"NPC","drops":[{"name":"Coal","id":454,"quantity":120,"price":155}],"date":"Mar 11, 2025, 9:49:33 PM"}
+{"name":"Araxxor","level":-1,"killCount":308,"type":"NPC","drops":[{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":8718},{"name":"Wild pie","id":7208,"quantity":3,"price":628},{"name":"Super combat potion(1)","id":12701,"quantity":1,"price":3636}],"date":"Mar 11, 2025, 9:51:53 PM"}
+{"name":"Araxxor","level":-1,"killCount":309,"type":"NPC","drops":[{"name":"Raw shark","id":384,"quantity":100,"price":697}],"date":"Mar 11, 2025, 9:54:32 PM"}
+{"name":"Araxxor","level":-1,"killCount":310,"type":"NPC","drops":[{"name":"Spider cave teleport","id":29782,"quantity":3,"price":39890}],"date":"Mar 11, 2025, 9:57:23 PM"}
+{"name":"Araxxor","level":-1,"killCount":311,"type":"NPC","drops":[{"name":"Earth orb","id":576,"quantity":45,"price":781}],"date":"Mar 11, 2025, 9:59:44 PM"}
+{"name":"Araxxor","level":-1,"killCount":312,"type":"NPC","drops":[{"name":"Rune kiteshield","id":1202,"quantity":2,"price":32107}],"date":"Mar 11, 2025, 10:02:03 PM"}
+{"name":"Araxxor","level":-1,"killCount":313,"type":"NPC","drops":[{"name":"Yew seed","id":5315,"quantity":1,"price":27315}],"date":"Mar 11, 2025, 10:04:01 PM"}
+{"name":"Araxxor","level":-1,"killCount":314,"type":"NPC","drops":[{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":8718},{"name":"Wild pie","id":7208,"quantity":2,"price":628},{"name":"Super combat potion(1)","id":12701,"quantity":1,"price":3636}],"date":"Mar 11, 2025, 10:06:14 PM"}
+{"name":"Araxxor","level":-1,"killCount":315,"type":"NPC","drops":[{"name":"Ranarr seed","id":5295,"quantity":3,"price":22836}],"date":"Mar 11, 2025, 10:08:58 PM"}
+{"name":"Araxxor","level":-1,"killCount":316,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":2,"price":1017},{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":8718},{"name":"Araxyte venom sack","id":29784,"quantity":1,"price":1825}],"date":"Mar 11, 2025, 10:11:14 PM"}
+{"name":"Araxxor","level":-1,"killCount":317,"type":"NPC","drops":[{"name":"Ranarr seed","id":5295,"quantity":1,"price":22836}],"date":"Mar 11, 2025, 10:13:36 PM"}
+{"name":"Araxxor","level":-1,"killCount":318,"type":"NPC","drops":[{"name":"Araxyte venom sack","id":29784,"quantity":6,"price":1825}],"date":"Mar 11, 2025, 10:17:23 PM"}
+{"name":"Araxxor","level":-1,"killCount":319,"type":"NPC","drops":[],"date":"Mar 11, 2025, 10:19:19 PM"}
+{"name":"Araxxor","level":-1,"killCount":320,"type":"NPC","drops":[{"name":"Araxyte venom sack","id":29784,"quantity":12,"price":1825}],"date":"Mar 11, 2025, 10:21:41 PM"}
+{"name":"Araxxor","level":-1,"killCount":321,"type":"NPC","drops":[{"name":"Spider cave teleport","id":29782,"quantity":3,"price":39890}],"date":"Mar 11, 2025, 10:23:50 PM"}
+{"name":"Araxxor","level":-1,"killCount":322,"type":"NPC","drops":[{"name":"Spider cave teleport","id":29782,"quantity":3,"price":39890}],"date":"Mar 11, 2025, 10:26:44 PM"}
+{"name":"Araxxor","level":-1,"killCount":323,"type":"NPC","drops":[{"name":"Antidote++(3)","id":5955,"quantity":6,"price":5455}],"date":"Mar 11, 2025, 10:29:55 PM"}
+{"name":"Araxxor","level":-1,"killCount":324,"type":"NPC","drops":[{"name":"Dragon mace","id":1434,"quantity":2,"price":29319}],"date":"Mar 11, 2025, 10:32:11 PM"}
+{"name":"Araxxor","level":-1,"killCount":325,"type":"NPC","drops":[{"name":"Earth orb","id":576,"quantity":45,"price":781}],"date":"Mar 11, 2025, 10:34:32 PM"}
+{"name":"Araxxor","level":-1,"killCount":326,"type":"NPC","drops":[{"name":"Papaya tree seed","id":5288,"quantity":1,"price":1645}],"date":"Mar 11, 2025, 10:36:52 PM"}
+{"name":"Araxxor","level":-1,"killCount":327,"type":"NPC","drops":[{"name":"Yew logs","id":1516,"quantity":70,"price":292}],"date":"Mar 11, 2025, 10:39:31 PM"}
+{"name":"Araxxor","level":-1,"killCount":328,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":2,"price":1017},{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":8718},{"name":"Super combat potion(1)","id":12701,"quantity":1,"price":3636}],"date":"Mar 11, 2025, 10:42:02 PM"}
+{"name":"Araxxor","level":-1,"killCount":329,"type":"NPC","drops":[{"name":"Yew logs","id":1516,"quantity":70,"price":292}],"date":"Mar 11, 2025, 10:44:15 PM"}
+{"name":"Araxxor","level":-1,"killCount":330,"type":"NPC","drops":[],"date":"Mar 11, 2025, 10:47:21 PM"}
+{"name":"Araxxor","level":-1,"killCount":331,"type":"NPC","drops":[{"name":"Earth orb","id":576,"quantity":45,"price":781}],"date":"Mar 11, 2025, 10:49:50 PM"}
+{"name":"Araxxor","level":-1,"killCount":332,"type":"NPC","drops":[{"name":"Antidote++(3)","id":5955,"quantity":6,"price":5455}],"date":"Mar 11, 2025, 10:51:57 PM"}
+{"name":"Araxxor","level":-1,"killCount":333,"type":"NPC","drops":[{"name":"Wine of zamorak","id":246,"quantity":8,"price":1024}],"date":"Mar 11, 2025, 10:54:27 PM"}
+{"name":"Araxxor","level":-1,"killCount":334,"type":"NPC","drops":[{"name":"Rune kiteshield","id":1202,"quantity":2,"price":32107}],"date":"Mar 11, 2025, 10:59:08 PM"}
+{"name":"Araxxor","level":-1,"killCount":335,"type":"NPC","drops":[{"name":"Manta ray","id":391,"quantity":1,"price":1664}],"date":"Mar 11, 2025, 11:02:19 PM"}
+{"name":"Araxxor","level":-1,"killCount":336,"type":"NPC","drops":[{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":8718},{"name":"Araxyte venom sack","id":29784,"quantity":1,"price":1825},{"name":"Shark","id":385,"quantity":1,"price":1017},{"name":"Shark","id":385,"quantity":1,"price":1017}],"date":"Mar 11, 2025, 11:04:37 PM"}
+{"name":"Araxxor","level":-1,"killCount":337,"type":"NPC","drops":[{"name":"Yew seed","id":5315,"quantity":1,"price":27315}],"date":"Mar 11, 2025, 11:06:46 PM"}
+{"name":"Araxxor","level":-1,"killCount":338,"type":"NPC","drops":[{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":8718},{"name":"Wild pie","id":7208,"quantity":2,"price":628},{"name":"Super combat potion(1)","id":12701,"quantity":1,"price":3636},{"name":"Wild pie","id":7208,"quantity":1,"price":628}],"date":"Mar 11, 2025, 11:09:02 PM"}
+{"name":"Araxxor","level":-1,"killCount":339,"type":"NPC","drops":[{"name":"Shark","id":385,"quantity":2,"price":1017},{"name":"Prayer potion(4)","id":2434,"quantity":1,"price":8718},{"name":"Araxyte venom sack","id":29784,"quantity":1,"price":1825}],"date":"Mar 11, 2025, 11:11:36 PM"}
+{"name":"Araxxor","level":-1,"killCount":340,"type":"NPC","drops":[{"name":"Red spiders\u0027 eggs","id":224,"quantity":40,"price":370}],"date":"Mar 11, 2025, 11:14:22 PM"}
+{"name":"Araxxor","level":-1,"killCount":341,"type":"NPC","drops":[{"name":"Antidote++(3)","id":5955,"quantity":6,"price":5455}],"date":"Mar 11, 2025, 11:16:54 PM"}
+{"name":"Araxxor","level":-1,"killCount":342,"type":"NPC","drops":[{"name":"Raw shark","id":384,"quantity":100,"price":697}],"date":"Mar 11, 2025, 11:19:16 PM"}
+{"name":"Araxxor","level":-1,"killCount":343,"type":"NPC","drops":[{"name":"Ranarr seed","id":5295,"quantity":3,"price":22836}],"date":"Mar 11, 2025, 11:21:29 PM"}
