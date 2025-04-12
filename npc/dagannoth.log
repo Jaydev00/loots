@@ -2744,3 +2744,312 @@
 {"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 29, 2024, 2:45:56 PM"}
 {"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 29, 2024, 2:46:16 PM"}
 {"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":394}],"date":"Apr 29, 2024, 2:46:30 PM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:31:26 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 10:31:38 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Oyster pearls","id":413,"quantity":1,"price":1060}],"date":"Apr 5, 2025, 10:31:53 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:32:12 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:32:36 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:32:53 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:33:10 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:33:23 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Poison ivy seed","id":5106,"quantity":1,"price":12}],"date":"Apr 5, 2025, 10:35:53 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:35:56 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 10:35:58 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 10:36:10 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw tuna","id":359,"quantity":1,"price":63}],"date":"Apr 5, 2025, 10:36:16 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:36:22 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:36:34 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Toadflax seed","id":5296,"quantity":1,"price":1009}],"date":"Apr 5, 2025, 10:36:58 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:37:06 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril javelin","id":828,"quantity":3,"price":21}],"date":"Apr 5, 2025, 10:37:13 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Kwuarm seed","id":5299,"quantity":1,"price":1592}],"date":"Apr 5, 2025, 10:37:20 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:37:23 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:37:29 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Kwuarm seed","id":5299,"quantity":1,"price":1592}],"date":"Apr 5, 2025, 10:37:34 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:37:46 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 10:37:48 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Snapdragon seed","id":5300,"quantity":1,"price":44586}],"date":"Apr 5, 2025, 10:38:00 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:38:04 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:38:10 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled dagannoth head","id":13492,"quantity":1,"price":2035},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:38:14 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Casket","id":405,"quantity":1,"price":1947}],"date":"Apr 5, 2025, 10:38:19 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Poison ivy seed","id":5106,"quantity":1,"price":12}],"date":"Apr 5, 2025, 10:38:54 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:38:59 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (medium)","id":10260,"quantity":1,"price":0},{"name":"Mithril javelin","id":828,"quantity":3,"price":21}],"date":"Apr 5, 2025, 10:39:06 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:39:14 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:39:15 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:39:19 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:39:29 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Toadflax seed","id":5296,"quantity":1,"price":1009}],"date":"Apr 5, 2025, 10:39:31 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:39:33 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw tuna","id":359,"quantity":1,"price":63}],"date":"Apr 5, 2025, 10:39:43 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Oyster pearls","id":413,"quantity":1,"price":1060}],"date":"Apr 5, 2025, 10:39:47 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:39:49 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 10:40:04 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:40:09 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 10:40:11 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 10:40:25 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut sapphire","id":1623,"quantity":1,"price":291}],"date":"Apr 5, 2025, 10:40:30 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Poison ivy seed","id":5106,"quantity":1,"price":12}],"date":"Apr 5, 2025, 10:40:31 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:40:35 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Cactus seed","id":5280,"quantity":1,"price":82}],"date":"Apr 5, 2025, 10:40:40 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 10:40:57 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:41:28 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:41:34 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 10:41:37 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:41:46 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:41:56 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:41:57 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:42:01 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:42:01 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Belladonna seed","id":5281,"quantity":1,"price":184}],"date":"Apr 5, 2025, 10:42:06 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:42:10 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:42:25 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:42:42 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:42:45 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:42:49 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:43:04 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:43:09 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:43:20 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:43:27 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:43:34 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:43:54 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:43:56 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (medium)","id":12069,"quantity":1,"price":0},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:44:03 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 10:44:19 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:44:22 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 10:44:41 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 10:44:51 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 10:44:53 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:45:16 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 10:45:24 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:45:26 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:45:31 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled dagannoth head","id":13492,"quantity":1,"price":2035},{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:45:34 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:45:43 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 10:45:43 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Fishing bait","id":313,"quantity":50,"price":5}],"date":"Apr 5, 2025, 10:45:50 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 10:46:03 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 10:46:04 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:46:07 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:46:19 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:46:21 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:47:05 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:47:09 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Toadflax seed","id":5296,"quantity":1,"price":1009}],"date":"Apr 5, 2025, 10:47:12 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Snapdragon seed","id":5300,"quantity":1,"price":44586}],"date":"Apr 5, 2025, 10:47:28 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:47:35 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:47:36 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Belladonna seed","id":5281,"quantity":1,"price":184}],"date":"Apr 5, 2025, 10:47:47 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:47:59 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled dagannoth head","id":13492,"quantity":1,"price":2035},{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:48:00 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:48:04 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:48:13 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:48:18 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled dagannoth head","id":13492,"quantity":1,"price":2035},{"name":"Mithril javelin","id":828,"quantity":3,"price":21}],"date":"Apr 5, 2025, 10:48:35 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:48:40 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 10:48:49 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:48:59 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled dagannoth head","id":13492,"quantity":1,"price":2035},{"name":"Potato cactus seed","id":22873,"quantity":1,"price":6}],"date":"Apr 5, 2025, 10:49:06 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 10:49:13 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 10:49:15 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:49:16 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 10:49:20 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:49:25 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:49:37 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:49:44 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:49:44 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:50:15 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:50:22 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:50:27 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:50:34 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":446}],"date":"Apr 5, 2025, 10:50:39 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:50:49 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Casket","id":405,"quantity":1,"price":1947}],"date":"Apr 5, 2025, 10:50:54 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:52:10 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Cadantine seed","id":5301,"quantity":1,"price":3621}],"date":"Apr 5, 2025, 10:52:22 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Belladonna seed","id":5281,"quantity":1,"price":184}],"date":"Apr 5, 2025, 10:52:30 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Poison ivy seed","id":5106,"quantity":1,"price":12}],"date":"Apr 5, 2025, 10:52:33 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:52:37 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:52:46 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:52:58 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 10:53:10 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Fishing bait","id":313,"quantity":50,"price":5}],"date":"Apr 5, 2025, 10:53:15 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:53:17 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:53:36 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Opal bolt tips","id":45,"quantity":12,"price":39}],"date":"Apr 5, 2025, 10:53:45 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 10:53:57 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:53:57 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Poison ivy seed","id":5106,"quantity":1,"price":12}],"date":"Apr 5, 2025, 10:54:03 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:54:09 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:54:13 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Belladonna seed","id":5281,"quantity":1,"price":184}],"date":"Apr 5, 2025, 10:54:25 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 10:54:30 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:54:40 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Opal bolt tips","id":45,"quantity":12,"price":39}],"date":"Apr 5, 2025, 10:54:59 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:55:03 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:55:13 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:55:13 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 10:55:18 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:55:27 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:55:34 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw tuna","id":359,"quantity":1,"price":63}],"date":"Apr 5, 2025, 10:55:47 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Dark totem base","id":19679,"quantity":1,"price":0},{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:55:54 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Cactus seed","id":5280,"quantity":1,"price":82}],"date":"Apr 5, 2025, 10:56:07 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 10:56:17 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 10:56:25 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:56:39 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:56:42 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:56:43 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 10:56:47 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril javelin","id":828,"quantity":3,"price":21}],"date":"Apr 5, 2025, 10:56:52 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:56:58 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 10:57:12 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:57:13 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:57:24 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Avantoe seed","id":5298,"quantity":1,"price":981}],"date":"Apr 5, 2025, 10:57:24 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 10:57:38 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 10:57:43 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:57:45 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Snapdragon seed","id":5300,"quantity":1,"price":44586}],"date":"Apr 5, 2025, 10:58:00 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 10:58:04 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:58:06 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Steel arrow","id":886,"quantity":15,"price":17}],"date":"Apr 5, 2025, 10:58:07 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Oyster pearls","id":413,"quantity":1,"price":1060}],"date":"Apr 5, 2025, 10:58:31 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw tuna","id":359,"quantity":1,"price":63}],"date":"Apr 5, 2025, 10:58:33 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:58:40 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 10:58:45 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:58:46 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw lobster","id":377,"quantity":1,"price":69}],"date":"Apr 5, 2025, 10:58:58 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:59:00 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw lobster","id":377,"quantity":1,"price":69}],"date":"Apr 5, 2025, 10:59:03 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:59:23 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 10:59:25 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 10:59:34 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 10:59:48 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 10:59:49 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw lobster","id":377,"quantity":1,"price":69}],"date":"Apr 5, 2025, 10:59:58 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Snapdragon seed","id":5300,"quantity":1,"price":44586}],"date":"Apr 5, 2025, 11:00:05 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 11:00:06 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:00:12 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:00:20 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:00:22 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Toadflax seed","id":5296,"quantity":1,"price":1009}],"date":"Apr 5, 2025, 11:00:36 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril javelin","id":828,"quantity":3,"price":21}],"date":"Apr 5, 2025, 11:00:45 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Avantoe seed","id":5298,"quantity":1,"price":981}],"date":"Apr 5, 2025, 11:00:51 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:01:00 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:01:17 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 11:01:23 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:01:23 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:01:26 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 11:01:29 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 11:01:45 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 11:01:50 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Cactus seed","id":5280,"quantity":1,"price":82}],"date":"Apr 5, 2025, 11:02:03 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Casket","id":405,"quantity":1,"price":1947}],"date":"Apr 5, 2025, 11:02:04 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:02:23 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 11:02:28 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:02:38 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Opal bolt tips","id":45,"quantity":12,"price":39}],"date":"Apr 5, 2025, 11:02:40 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 11:02:48 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:02:50 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Toadflax seed","id":5296,"quantity":1,"price":1009}],"date":"Apr 5, 2025, 11:03:03 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 11:03:06 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Opal bolt tips","id":45,"quantity":12,"price":39}],"date":"Apr 5, 2025, 11:03:08 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 11:03:21 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 11:03:26 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:03:28 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Toadflax seed","id":5296,"quantity":1,"price":1009}],"date":"Apr 5, 2025, 11:03:40 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled dagannoth head","id":13492,"quantity":1,"price":2035},{"name":"Raw tuna","id":359,"quantity":1,"price":63}],"date":"Apr 5, 2025, 11:03:59 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:04:00 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 11:04:03 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 11:04:10 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 11:04:25 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:04:30 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 11:04:35 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Casket","id":405,"quantity":1,"price":1947}],"date":"Apr 5, 2025, 11:04:51 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Cactus seed","id":5280,"quantity":1,"price":82}],"date":"Apr 5, 2025, 11:05:05 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw tuna","id":359,"quantity":1,"price":63}],"date":"Apr 5, 2025, 11:05:15 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 11:05:15 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:05:29 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:05:30 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:05:35 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 11:05:46 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Oyster pearl","id":411,"quantity":1,"price":102},{"name":"Oyster pearl","id":411,"quantity":1,"price":102}],"date":"Apr 5, 2025, 11:05:51 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:05:53 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:06:06 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 11:06:10 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 11:06:22 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:06:29 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 11:06:43 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Mithril spear","id":1243,"quantity":1,"price":302}],"date":"Apr 5, 2025, 11:06:47 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:06:47 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:07:09 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:07:14 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:07:19 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 11:07:29 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:07:29 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 11:07:29 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled dagannoth head","id":13492,"quantity":1,"price":2035},{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:07:32 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:07:38 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14}],"date":"Apr 5, 2025, 11:07:38 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 11:07:39 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Belladonna seed","id":5281,"quantity":1,"price":184}],"date":"Apr 5, 2025, 11:07:50 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 11:07:54 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:08:02 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 11:08:08 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:08:14 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 11:08:27 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Harpoon","id":311,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:08:35 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:08:35 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 11:08:44 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Toadflax seed","id":5296,"quantity":1,"price":1009}],"date":"Apr 5, 2025, 11:08:58 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:09:08 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:09:17 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Oyster pearl","id":411,"quantity":1,"price":102},{"name":"Oyster pearl","id":411,"quantity":1,"price":102}],"date":"Apr 5, 2025, 11:09:17 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Toadflax seed","id":5296,"quantity":1,"price":1009}],"date":"Apr 5, 2025, 11:09:25 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:09:29 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:09:36 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 11:09:43 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 11:10:00 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:10:05 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:10:14 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:10:19 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:10:36 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Irit seed","id":5297,"quantity":1,"price":99}],"date":"Apr 5, 2025, 11:10:43 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:10:45 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:10:49 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:10:50 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Water rune","id":555,"quantity":15,"price":4}],"date":"Apr 5, 2025, 11:10:53 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:10:53 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:10:56 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw tuna","id":359,"quantity":1,"price":63}],"date":"Apr 5, 2025, 11:11:20 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":25,"price":1}],"date":"Apr 5, 2025, 11:11:30 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66},{"name":"Raw sardine","id":327,"quantity":1,"price":66}],"date":"Apr 5, 2025, 11:11:49 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Fishing bait","id":313,"quantity":50,"price":5}],"date":"Apr 5, 2025, 11:11:49 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:11:54 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175},{"name":"Raw herring","id":345,"quantity":1,"price":175}],"date":"Apr 5, 2025, 11:12:02 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":41,"price":1}],"date":"Apr 5, 2025, 11:12:08 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:12:09 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Cactus seed","id":5280,"quantity":1,"price":82}],"date":"Apr 5, 2025, 11:12:11 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:12:20 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14},{"name":"Seaweed","id":401,"quantity":1,"price":14}],"date":"Apr 5, 2025, 11:12:32 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:12:36 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Avantoe seed","id":5298,"quantity":1,"price":981}],"date":"Apr 5, 2025, 11:12:53 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Steel arrow","id":886,"quantity":15,"price":17}],"date":"Apr 5, 2025, 11:13:12 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:13:15 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:13:22 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":44,"price":1}],"date":"Apr 5, 2025, 11:13:23 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Avantoe seed","id":5298,"quantity":1,"price":981}],"date":"Apr 5, 2025, 11:13:29 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Oyster pearl","id":411,"quantity":1,"price":102},{"name":"Oyster pearl","id":411,"quantity":1,"price":102}],"date":"Apr 5, 2025, 11:13:29 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Avantoe seed","id":5298,"quantity":1,"price":981}],"date":"Apr 5, 2025, 11:13:35 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Steel arrow","id":886,"quantity":15,"price":17}],"date":"Apr 5, 2025, 11:13:38 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:13:48 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled dagannoth head","id":13492,"quantity":1,"price":2035},{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 11:14:13 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Poison ivy seed","id":5106,"quantity":1,"price":12}],"date":"Apr 5, 2025, 11:14:23 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Lobster pot","id":301,"quantity":1,"price":136}],"date":"Apr 5, 2025, 11:14:36 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Coins","id":995,"quantity":56,"price":1}],"date":"Apr 5, 2025, 11:14:46 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Feather","id":314,"quantity":15,"price":3}],"date":"Apr 5, 2025, 11:14:48 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Belladonna seed","id":5281,"quantity":1,"price":184}],"date":"Apr 5, 2025, 11:15:03 AM"}
+{"name":"Dagannoth","level":92,"killCount":-1,"type":"NPC","drops":[{"name":"Iron spear","id":1239,"quantity":1,"price":748}],"date":"Apr 5, 2025, 11:15:08 AM"}
+{"name":"Dagannoth","level":74,"killCount":-1,"type":"NPC","drops":[{"name":"Bronze spear","id":1237,"quantity":1,"price":340}],"date":"Apr 5, 2025, 11:15:08 AM"}

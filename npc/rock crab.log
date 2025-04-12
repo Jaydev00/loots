@@ -6,3 +6,4 @@
 {"name":"Rock Crab","level":13,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (elite)","id":19790,"quantity":1,"price":0}],"date":"Feb 2, 2024, 11:52:02 AM"}
 {"name":"Rock Crab","level":13,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (elite)","id":12123,"quantity":1,"price":0},{"name":"Coal","id":453,"quantity":1,"price":163},{"name":"Coal","id":453,"quantity":1,"price":163}],"date":"Nov 2, 2024, 8:12:40 PM"}
 {"name":"Rock Crab","level":13,"killCount":-1,"type":"NPC","drops":[{"name":"Tin ore","id":438,"quantity":1,"price":27},{"name":"Tin ore","id":438,"quantity":1,"price":27},{"name":"Tin ore","id":438,"quantity":1,"price":27}],"date":"Nov 2, 2024, 8:12:57 PM"}
+{"name":"Rock Crab","level":13,"killCount":-1,"type":"NPC","drops":[{"name":"Reward casket (elite)","id":20543,"quantity":1,"price":0},{"name":"Iron ore","id":440,"quantity":1,"price":238}],"date":"Mar 15, 2025, 12:28:22 PM"}

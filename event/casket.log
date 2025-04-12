@@ -76,3 +76,4 @@
 {"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Coins","id":995,"quantity":80,"price":1}],"date":"Jul 23, 2023, 11:17:33 AM"}
 {"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[],"date":"Apr 13, 2024, 10:58:12 AM"}
 {"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Uncut emerald","id":1621,"quantity":1,"price":477}],"date":"Sep 9, 2024, 1:49:09 PM"}
+{"name":"Casket","level":-1,"killCount":-1,"type":"EVENT","drops":[{"name":"Uncut ruby","id":1619,"quantity":1,"price":992}],"date":"Apr 5, 2025, 10:51:55 AM"}

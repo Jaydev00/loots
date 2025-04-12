@@ -905,3 +905,4 @@
 {"name":"Aberrant spectre","level":96,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy dwarf weed","id":217,"quantity":1,"price":2611}],"date":"Sep 12, 2024, 4:15:50 PM"}
 {"name":"Aberrant spectre","level":96,"killCount":-1,"type":"NPC","drops":[{"name":"Grimy marrentill","id":201,"quantity":1,"price":102},{"name":"Grimy tarromin","id":203,"quantity":1,"price":144},{"name":"Grimy marrentill","id":201,"quantity":1,"price":102}],"date":"Sep 12, 2024, 4:16:14 PM"}
 {"name":"Aberrant spectre","level":96,"killCount":-1,"type":"NPC","drops":[{"name":"Adamant platelegs","id":1073,"quantity":1,"price":3528}],"date":"Sep 12, 2024, 4:16:22 PM"}
+{"name":"Aberrant spectre","level":96,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (elite)","id":19796,"quantity":1,"price":0},{"name":"Grimy ranarr weed","id":207,"quantity":1,"price":5926},{"name":"Grimy guam leaf","id":199,"quantity":1,"price":563}],"date":"Mar 15, 2025, 12:27:32 PM"}

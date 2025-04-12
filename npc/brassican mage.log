@@ -181,3 +181,6 @@
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Onion seed","id":5319,"quantity":1,"price":1}],"date":"Feb 12, 2025, 2:24:56 PM"}
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Death rune","id":560,"quantity":18,"price":166}],"date":"Feb 12, 2025, 2:39:34 PM"}
 {"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":66},{"name":"Grimy kwuarm","id":213,"quantity":1,"price":3489}],"date":"Feb 12, 2025, 2:41:34 PM"}
+{"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":65},{"name":"Earth rune","id":557,"quantity":7,"price":5}],"date":"Mar 16, 2025, 1:45:24 PM"}
+{"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":65},{"name":"Pure essence","id":7937,"quantity":25,"price":1}],"date":"Mar 16, 2025, 1:48:30 PM"}
+{"name":"Brassican Mage","level":140,"killCount":-1,"type":"NPC","drops":[{"name":"Bones","id":526,"quantity":1,"price":68},{"name":"Grimy irit leaf","id":209,"quantity":1,"price":1217}],"date":"Mar 28, 2025, 9:53:27 AM"}

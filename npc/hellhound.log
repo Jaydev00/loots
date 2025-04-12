@@ -912,3 +912,6 @@
 {"name":"Hellhound","level":122,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":7252,"quantity":1,"price":0}],"date":"Jul 6, 2024, 10:19:13 PM"}
 {"name":"Hellhound","level":122,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":3573,"quantity":1,"price":0}],"date":"Jul 6, 2024, 10:23:35 PM"}
 {"name":"Hellhound","level":122,"killCount":-1,"type":"NPC","drops":[{"name":"Vile ashes","id":25769,"quantity":1,"price":220},{"name":"Clue scroll (elite)","id":12102,"quantity":1,"price":0}],"date":"Feb 9, 2025, 12:26:20 PM"}
+{"name":"Hellhound","level":122,"killCount":-1,"type":"NPC","drops":[{"name":"Ensouled hellhound head","id":26996,"quantity":1,"price":4462}],"date":"Mar 26, 2025, 11:27:37 AM"}
+{"name":"Hellhound","level":122,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":25792,"quantity":1,"price":0}],"date":"Mar 26, 2025, 11:28:13 AM"}
+{"name":"Hellhound","level":122,"killCount":-1,"type":"NPC","drops":[{"name":"Clue scroll (hard)","id":7247,"quantity":1,"price":0}],"date":"Mar 26, 2025, 11:29:55 AM"}
